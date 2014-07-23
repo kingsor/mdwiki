@@ -1,6 +1,9 @@
-## Getting started with Node.js
+Getting started with Node.js
+============================
 
-### Official site
+Official site
+-------------
+
 * [node.js](http://nodejs.org/)  
   Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.com/p/v8/) for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 * [node project on github](https://github.com/joyent/node)  
@@ -10,7 +13,9 @@
 * [Projects, Applications, and Companies Using Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
   An always updated list.
 
-### The event loop
+The event loop
+--------------
+
 * [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)  
   The first basic thesis of node.js is that I/O is expensive.
 * [Philip Roberts: Help, I'm stuck in an event-loop](http://vimeo.com/96425312)  
@@ -18,9 +23,13 @@
   We say things like "don't block the event loop", "make sure your code runs at 60 frames-per-second", "well of course, it won't work, that function is an asynchronous callback!"
   If you're anything like me, you nod and agree, as if it's all obvious, even though you don't actually know what the words mean; and yet, finding good explanations of how JavaScript actually _works_ isn't all that easy, so let's learn!
   With some handy visualisations, and fun hacks, let's get an intuitive understanding of what happens when JavaScript runs. Beginner or veteran, I'm sure you'll learn something!
-  <iframe src="//player.vimeo.com/video/96425312" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96425312">Philip Roberts: Help, I'm stuck in an event-loop.</a> from <a href="http://vimeo.com/edgecaseuk">Neo (UK)</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+  [](http://vimeo.com/96425312)
 
-### Starting from Javascript
+
+Starting from Javascript
+------------------------
+
 * [It is time to learn Javascript](http://wildermuth.com/2014/6/22/It_Is_Time_to_Learn_JavaScript)  
   JavaScript is having a great year. With the continuation of web development, Node.js, and even Apple adding JavaScript as a replacement for their AppleScript.  
   You may be waiting until you have to learn JavaScript, but maybe you should learn JavaScript to make you a better developer.
