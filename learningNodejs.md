@@ -47,7 +47,9 @@ Starting from Javascript
   Design patterns also provide us a common vocabulary to describe solutions. This can be significantly simpler than describing syntax and semantics when we're attempting to convey a way of structuring a solution in code form to others.  
   In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
 
-### Learning Node.js
+Learning Node.js
+----------------
+
 * [The Node Beginner Book](http://www.nodebeginner.org/) - A Node.js tutorial by [Manuel Kiessling](http://twitter.com/manuelkiessling)  
   The aim of this document is to get you started with developing applications with Node.js, teaching you everything you need to know about "advanced" JavaScript along the way. It goes way beyond your typical "Hello World" tutorial.  
   This document will probably fit best for readers that have a background similar to my own: experienced with at least one object-oriented language like Ruby, Python, PHP or Java, only little experience with JavaScript, and completely new to Node.js.  
@@ -60,13 +62,17 @@ However, because functions and objects in JavaScript are different from their co
 * [Node.js Production Practices](http://www.joyent.com/developers/node)  
   As part of our stewardship of Node.js®, this resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production. From coding styles and design considerations through debugging large distributed systems, we intend to document our Node.js development and production practices.
 
-### Tools
+Tools
+-----
+
 * [Building with Node.js Tools for Visual Studio](http://kowsheek.com/2014/05/21/building-with-node-js-tools-visual-studio/) (May 21, 2014)  
   [Node.js Tools for Visual Studio (NTVS)](https://nodejstools.codeplex.com/) is a free, open source plugin that turns Visual Studio into a Node.js IDE. NTVS supports Editing, Intellisense, Profiling, npm, TypeScript, Debugging locally and remotely (Windows/MacOS/Linux), as well Azure Web Sites and Cloud Service.
 * [CODIO](https://codio.com/) - The World's Most Powerful Browser-Based IDE  
   Codio is a powerful cloud and browser based IDE that covers the complete web development cycle; from prototype to deployment
 
-### Configuring a project
+Configuring a project
+---------------------
+
 * [package.json](http://browsenpm.org/package.json)  
   This is an interactive guide for exploring various important properties of the package.json packaging format for node.js applications.
 * [package.json](https://www.npmjs.org/doc/json.html)  
@@ -74,7 +80,9 @@ However, because functions and objects in JavaScript are different from their co
 * [Package.json dependencies done right](http://blog.nodejitsu.com/package-dependencies-done-right/)  
   Dependency management. Need I say more? Entire developer ecosystems live and die by how dependency management works.
 
-### Samples
+Samples
+-------
+
 * [Getting started with Node.js, Express, MongoDB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)  
   The Dead-Simple Step-by-Step Guide for Front-End Developers to Getting Up and Running with Node.JS, Express, Jade, and MongoDB.
 * **Nodecellar Sample** by [Christophe Coenraets](http://coenraets.org/blog/)
@@ -105,14 +113,18 @@ However, because functions and objects in JavaScript are different from their co
   Today we will be creating a very simple Todo application using the MEAN (Mongo, Express, Angular, Node) stack.
 * [Blog rolling with mongoDB, express and Node.js](http://howtonode.org/express-mongodb) (July 24, 2011)
 
-### Interesting projects
+Interesting projects
+--------------------
+
 * [Chorus.js](http://www.chorusjs.com/)  
   Chorus.js offers a very simple way to orchestrate asynchronous and synchronous APIs in Node applications.  
   Our focus is on making chorus.js super easy to learn and use everywhere, from an entry-level Raspberry Pi to the most scalable PaaS, and anything in between.
 
-### Resources
+Resources
+---------
 
-#### Newsletters
+### Newsletters
+
 * [DailyJS](http://dailyjs.com/)  
   Incredible source of articles about javascript. Very inspirational.
 * [Node Weekly Issues](http://nodeweekly.com/issues)
@@ -120,19 +132,6 @@ However, because functions and objects in JavaScript are different from their co
 * [Mobile Web Weekly Issues](http://mobilewebweekly.co/issues)
   A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web
 
-#### Sites
-* [UI Corner](http://www.uicorner.com/)  
-  User interface design inspiration &amp; design tools
-* [Creative Tim](http://www.creative-tim.com/)  
-  Nice widgets for web apps.
-* [Bootsketch](http://yago.github.io/Bootsketch/)  
-  Bootsketch is a little Bootstrap 3 theme for wireframing web project. Unlike the Bootstrap base theme, Bootsketch provide a sketch render to remove all "design feeling" when we present it to client or during user test.
-* [20 Useful Javascript Resources for Web Developers and Designers](http://enbeeone3.com/20-free-javascript-resources-web-developers-designers/)  
-  Today we have a collection of great javascript resources for web designers and developers which are free of cost. This is the list of s javascript libraries, platforms, online tools, applications and much more.
-    * [Reveal.js](http://lab.hakim.se/reveal-js/)  
-        HTML Presentations Made Easy
-* [Outdated Browser](http://outdatedbrowser.com/)  
-  After spending too much time optimising our websites for old browsers, we at Büro, decided to create a solution that not only saves you time, but also sends you home earlier.
+### Sites
 
 
-> Written with [StackEdit](https://stackedit.io/).
