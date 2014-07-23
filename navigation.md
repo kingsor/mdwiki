@@ -2,16 +2,12 @@
 
 [About](index.md)
 
-[Docs]()
+[Articles]()
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
+  * [Learning Node.js](learningNodejs.md)
   - - - -
   * # Advanced
   * [Customizing](customizing.md)
-
-[Gimmicks](gimmicks.md)
 
 [Tutorials]()
 
