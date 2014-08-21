@@ -118,7 +118,7 @@ However, because functions and objects in JavaScript are different from their co
   Chorus.js offers a very simple way to orchestrate asynchronous and synchronous APIs in Node applications.  
   Our focus is on making chorus.js super easy to learn and use everywhere, from an entry-level Raspberry Pi to the most scalable PaaS, and anything in between.
 
-### Resources
+## Resources
 
 ### Newsletters
 
@@ -126,8 +126,6 @@ However, because functions and objects in JavaScript are different from their co
   Incredible source of articles about javascript. Very inspirational.
 * [Node Weekly Issues](http://nodeweekly.com/issues)
   A free, once–weekly e-mail round-up of Node.js news and articles
-* [Mobile Web Weekly Issues](http://mobilewebweekly.co/issues)
-  A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web
 
 ### Sites
 
