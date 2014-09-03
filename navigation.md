@@ -2,16 +2,16 @@
 
 [About](index.md)m
 
-[My notes](post-ideas.md)
+[My notes](Post-Ideas.md)
 
 [Articles]()
 
   * # Backend  
   * [Learning Node.js](learningNodejs.md)
-  * [Learning MongoDB](learningMongodb.md)
+  * [Learning MongoDB](LearningMongodb.md)
   - - - -
   * # Mobile
-  * [Learning Android](learningAndroid.md)
+  * [Learning Android](LearningAndroid.md)
   * [Not So Native](mobile.md)
 
 [Blog](blog.md)
