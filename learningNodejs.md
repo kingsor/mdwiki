@@ -25,18 +25,25 @@
   
   <iframe src="http://player.vimeo.com/video/96425312" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96425312">Philip Roberts: Help, I'm stuck in an event-loop.</a> from <a href="http://vimeo.com/edgecaseuk">Neo (UK)</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
-  [](http://vimeo.com/96425312)
 
 
 ## Starting from Javascript
 
+* [Why JavaScript Is The Next (or first) Programming Language You Should Learn](http://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/) (Aug 04, 2014)  
+  I’ve been asked a few times recently what programming language I’d learn if I was just starting out. Right now, the answer is definitely JavaScript, and here’s why.
 * [It is time to learn Javascript](http://wildermuth.com/2014/6/22/It_Is_Time_to_Learn_JavaScript) (June 22, 2014)  
   JavaScript is having a great year. With the continuation of web development, Node.js, and even Apple adding JavaScript as a replacement for their AppleScript.  
   You may be waiting until you have to learn JavaScript, but maybe you should learn JavaScript to make you a better developer.
-* [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)  
-  This course outline gives you a structured and instructive roadmap on how to learn JavaScript properly and thoroughly, from absolute beginner to attainment.
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) (July 2, 2014)  
   Functional programming is the mustachioed hipster of programming paradigms. Originally relegated to the annals of computer science academia, functional programming has had a recent renaissance that is due largely to its utility in distributed systems (and probably also because “pure” functional languages like Haskell are difficult to grasp, which gives them a certain cachet).
+* [A JavaScript survival guide](http://www.2ality.com/2014/07/javascript-survival-guide.html) (July 14, 2014) by [Axel Rauschmayer](http://rauschma.de/)  
+  Are you a programmer who is considering learning JavaScript, but unsure whether it is worth the pain? Then this blog post is for you: I argue that it is worth it and give tips for surviving the language.
+* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) (Jun 22, 2013) by [Axel Rauschmayer](http://rauschma.de/)   
+  This blog post enables you to get started with JavaScript as quickly as possible – if you already know how to program. It describes the smallest subset of the language that allows you to be productive. I call that subset “Basic JavaScript” and recommend to program in it for a while, before moving on to more details and advanced topics. Learning everything at once is too confusing. The post concludes with tips for what to learn next.
+* [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/) (Feb 24, 2013)  
+  This course outline gives you a structured and instructive roadmap on how to learn JavaScript properly and thoroughly, from absolute beginner to attainment.
+* [Object-oriented JavaScript for C# Developers](http://www.barbarianmeetscoding.com/blog/2014/08/20/object-oriented-javascript-for-c-sharp-developers/) (Aug 20, 2014) by[Jaime González](https://twitter.com/vintharas)  
+  Through the last couple of years I have been working on improving my JavaScript-Fu. From looking down at JavaScript with contempt, I have come to love the language and its little idiosyncrasies. In this article, I will attempt to write the article I would have loved to read, the first time I set my mind to re-learn JavaScript the proper way.
 * [10 Most Common JavaScript Mistakes](http://www.toptal.com/javascript/10-most-common-javascript-mistakes) (July 7, 2014)  
   At first blush, JavaScript may seem quite simple. And indeed, to build basic JavaScript functionality into a web page is a fairly straightforward task for any experienced software developer, even if they’re new to JavaScript. Yet the language is significantly more nuanced, powerful, and complex than one would initially be lead to believe. Indeed, many of JavaScript’s subtleties lead to a number of common mistakes – 10 of which we discuss here – that are important to be aware of and avoid in one’s quest to become a master JavaScript developer.
 * [Top 10 JavaScript traps for a C# developer](http://www.codetails.com/2014/05/27/top-10-javascript-traps-for-a-c-developer/) (May 27, 2014)  
@@ -70,6 +77,13 @@ However, because functions and objects in JavaScript are different from their co
 
 * [Building with Node.js Tools for Visual Studio](http://kowsheek.com/2014/05/21/building-with-node-js-tools-visual-studio/) (May 21, 2014)  
   [Node.js Tools for Visual Studio (NTVS)](https://nodejstools.codeplex.com/) is a free, open source plugin that turns Visual Studio into a Node.js IDE. NTVS supports Editing, Intellisense, Profiling, npm, TypeScript, Debugging locally and remotely (Windows/MacOS/Linux), as well Azure Web Sites and Cloud Service.
+  * [Node.js Tools for Visual Studio 1.0 Beta 2 Available](http://blogs.msdn.com/b/visualstudio/archive/2014/07/23/node-js-tools-for-visual-studio-1-0-beta-2-available.aspx) (Jul 23, 2014)
+* [Nodeclipse & Enide](http://www.nodeclipse.org/)  
+  Nodeclipse effort is driven by developers like you, who devoted some time to make and improve Node.js tooling, learn better Node.js, JavaScript and Eclipse. Often by chance we discovered useful plugin and practices. Now imagine if only we all shared our tricks to get more of our tools.  
+  Nodeclipse holds not only Node.js (with debugger, code completion, see [features](http://www.nodeclipse.org/features)), but also simple tools for PhantomJS, Nashorn, Vert.x for JavaScript, Maven, Gradle (including Android) for Java, and some general tools like REST-Client, EditBox background color themes and [others](http://www.nodeclipse.org/enide/tools).
+* [WebStorm - The smartest Javascript IDE](http://www.jetbrains.com/webstorm/)  
+  Create great websites and applications in a great IDE. The best JavaScript IDE and HTML editor is at your service.
+
 
 ## Configuring a project
 
