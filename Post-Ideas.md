@@ -1,57 +1,105 @@
 
-## Topics to Focus on
+# Notes and ideas
 
-* Side projects
-	* [Arduino Yun on Arduino Blog](http://blog.arduino.cc/category/arduino/yun/)
-	* [Getting Started with Arduino YUN](http://fibasile.github.io/arduino-yun-getting-started.html)
-	* [Static Site Generators](http://staticsitegenerators.net/) - [JSON data](http://staticsitegenerators.net/list.json)
-	* [Graze](https://github.com/mikoskinen/graze) - Static site generator using Razor
-	* [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
-	* [Coding An HTML 5 Layout From Scratch](http://www.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/)
-	* [IT-eBooks-API.info](http://it-ebooks-api.info/) - IT eBooks Open API v.1
-	* [Nodeclipse Prerequisites](http://www.nodeclipse.org/updates/)
-* FabLabs in Milan
-	* [Arduino Basic Connections - The Book](https://www.indiegogo.com/projects/arduino-basic-connections-the-book)
-	* [toolChair](http://pietroleoni.com/#toolchair) by Pietro Leoni
-	* [The FabLab - Milano](http://www.thefablab.it/)
-	* [Elettronica per Maker](http://www.zeppelinmaker.it/category/e-pills/)
-	* [FabLab Milano](http://www.fablabmilano.it/)
-	* [Come fotografare piccoli oggetti](http://www.frankensteingarage.it/blog/2014/08/03/come-fotografare-piccoli-oggetti/)
-	* [The SnapPiCam | A Raspberry Pi Camera](http://www.instructables.com/id/The-SnapPiCam-A-Raspberry-Pi-Camera/)
-* Product design
-	* [Cognitive Overhead, Or Why Your Product Isn’t As Simple As You Think](http://techcrunch.com/2013/04/20/cognitive-overhead/) (Apr 20, 2013) by [David Lieb](http://twitter.com/dflieb), co-founder and CEO of [Bump](http://bu.mp/company)
-	* [Want to make a great product? An engineer isn’t enough](http://thenextweb.com/dd/2013/04/14/want-to-make-a-great-product-an-engineer-isnt-enough/) (Apr 14, 2013) by [Nick Kishfy](https://twitter.com/Kishfy), CEO of [MojoTech](http://www.mojotech.com/)
-	* [User Experience Debt](http://nform.com/blog/2013/05/user-experience-debt/) (May 7, 2013) by [Andrew Wright](https://twitter.com/andrewjwright)
-	* [Designing for real world mobile use](http://www.theguardian.com/media-network/2013/may/24/mobile-design-real-world-use) (May 24, 2013) by [Luke Wroblewski](https://twitter.com/lukew), CEO and co-founder of [Input Factory Inc.](http://www.polarb.com/)
-	* [The importance of sketching in product]
-* Product management
-	* [Four pricing principles to never forget]
-* Web APIs (REST and more)
-	* [The Web API checklist - 43 things to think about]
-* Managing distributed teams  
-	* [The most valuable lessons I learned from managing a virtual team](http://thenextweb.com/entrepreneur/2013/12/04/valuable-lessons-learned-managing-virtual-team/)
+## Side projects
+
+* [Arduino Yun on Arduino Blog](http://blog.arduino.cc/category/arduino/yun/)
+* [Getting Started with Arduino YUN](http://fibasile.github.io/arduino-yun-getting-started.html)
+* [Static Site Generators](http://staticsitegenerators.net/) - [JSON data](http://staticsitegenerators.net/list.json)
+* [Graze](https://github.com/mikoskinen/graze) - Static site generator using Razor
+* [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+* [Coding An HTML 5 Layout From Scratch](http://www.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/)
+* [IT-eBooks-API.info](http://it-ebooks-api.info/) - IT eBooks Open API v.1
+* [Nodeclipse Prerequisites](http://www.nodeclipse.org/updates/)
+* [Arduino Basic Connections - The Book](https://www.indiegogo.com/projects/arduino-basic-connections-the-book)
+* [The SnapPiCam | A Raspberry Pi Camera](http://www.instructables.com/id/The-SnapPiCam-A-Raspberry-Pi-Camera/)
+* [Raspberry Pi Camera Module](http://www.raspberrypi.org/products/camera-module/)  
+  The Raspberry Pi camera module can be used to take high-definition video, as well as stills photographs. It’s easy to use for beginners, but has plenty to offer advanced users if you’re looking to expand your knowledge.
+* [Turn your Pi into a low-cost HD surveillance cam](http://www.raspberrypi.org/turn-your-pi-into-a-low-cost-hd-surveillance-cam/)  
+  Local government CCTV is awful, and it’s everywhere in the UK. But I’m much happier about surveillance in the hands of private people – it’s a matter of quis custodiet ipsos custodes? (Who watches the watchmen?), and I’m pleased to see the Raspberry Pi bring the price of networked motion-sensitive HD surveillance cameras down to be affordable by consumers. Off the shelf, you’re looking at prices in the hundreds of pounds. Use a Pi to make your own HD system, and your setup should come in at under £50, with a bit of shopping around.
+* [Feeder Twitter](http://www.raspberrypi.org/feeder-tweeter/)  
+  This is hands down the best bird feeder project we’ve seen yet. I got an email from the folks at [Manifold](http://wearemanifold.com/), a creative design agency in San Francisco, this week. One of their developers works from Denver, Colorado, and has been spending some time building the ultimate bird table. It’s autonomous, it’s solar-powered, it feeds, it photographs, it tweets images when a bird comes to feed, and it’s open source.   
+  Read Chad’s account of what they were up to on [Manifold’s blog](http://wearemanifold.com/if-you-build-it-they-will-feed/) (which has a ton of information on the development of the Feeder Tweeter), and then head to the [Feeder Tweeter](http://www.feedertweeter.net/) site itself, where there is an [area for developers](http://www.feedertweeter.net/developers) with a hardware list, wiring diagrams, links to all the code you’ll need on GitHub and much more.
+* [Timelapse tutorial from Carrie Anne's Geek Gurl Diaries](http://www.raspberrypi.org/timelapse-tutorial-from-carrie-annes-geek-gurl-diaries/)  
+  Even though Carrie Anne Philbin is working here at Pi Towers now, she’s still carrying on with the Geek Gurl Diaries YouTube channel that she set up before she joined us – for which we’re all profoundly grateful, because her videos are some of the best tutorials we’ve seen.
 
 
-## Mobile with Javascript
+## FabLabs in Milan
 
-* [The PhoneGap Developer App](http://app.phonegap.com/)  
-  Develop locally then see the changes instantly on your mobile device.
-* [Apache Cordova](https://cordova.apache.org/)  
-  It is a platform for building native mobile applications using HTML, CSS
-and JavaScript.
-* [Ionic](http://ionicframework.com/)  
-  The beautiful, open source front-end framework for developing hybrid mobile apps with HTML5. 
-* [Sencha Touch](http://www.sencha.com/products/touch/)  
-  With over 50 built-in components, themes for every popular mobile platform, and a built-in MVC system, Sencha Touch provides everything you need to create powerful, universal mobile web apps.
-* [Mobile Angular UI](http://mobileangularui.com/)  
-  Mobile Angular UI is a mobile UI framework just like Sencha Touch or jQuery Mobile. If you know Angular JS and Twitter Bootstrap you already know it! 
-* [Trigger](https://trigger.io/)  
-  Build native apps for iOS and Android using JavaScript
-* [Add to Homescreen](https://developer.chrome.com/multidevice/android/installtohomescreen)  
-  New in Chrome M31 Beta, you can set up your web app to have an application shortcut icon added to a device's homescreen, and have the app launch in full-screen "app mode" using Chrome for Android’s "Add to homescreen" menu item.
+* [toolChair](http://pietroleoni.com/#toolchair) by Pietro Leoni
+* [The FabLab - Milano](http://www.thefablab.it/)
+* [Elettronica per Maker](http://www.zeppelinmaker.it/category/e-pills/)
+* [FabLab Milano](http://www.fablabmilano.it/)
+* [Come fotografare piccoli oggetti](http://www.frankensteingarage.it/blog/2014/08/03/come-fotografare-piccoli-oggetti/)
+
+
+## Product design
+
+* [Cognitive Overhead, Or Why Your Product Isn’t As Simple As You Think](http://techcrunch.com/2013/04/20/cognitive-overhead/) (Apr 20, 2013) by [David Lieb](http://twitter.com/dflieb), co-founder and CEO of [Bump](http://bu.mp/company)
+* [Want to make a great product? An engineer isn’t enough](http://thenextweb.com/dd/2013/04/14/want-to-make-a-great-product-an-engineer-isnt-enough/) (Apr 14, 2013) by [Nick Kishfy](https://twitter.com/Kishfy), CEO of [MojoTech](http://www.mojotech.com/)
+* [User Experience Debt](http://nform.com/blog/2013/05/user-experience-debt/) (May 7, 2013) by [Andrew Wright](https://twitter.com/andrewjwright)
+* [Designing for real world mobile use](http://www.theguardian.com/media-network/2013/may/24/mobile-design-real-world-use) (May 24, 2013) by [Luke Wroblewski](https://twitter.com/lukew), CEO and co-founder of [Input Factory Inc.](http://www.polarb.com/)
+* [The importance of sketching in product](http://bokardo.com/archives/the-importance-of-sketching-in-product-design/) by [Joshua Porter](http://bokardo.com/about/) on [Bokardo](http://bokardo.com/)  
+  The way to have product team members trust each other and get along is to have them sketch together.  
+  There are a lot of hurdles to creating an effective product team. Perhaps the biggest hurdle of all is managing the relationships among the product team members and how those relationships affect the process they use to envision, design, and build the product they’re working on. 
+
+## Product management
+
+* [Four pricing principles to never forget](http://insideintercom.io/four-pricing-principals-to-never-forget/)  
+  Most businesses are eventually faced with the key question: How much should we charge? There’s no one true answer. There are no gurus. There’s just you, your financials, and the need to make money.
+  
+## Startup strategies
+
+* [10 Reasons Why I Self-Funded My Startup and So Should You](http://yongfook.com/10-reasons-why-i-self-funded-my-startup-and-so-should-you.html)  
+  This post is simply here to remind some of you why we do what we do. A message that often gets lost,
+in this world of funding-hungry startups.  
+  8 months ago I started my company. And I never took a cent of outside funding.  
+  Here's why I think self-funding (also known as bootstrapping) is the best thing a young startup can do.
+* [15 Reasons to Keep Your Company Small](http://readwrite.com/2014/05/05/keep-your-startup-small)  
+  Despite all the headlines about billion-dollar exits and IPOs, growing too quickly or too much is not always the most desirable outcome for a startup.  
+Fifteen entrepreneurs, members of [Young Entrepreneur Council](http://yec.co/) (YEC), offer their perspective on why, in some cases, smaller means mightier.
+* [Is Going for Rapid Growth Always Good? Aren’t Startups So Much More?](http://www.bothsidesofthetable.com/2012/09/22/is-going-for-rapid-growth-always-good-arent-startups-so-much-more/)  
+  I think I’ve read Paul Graham’s post on “Startup = Growth” three or four times now. And of course on Twitter I’ve seen the Tweets, ReTweets and superlatives on what a great post it is.
+
+## Managing distributed teams
+
+* [The most valuable lessons I learned from managing a virtual team](http://thenextweb.com/entrepreneur/2013/12/04/valuable-lessons-learned-managing-virtual-team/)
+
+## Git
+* [Git Explained: For Beginners](http://juristr.com/blog/2013/04/git-explained/)
+* [Git smart! 20 essential tips for Git and GitHub users](http://www.infoworld.com/print/239093)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)  
+  Many teams have already migrated to git and many more are transitioning to it now. Apart from training single developers and appointing Champions to help with the adoption it is imperative to pick a nice and simple code collaboration practice that does not complicate things too much. With git one can definitely conjure very complicated workflows, I’ve seen them first hand.
+* [Git Workflows](https://www.atlassian.com/git/workflows)  
+  The array of possible workflows can make it hard to know where to begin when implementing Git in the workplace. This page provides a starting point by surveying the most common Git workflows for enterprise teams.
+
+
+## Web APIs (REST and more)
+
+* [The Web API checklist - 43 things to think about](https://mathieu.fenniak.net/the-api-checklist/) (Apr 15, 2014)  
+  When you’re designing, testing, or releasing a new Web API, you’re building a new system on top of an existing complex and sophisticated system. At a minimum, you’re building upon HTTP, which is built upon TCP/IP, which is built upon a series of tubes. You’re also building upon a web server, an application framework, and maybe an API framework.  
+  Most people, myself included, are not aware of all the intricacies and nuances of every component they’re building upon. Even if you deeply understand each component, it’s probably going to be too much information to hold in your head at one time.
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)  
+  Your data model has started to stabilize and you're in a position to create a public API for your web app. You realize it's hard to make significant changes to your API once it's released and want to get as much right as possible up front. Now, the internet has no shortage on opinions on API design. But, since there's no one widely adopted standard that works in all cases, you're left with a bunch of choices: What formats should you accept? How should you authenticate? Should your API be versioned?  
+  In designing an API for SupportFu (a Zendesk Alternative), I've tried to come up with pragmatic answers to these questions. My goal is for the SupportFu API to be easy to use, easy to adopt and flexible enough to dogfood for our own user interfaces.
 
 
 ## Inspiration
+
+* [JavaScript - The right way](http://jstherightway.org/)  
+  This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
+* [Tomdroid - Tomboy note-taking on Android](https://launchpad.net/tomdroid)  
+  Tomboy client for the Google Android mobile platform.
+	* [Tomboy - Simple note-taking](https://wiki.gnome.org/Apps/Tomboy)  
+	  Tomboy is a desktop note-taking application for Linux, Unix, Windows, and Mac OS X. Simple and easy to use, but with potential to help you organize the ideas and information you deal with every day.
+	* [Bazaar](http://bazaar.canonical.com/en/)  
+  Bazaar is a version control system that helps you track project history over time and to collaborate easily with others. Whether you're a single developer, a co-located team or a community of developers scattered across the world, Bazaar scales and adapts to meet your needs. Part of the GNU Project, Bazaar is free software sponsored by Canonical.
+* [GIT VS MERCURIAL VS BAZAAR VS ETC…](http://duckrowing.com/2014/04/25/git-vs-mercurial-vs-bazaar-vs-etc/)
+* [Mercurial vs. Git vs. Bazaar: The aftermath](http://blog.experimentalworks.net/2014/05/mercurial-vs-git-vs-bazaar-the-aftermath/)
+* [Dented Reality - Explore](http://dentedreality.com.au/explore/)
+* [Scuola di Barbiana](http://it.wikipedia.org/wiki/Scuola_di_Barbiana)  
+  La scuola di Barbiana è un'esperienza educativa avviata da don Lorenzo Milani negli anni cinquanta. La scuola sconcertò e stimolò il dibattito pedagogico degli anni ‘60.
 
 ### People
 * [Dented Reality](http://dentedreality.com.au/) - [Beau Lebens](https://twitter.com/beaulebens)' All of the Things
@@ -75,6 +123,23 @@ and JavaScript.
   Make your credit card form better in one line of code.
 
 
+## Open source projects
+
+* [Google I/O App](https://github.com/google/iosched)  
+  The source code for the 2014 version of the Google I/O app is now available. Since its first release on Google Play a few weeks before the conference, the I/O app was downloaded by hundreds of thousands of people, including on-site attendees, I/O Extended event participants and users tuning in from home. If one of the goals of the app is to be useful to conference attendees, the other primary goal is to serve as a practical example of best practices for Android app design and development.  
+  In addition to showing how to implement a wide variety of features that are useful for most Android apps, such as Fragments, Loaders, Services, Broadcast Receivers, alarms, notifications, SQLite databases, Content Providers, Action Bar and the Navigation Drawer, the I/O app source code also shows how to integrate with several Google products and services, from the [Google Drive API](https://developers.google.com/drive/) to [Google Cloud Messaging](http://developer.android.com/google/gcm/index.html). It uses the [material design](http://www.google.com/design/spec/material-design/introduction.html) approach, the [Android L Preview APIs](http://developer.android.com/preview/index.html) and full [Android Wear](http://developer.android.com/wear/index.html) integration with a packaged wearable app for sending session feedback.
+  * [Google I/O 2014 App Source Code Now Available ](http://android-developers.blogspot.de/2014/07/google-io-2014-app-source-code-now.html) (Jul 30, 2014)
+* [Philm is now open source](http://chris.banes.me/2014/06/18/philm-is-now-open-source/)  
+  If you haven't seen Philm yet, it is a movie collection and information app that I created for Android. It uses the Trakt and TMDB APIs.  
+This morning I pushed the source of Philm to [GitHub](https://github.com/chrisbanes/philm) under the Apache v2.0 licence.  
+This does not mean that I have stopped development, it's just got to the point where I'm happy with it so can share the source.  
+Philm has been a bit of an experiment as it uses a type of MVC-type architecture to split out UI, business and model code, something that has not really be explored (publicly) in Android development.
+* [TED](https://github.com/xgouchet/Ted)  
+  Ted is a text editor for Android, written in java. It is published on [Google Play](https://play.google.com/store/apps/details?id=fr.xgouchet.texteditor)
+* [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer)  
+  A resizer tool to automaticaly resize png files and 9 patches in several densities.
+
+
 ## Interesting places where I'd like to work
 
 * [Doist.io](http://doist.io/jobs/)  
@@ -90,11 +155,13 @@ and JavaScript.
   - residenza a Milano
 
 
-## Todos
+## Android
 
-### Android
 These are interesting posts I like to try on my machine.
 
+* [Android JSON Parsing Tutorial](http://www.androidhive.info/2012/01/android-json-parsing-tutorial/)
+* Android - Hint value on spinner  
+  I'd like to extract the [nice solution found on StackOverflow](http://stackoverflow.com/questions/867518/how-to-make-an-android-spinner-with-initial-text-select-one) post and publish on my blog giving credits to the original author.
 * [Consume Webservice in Android using intentService ](http://www.survivingwithandroid.com/2014/03/consume-webservice-in-android-intentservice.html)
 * [Parsing HTML in Android with Jsoup](http://www.survivingwithandroid.com/2014/04/parsing-html-in-android-with-jsoup.html)
 * [Android Shake to Refresh tutorial](http://www.survivingwithandroid.com/2014/04/android-shake-to-refresh-tutorial.html)
@@ -104,41 +171,14 @@ These are interesting posts I like to try on my machine.
 * [Android Error-Reporter](https://github.com/tomquist/Android-Error-Reporter) - Library to report unhandled exceptions in android projects
 
 
-## Nice projects on GitHub
 
-* [Google I/O App]()
-* [Philm is now open source](http://chris.banes.me/2014/06/18/philm-is-now-open-source/)  
-  If you haven't seen Philm yet, it is a movie collection and information app that I created for Android. It uses the Trakt and TMDB APIs.  
-This morning I pushed the source of Philm to [GitHub](https://github.com/chrisbanes/philm) under the Apache v2.0 licence.  
-This does not mean that I have stopped development, it's just got to the point where I'm happy with it so can share the source.  
-Philm has been a bit of an experiment as it uses a type of MVC-type architecture to split out UI, business and model code, something that has not really be explored (publicly) in Android development.
-* [TED](https://github.com/xgouchet/Ted)  
-  Ted is a text editor for Android, written in java. It is published on [Google Play](https://play.google.com/store/apps/details?id=fr.xgouchet.texteditor)
-
-
-## Infrastructure and processes
-
-### Git
-* [Git Explained: For Beginners](http://juristr.com/blog/2013/04/git-explained/)
-* [Git smart! 20 essential tips for Git and GitHub users](http://www.infoworld.com/print/239093)
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-* [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)  
-  Many teams have already migrated to git and many more are transitioning to it now. Apart from training single developers and appointing Champions to help with the adoption it is imperative to pick a nice and simple code collaboration practice that does not complicate things too much. With git one can definitely conjure very complicated workflows, I’ve seen them first hand.
-* [Git Workflows](https://www.atlassian.com/git/workflows)  
-  The array of possible workflows can make it hard to know where to begin when implementing Git in the workplace. This page provides a starting point by surveying the most common Git workflows for enterprise teams.
-
-### PaaS
+## PaaS
 * [OpenShift Online](https://www.openshift.com/products/online)  
   OpenShift Online is Red Hat's public cloud application development and hosting platform that automates the provisioning, management and scaling of applications so that you can focus on writing the code for your business, startup, or next big idea.  
   A choice of programming languages including Java, Ruby, PHP, Node.js, Python and Perl and a complete set of developer tools are available within OpenShift Online to increase developer productivity and accelerate application delivery. 
 * [Docker Raises $15M For Its Open-Source Platform That Helps Developers Build Apps In The Cloud](http://techcrunch.com/2014/01/21/docker-raises-15m-for-popular-open-source-platform-designed-for-developers-to-build-apps-in-the-cloud/)
     * [Docker](http://www.docker.io/)  
       an open source project to pack, ship and run any application as a lightweight container
-
-
-## Node.js
-* [Best Free Node.JS IDE for faster development](http://rudrageek.com/best-node-js-ide-for-faster-development/)
-* [Free Node.js Hosting Compared- PaaS to Deploy Node apps](http://rudrageek.com/free-node-js-hosting-deploy-node-apps-free/)
 
 
 ## MongoDB
@@ -189,20 +229,6 @@ I'd like to play with mongodb and REST api using Nancy framework.
 * [Introduction to the MEAN Stack, Part Two: Building and Testing a To-do List](http://thecodebarbarian.wordpress.com/2013/07/29/introduction-to-the-mean-stack-part-two-building-and-testing-a-to-do-list/)
 
 
-## Startup strategies
-
-* [10 Reasons Why I Self-Funded My Startup and So Should You](http://yongfook.com/10-reasons-why-i-self-funded-my-startup-and-so-should-you.html)  
-  This post is simply here to remind some of you why we do what we do. A message that often gets lost,
-in this world of funding-hungry startups.  
-  8 months ago I started my company. And I never took a cent of outside funding.  
-  Here's why I think self-funding (also known as bootstrapping) is the best thing a young startup can do.
-* [15 Reasons to Keep Your Company Small](http://readwrite.com/2014/05/05/keep-your-startup-small)  
-  Despite all the headlines about billion-dollar exits and IPOs, growing too quickly or too much is not always the most desirable outcome for a startup.  
-Fifteen entrepreneurs, members of [Young Entrepreneur Council](http://yec.co/) (YEC), offer their perspective on why, in some cases, smaller means mightier.
-* [Is Going for Rapid Growth Always Good? Aren’t Startups So Much More?](http://www.bothsidesofthetable.com/2012/09/22/is-going-for-rapid-growth-always-good-arent-startups-so-much-more/)  
-  I think I’ve read Paul Graham’s post on “Startup = Growth” three or four times now. And of course on Twitter I’ve seen the Tweets, ReTweets and superlatives on what a great post it is.
-
-
 ## Guida galattica per scrummers (su MokaByte)
 * [I parte: L’idea e il progetto](http://www2.mokabyte.it/cms/article.run?articleId=YSF-ACF-UOL-7NS_7f000001_11231952_6d7b6eba)  
    Una nuova serie che rappresenta una guida teorica e pratica a Scrum, in italiano, con un taglio molto pratico, ma non banale, e con un’idea concettuale alla base che speriamo incontri il favore dei lettori: una mappa, una guida all’universo Scrum, composto da sistemi solari, pianeti e satelliti. 
@@ -231,11 +257,8 @@ Playing with this sample:
 * [Running MongoDB Queries Concurrently With Go](http://blog.mongodb.org/post/80579086742/running-mongodb-queries-concurrently-with-go)
 
 
-## Android App as REST Client
-* [Android JSON Parsing Tutorial](http://www.androidhive.info/2012/01/android-json-parsing-tutorial/)
-
-
 ## Minimum Viable Stack
+
 Reading [How to build your Minimum Viable Stack](https://medium.com/design-startups/7dcb59c9fe1f) I was thinking about what can be a Minimum Viable Stack for me.
 Something similar to what described in this article [Creating a REST Server for a CRUD Web Application from a very Light Stack](http://www.codeproject.com/Articles/680119/Creating-a-REST-Server-for-a-CRUD-Web-Application) that is a solution that fits well with my knowledge.
 It is based on the following components:
@@ -255,10 +278,8 @@ Some stuff about PetaPoco
 * [Get started with ASP.NET MVC and PetaPoco](http://weblogs.asp.net/jalpeshpvadgama/archive/2011/06/17/get-started-with-asp-net-mvc-and-petapoco.aspx) - how  can be used PetaPoco in asp.net mvc application.
 
 
-## Android - Hint value on spinner
-I'd like to extract the [nice solution found on StackOverflow](http://stackoverflow.com/questions/867518/how-to-make-an-android-spinner-with-initial-text-select-one) post and publish on my blog giving credits to the original author.
-
 ## Sample Android App
+
 Defining my sample app used as playground application.
 I'd like to change the database schema used as OrmLite testing purpose.
 Using the database schema of DroidCon Italy 2014 app.
@@ -270,7 +291,7 @@ Talks, speakers, topics, dates.
 ![enter image description here](http://www.happymelly.com/wp/wp-content/uploads/2014/02/knoweldge-300x236.jpg)
 
 * [The secret to creativity, intelligence and scientific thinking: Being able to make connections](http://blog.bufferapp.com/connections-in-the-brain-understanding-creativity-and-intelligenceconnections)
-* [Do you want to be original? Mix in someone elseâ€™s ideas](http://www.happymelly.com/do-you-want-to-be-original-mix-in-someone-elses-ideas/)
+* [Do you want to be original? Mix in someone else's ideas](http://www.happymelly.com/do-you-want-to-be-original-mix-in-someone-elses-ideas/)
 
 
 ## About Retrospective
@@ -291,6 +312,7 @@ Talks, speakers, topics, dates.
 
     
 ## 2014 Trends
+
 * [Google in 2014: Expect new hardware, more retail, and a Google+ explosion](http://venturebeat.com/2013/12/30/google-in-2014-expect-new-hardware-more-retail-and-a-google-explosion/)
 * [Your TED-inspired New Year's resolutions](http://blog.ted.com/2013/12/30/your-ted-inspired-new-years-resolutions/)
 * [Ellen Jorgensen: Biohacking -- you can do it, too](http://www.ted.com/talks/ellen_jorgensen_biohacking_you_can_do_it_too.html)

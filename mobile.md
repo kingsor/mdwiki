@@ -8,6 +8,9 @@
 
 ## PhoneGap
 
+* [PhoneGap](http://phonegap.com/)  
+  PhoneGap is a free and open source framework that allows you to create mobile apps using standardized web APIs for the platforms you care about.  
+  Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript
 * [PhoneGap Developer App](http://phonegap.com/blog/2014/04/23/phonegap-developer-app/) (Apr 23, 2014)  
   The PhoneGap Team is proud to announce the release of the [PhoneGap Developer app](http://app.phonegap.com/)!
   The PhoneGap Developer app aims to lower the barrier of entry to creating PhoneGap applications. You can now immediately preview your app on a device without installing platform SDKs, registering devices, or even compiling code.
@@ -15,7 +18,11 @@
   * [PhoneGap Developer App 1.1.0 Release](http://phonegap.com/blog/2014/07/21/pg-dev-app-1-1-0-release) (Jul 21, 2014)
   * [PhoneGap Developer App 1.2.0 Release](http://phonegap.com/blog/2014/08/08/pg-dev-app-1-2-0-release/) (Aug 8, 2014)
 * [Apache Cordova](https://cordova.apache.org/)  
-  It is a platform for building native mobile applications using HTML, CSS and JavaScript.
+  It is a platform for building native mobile applications using HTML, CSS and JavaScript.  
+  Apache Cordova is a set of device APIs that allow a mobile app developer to access native device function such as the camera or accelerometer from JavaScript. Combined with a UI framework such as jQuery Mobile or Dojo Mobile or Sencha Touch, this allows a smartphone app to be developed with just HTML, CSS, and JavaScript.
+
+## Frameworks
+
 * [Ionic](http://ionicframework.com/)  
   The beautiful, open source front-end framework for developing hybrid mobile apps with HTML5. 
 * [Sencha Touch](http://www.sencha.com/products/touch/)  
@@ -24,9 +31,6 @@
   Mobile Angular UI is a mobile UI framework just like Sencha Touch or jQuery Mobile. If you know Angular JS and Twitter Bootstrap you already know it! 
 * [Trigger](https://trigger.io/)  
   Build native apps for iOS and Android using JavaScript
-* [Add to Homescreen](https://developer.chrome.com/multidevice/android/installtohomescreen)  
-  New in Chrome M31 Beta, you can set up your web app to have an application shortcut icon added to a device's homescreen, and have the app launch in full-screen "app mode" using Chrome for Android’s "Add to homescreen" menu item.
-
 
 ## Samples
 

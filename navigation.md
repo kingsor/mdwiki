@@ -1,8 +1,8 @@
 # MDwiki
 
-[About](index.md)m
+[About](index.md)
 
-[My notes](Post-Ideas.md)
+[Notes and Ideas](Post-Ideas.md)
 
 [Articles]()
 
@@ -13,8 +13,6 @@
   * # Mobile
   * [Learning Android](LearningAndroid.md)
   * [Not So Native](mobile.md)
-
-[Blog](blog.md)
 
 
 [gimmick:theme (inverse: false)](united)
