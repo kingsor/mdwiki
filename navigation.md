@@ -2,7 +2,7 @@
 
 [About](index.md)
 
-[Notes and Ideas](Post-Ideas.md)
+[Notes and Ideas](Notes-Ideas.md)
 
 [Articles]()
 

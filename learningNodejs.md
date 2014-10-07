@@ -29,11 +29,15 @@
 
 ## Starting from Javascript
 
+* [JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript.html) by [Douglas Crockford](http://www.crockford.com/)  
+  Despite its popularity, few know that JavaScript is a very nice dynamic object-oriented general-purpose programming language. How can this be a secret? Why is this language so misunderstood?
 * [Why JavaScript Is The Next (or first) Programming Language You Should Learn](http://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/) (Aug 04, 2014)  
   I’ve been asked a few times recently what programming language I’d learn if I was just starting out. Right now, the answer is definitely JavaScript, and here’s why.
 * [It is time to learn Javascript](http://wildermuth.com/2014/6/22/It_Is_Time_to_Learn_JavaScript) (June 22, 2014)  
   JavaScript is having a great year. With the continuation of web development, Node.js, and even Apple adding JavaScript as a replacement for their AppleScript.  
   You may be waiting until you have to learn JavaScript, but maybe you should learn JavaScript to make you a better developer.
+* [Software Engineers should all learn JavaScript.](http://louiebacaj.com/software-engineers-should-all-learn-javascript/)  
+  As Software engineers, we often use JavaScript. But let's face it, JavaScript is like that thing you have had to use to show someone how to consume your API, use your RESTful Service, or to put a front end on your beautiful algorithm. Being primarily a client side tool, with a browser and UI focus, we can't be fully faulted for not really knowing it that well, after all we are busy writing algorithms, services and such. Also, JavaScript hasn’t exactly seemed very stable with a new framework popping up every week; who can keep up? A while back I decided to challenge that thinking and made serious effort to not just use JavaScript in passing, but to learn it properly, while using JavaScript all the time. If you’re reading this, it’s probably because you’re trying to make a change and learn JavaScript yourself.
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) (July 2, 2014)  
   Functional programming is the mustachioed hipster of programming paradigms. Originally relegated to the annals of computer science academia, functional programming has had a recent renaissance that is due largely to its utility in distributed systems (and probably also because “pure” functional languages like Haskell are difficult to grasp, which gives them a certain cachet).
 * [A JavaScript survival guide](http://www.2ality.com/2014/07/javascript-survival-guide.html) (July 14, 2014) by [Axel Rauschmayer](http://rauschma.de/)  
@@ -73,6 +77,12 @@ However, because functions and objects in JavaScript are different from their co
 * [Node.js Production Practices](http://www.joyent.com/developers/node)  
   As part of our stewardship of Node.js®, this resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production. From coding styles and design considerations through debugging large distributed systems, we intend to document our Node.js development and production practices.
 
+## Frameworks
+
+* [Meteor.js](https://www.meteor.com/)  
+  Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started. 
+* [
+
 ## Tools
 
 * [Building with Node.js Tools for Visual Studio](http://kowsheek.com/2014/05/21/building-with-node-js-tools-visual-studio/) (May 21, 2014)  
@@ -83,6 +93,8 @@ However, because functions and objects in JavaScript are different from their co
   Nodeclipse holds not only Node.js (with debugger, code completion, see [features](http://www.nodeclipse.org/features)), but also simple tools for PhantomJS, Nashorn, Vert.x for JavaScript, Maven, Gradle (including Android) for Java, and some general tools like REST-Client, EditBox background color themes and [others](http://www.nodeclipse.org/enide/tools).
 * [WebStorm - The smartest Javascript IDE](http://www.jetbrains.com/webstorm/)  
   Create great websites and applications in a great IDE. The best JavaScript IDE and HTML editor is at your service.
+* [WebMatrix](http://www.microsoft.com/web/webmatrix/node.aspx)  
+  Do you love Node.js? With features like code completion and built-in templates based on best practices, WebMatrix makes it easier to write Node.js applications.
 
 
 ## Configuring a project
@@ -143,4 +155,5 @@ However, because functions and objects in JavaScript are different from their co
 
 ### Sites
 
+* [JS books](http://jsbooks.revolunet.com/) - The best free JavaScript resources
 
