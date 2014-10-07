@@ -363,14 +363,6 @@ Some stuff about PetaPoco
 * [Get started with ASP.NET MVC and PetaPoco](http://weblogs.asp.net/jalpeshpvadgama/archive/2011/06/17/get-started-with-asp-net-mvc-and-petapoco.aspx) - how  can be used PetaPoco in asp.net mvc application.
 
 
-## Sample Android App
-
-Defining my sample app used as playground application.
-I'd like to change the database schema used as OrmLite testing purpose.
-Using the database schema of DroidCon Italy 2014 app.
-Talks, speakers, topics, dates.
-
-
 ## Connecting the dots
 
 ![enter image description here](http://www.happymelly.com/wp/wp-content/uploads/2014/02/knoweldge-300x236.jpg)

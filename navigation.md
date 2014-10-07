@@ -10,6 +10,9 @@
   * [Learning Node.js](learningNodejs.md)
   * [Learning MongoDB](LearningMongoDB.md)
   - - - -
+  * # Frontend
+  * [Learning Angular.js](LearningAngularjs.md)
+  - - - -
   * # Mobile
   * [Learning Android](LearningAndroid.md)
   * [Not So Native](mobile.md)
