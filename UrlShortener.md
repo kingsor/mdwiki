@@ -1,5 +1,7 @@
 # URL shortener
 
+## The project
+
 The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to getting started with MongoDB and C#.
 
 * [Developing a URL shortening service using Windows Azure SDK and C#](http://www.nakkala.net/2013/02/developing-url-shortening-service-using.html)
