@@ -185,24 +185,6 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 	* [Contribute](https://apps.wordpress.com/contribute/)
 
 
-## Projects on GitHub
-* [Airbnb](https://github.com/airbnb) - Open source projects from Airbnb crew.
-* [tomighty/tomighty](https://github.com/tomighty/tomighty) - Desktop timer for Pomodoro practitioners (inactive, looking for new maintainer) http://www.tomighty.org
-* [dacer/SimplePomodoro-android](https://github.com/dacer/SimplePomodoro-android) - SimplePomodoro App (DEPRECATED) http://dacer.github.io/myapps/
-- [Papa Parse](http://papaparse.com/) - The powerful, in-browser CSV parser for big boys and girls
-- [serverless/serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com
-- [Parse Platform](https://github.com/ParsePlatform) - Parse-compatible API server module for Node/Express
-	- [Parse Blog](http://blog.parse.com/)
-- [Book Dash](https://github.com/bookdash) - A volunteer-driven project to create children's books that anyone can print and distribute freely.
-	- [Book Dash](http://bookdash.org/) - Book Dash is a Non-Profit-Organisation (NPO) that gathers volunteer creative professionals to create new, African storybooks that anyone can freely translate and distribute.
-- [Big Nerd Ranch](https://github.com/bignerdranch) - Projects from [Big Nerd Ranch](http://www.bignerdranch.com/) people.
-- [NemboWeb](https://github.com/NemboWeb) - Projects by [NemboWeb](http://nemboweb.com/) Agency (by Marta Petrella). It seems they use [Refinery CMS](http://www.refinerycms.com/) (Ruby on Rails CMS that supports Rails 4.2). Usually a Web Agency cannot start a CMS from scratch, and they use this one.
-- [Refinery Project](https://github.com/refinery) - Projects (CMS and related plugins) from [Resolve Digital](https://resolve.digital/) (We build, optimize and maintain stores for innovative eCommerce retailers. [Solidus](https://resolve.digital/solidus-developers), [Spree Commerce](https://resolve.digital/spree-commerce-developers/), Ruby on Rails, iOS, Machine Learning)
-- [PokéAPI](https://github.com/PokeAPI) - The PokéAPI project ([pokéapi](https://pokeapi.co/) - The RESTful Pokémon API)
-- [SWAPI](https://swapi.co/) - The Star Wars API
-	- [matoelorriaga/StarWars](https://github.com/matoelorriaga/StarWars) - simple android app using swapi.co API
-
-
 ## Web APIs, Building
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by [Phil Sturgeon](https://leanpub.com/u/philsturgeon)
 - [Matthias Biehl](https://twitter.com/mattbiehl) - API Integration Architect | Innovation Catalyst | Digital Transformer | Author and Advisor [@API_University](https://twitter.com/API_University) - Zürich, CH - Stockholm, SE
@@ -226,17 +208,6 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 - [Android App in 26 Minutes](https://www.youtube.com/playlist?list=PLxvooGgpi4NdH877FIpWHLX2vxNfKpFmN) by [GK Micro Studios](https://www.youtube.com/channel/UCmrqaIMRI3z2MxfwfeDudsw) - nice videos about creating a very simple android app. I watched it for understand how the teacher talks and explains the topic of the course that I found on [Udemy](https://www.udemy.com/courses/).
 - [Android App Development: Create a Spotify Clone](https://www.udemy.com/android-app-development-create-a-spotify-clone/) (Udemy, Instructed by [Mr Grant Klimaytys](https://www.udemy.com/user/grant-klimaytys/)) - Stream your music collection and learn how to play and control music on Android.
 - [Android: From Beginner to Paid Professional](https://www.udemy.com/learn-android/) - Learn to code the Devslopes way. At Devslopes we teach you the platform and the underlying coding principles. We believe in building engineers and not copy-and-paste students. You can get started with no experience or with lots of coding experience.
-
-
-## Webmarks App Project
-Vorrei riprendere a lavorare a questo progetto per arrivare al deploy di una prima versione con una serie di funzionalità di base.
-Il progetto si compone di due parti: una parte web (server side) che consente di salvare i propri webmarks e di mantenere sincronizzati i vari dispositivi collegati (smartphone, tablet). Ed una parte mobile (Android App) che consente di salvare i propri webmarks e di leggerli in movimento (con la possibilità di salvare in locale gli articoli per poterli consultare off-line).
-
-- [Webmarks App](https://github.com/WebmarksApp) (server side)
-	- [webmarks.nancy](https://github.com/WebmarksApp/webmarks.nancy) - hosted on  [AppHarbor](https://appharbor.com/applications/webmarks) and available at this address: [http://webmarks.apphb.com/](http://webmarks.apphb.com/)
-	- [webmarks.node](https://github.com/WebmarksApp/webmarks.node) - hosted on [Heroku](https://dashboard.heroku.com/apps/webmarksapp) and available at this address: [https://webmarksapp.herokuapp.com/](https://webmarksapp.herokuapp.com/)
-	- [webmarksapp.github.io](https://github.com/WebmarksApp/webmarksapp.github.io) - hosted by [GitHub Pages](https://pages.github.com/) and available at this address: [http://webmarksapp.github.io/](http://webmarksapp.github.io/)
-- [Webmarks App](https://github.com/kingsor/WordPress-Android) (android)
 
 
 ## Web Site Builders

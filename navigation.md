@@ -5,6 +5,7 @@
   * [Ideas Bucket](NextSteps-IdeasBucket.md)
   * [Working On](NextSteps-WorkingOn.md)
   * [Android](NextSteps-Android.md)
+  * [Android Apps](NextSteps-AndroidApps.md)
   - - - -
   * # Neetpiq
   * [Android Certification](NextSteps-AndroidCertification.md)

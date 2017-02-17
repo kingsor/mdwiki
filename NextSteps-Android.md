@@ -39,7 +39,6 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 
 
 ## ToRead
-
 * [Activities in the Wild: Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/) - In this 360AnDev talk, through concrete examples, you will learn how the creation and destruction of your activity instances relate to what the user is doing, as well as to what the system is doing. We will explore how state is persisted (or not) in these various scenarios and also explore some little-known facts about what happens to your activity in low-memory situations. Finally, we will discuss how knowing when these transitions happen helped me deal with tricky situations, like continuing video playback while the user interacts with a full-screen overlay.
 * [Machine Learning is Everywhere: Android Apps with Intelligence](https://realm.io/news/360andev-margaret-maynard-reid-making-android-apps-with-intelligence/) (Oct 26 2016) - In this session from 360|AnDev, Margaret Maynard provides an overview of how you can integrate these advanced machine learning algorithms with your Android apps, without any deep expertise in ML. She walks through several examples to help you get started making Android apps with human intelligence.
 * [Effective Android Architecture](https://realm.io/news/360andev-richa-khandelwal-effective-android-architecture-patterns-java/) (Sep 21 2016) - Most engineers start working on apps as prototypes, focusing on functionality until the point the app’s (lack of) architecture becomes an impediment in continuing to build features into the app at a fast pace. This 360AnDev talk will cover experiences with Coursera’s Android app, build up on issues with MVC and go on to illustrate how to start with MVC and get to a solution that fits the apps needs.
@@ -65,9 +64,11 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Expand a RecyclerView in Four Steps](https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/) (Aug 6, 2015) - The Expandable RecyclerView library is a lightweight library that simplifies the inclusion of expandable dropdown rows in your RecyclerView. In it, you have two types of views. The parent view is the one visible by default, and it contains the children. The child view is the one that is expanded or collapsed, and will appear when a parent item is clicked.
 * [Android working with Card View and Recycler View](http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/) (May, 2016) - In this article we are going to learn how to integrate CardView with RecyclerView by creating a beautiful music app that displays music albums with a cover image and title.
 
+
 ### Retrofit - Working with
 * [Android Working with Retrofit HTTP Library](http://www.androidhive.info/2016/05/android-working-with-retrofit-http-library/) (May 8, 2016) by [Android Hive](http://www.androidhive.info/) - this post will show how to use the library Retrofit that is the better alternative to volley in terms of ease of use, performance, extensibility and other things. It is a type-­safe REST client for Android built by Square. As an example, we are going to download some json (using the TMDb Api) and show it in RecyclerView as a list.
 * [Best Practices & Pain Points in Mobile Networking: REST API Failure Situations](https://realm.io/news/best-practices-pain-points-mobile-networking-rest-api-failures/) (Sep 30 2016) - Let’s have a look at few of the pain points that come up while talking to your server through a RESTful API.
+
 
 ### RxJava
 * [Intro to RxJava](https://realm.io/news/intro-to-rxjava/) (Oct 12 2016) - RxJava is an incredibly powerful tool for making Android code easier to maintain and less bug prone, but as a new Android developer, it might not always be clear what exactly RxJava is doing and why doing things that way helps make code better. In this 360|AnDev talk we’ll discuss how things were traditionally done in Android, problematic areas with these approaches, and how RxJava can help solve some of these issues. In addition to providing the motivation for RxJava, this talk will also provide the audience with examples of the most common RxJava use cases as well as common pitfalls to avoid when integrating RxJava in a project for the first time. No prior Rx knowledge is assumed.
@@ -77,15 +78,18 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Reactive Extensions for Android.
 
+
 ### Constraint Layout
 * [Using ConstraintLayout to design your views](https://codelabs.developers.google.com/codelabs/constraint-layout/index.html#0)
 * [ConstraintLayout, Inside and Out: Part 1](http://wiresareobsolete.com/2016/07/constraintlayout-part-1/) (Jul 19, 2016) - This post is focused on examining the ConstraintLayout container architecture and how it does its job. The features of the new Android Studio layout editor are primarily designed to make the powerful and flexible features of this container easier for developers to manage. By gaining a deeper understanding of  ConstraintLayout, we will be better equipped to use the developer tools.
 * [ConstraintLayout, Inside and Out: Part 2](http://wiresareobsolete.com/2016/07/constraintlayout-part-2/) (July 27, 2016) - In the last post, we spent some time exploring the various constraints that are available for use with ConstraintLayout. Now let’s dive deeper into the mechanics of this flexible new tool, starting with how the code is organized internally.
 
+
 ### Material Design - Working with
 * [A Practical Guide to Material Design Implementation for Android Developers](https://realm.io/news/360andev-yash-prabhu-practical-guide-material-design-android-ui/) (Sep 10 2016) - In this 360AnDev talk, you will learn how to: 1) Implement the basics of standard UI elements that are used across most apps like Navigation Drawer, Floating Action Button, Tabs, Grids, CardView, RecyclerView and Coordinator Layout. 2) Use the AppCompat library and Design Support library to implement Material design going all the way back to Android Eclair (2.1). This talk is for Android developers who are interested in utilizing material design principles in their current or upcoming Android apps. The sample code is available on GitHub.
 * [Android: An Introduction to Material Design](http://www.raywenderlich.com/103367/material-design) (Jun 22, 2015) - In this tutorial, you’ll integrate material design into an app called Travel Wish List. Along the way, you’ll learn how to: Implement the material theme; Build dynamic views using new widgets like *RecyclerView* and *CardView*; Use Palette API to generate color schemes that you can use for text or background views; Create delightful interactions using the new animation APIs.
 * [Android Devs, make your Toolbar and View backgrounds frosty](https://android.jlelse.eu/the-blurry-frosted-background-is-a-common-pattern-on-ios-where-they-have-simply-controls-to-cbd0c5843e5f) (Oct 15, 2016) - The blurry, frosted background is a common pattern on iOS where they have simply controls to achieve this. On Android however, this ends up being a lot of effort. On the up side, if you do bother to handle this yourself, you can achieve better results than you can using the default controls on iOS.
+
 
 ### Android Clean Architectures
 * [android-architecture-resources](https://github.com/ziem/android-architecture-resources) - a list of articles, repositories and samples about different android architectures.
@@ -110,18 +114,6 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) (Aug 13, 2012) by [Robert C. Martin, aka, Uncle Bob](http://cleancoder.com) - Over the last several years we’ve seen a whole range of ideas regarding the architecture of systems. Though these architectures all vary somewhat in their details, they are very similar. They all have the same objective, which is the separation of concerns. They all achieve this separation by dividing the software into layers. Each has at least one layer for business rules, and another for interfaces.
 * [Clean Android Architecture for Padawans](http://spirosoik.github.io/AndroidArchitecturePadawans/) - This repository shows how to separate layers of an application for newcomers in Android world with a simple application based on Foursquare API. After this you will become a Padawan and this means that you have made a great progress to become a JEDI.
 
-### Working with Firebase
-* [firebase/quickstart-android](https://github.com/firebase/quickstart-android) -  Firebase Quickstarts for Android. A collection of quickstart samples demonstrating the Firebase APIs on Android.
-* [Building an Android app with Google's Firebase](https://www.youtube.com/watch?v=Yt75ZIGdJ4Y)
-	* [Building a chat application with FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android/tree/0.3.1/codelabs/chat) - In this code lab you'll build a chat application for Android using Firebase and Android Studio.
-* [Android Getting Started with Firebase – Login and Registration Authentication](http://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/) (Jun 2016) - Firebase provides a full set of authentication options out-of-the-box. Firebase automatically stores your users’ credentials securely (using bcrypt) and redundantly (with replication and daily off-site backups). This separates sensitive user credentials from your application data, and lets you focus on the user interface and experience for your app.
-* [Android Login and Registration with PHP, MySQL and SQLite](http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/) (Jan 2012) - I like it for the Login and Register activities.
-* [Firebase Tutorial: Getting Started](https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2) (Sep 19, 2016) - in this Firebase tutorial, you’ll learn all the fundamentals of Firebase by making a collaborative grocery list app called Grocr. When items get added to the list they’ll appear instantly on any user’s devices, but you’re not going to stop there. You’ll tweak Grocr to work offline, so the list stays in sync even with a spotty grocery store data connection.
-* [Cheddar API](https://cheddarapp.com/developer) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
-* [aliHafizji/Cheddar-Android](https://github.com/aliHafizji/Cheddar-Android) - This is a universal Android app for Cheddar, a simple task manager.
-* [Creating a Cloud Backend for Your Android App Using Firebase](https://www.sitepoint.com/creating-a-cloud-backend-for-your-android-app-using-firebase/) (Sep 7, 2016) - In this article, you’ll create a simple To Do app that will show how to save and retrieve data from Firebase, how to authenticate users, set read/write permissions on the data and validate the data on the server.
-* [Building a Google Keep Clone with Vue and Firebase, Pt 1](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-1) by [Scotch.io](https://scotch.io/) - In this tutorial, you will learn how to create a (minimal) Google Keep clone app with the Model-View-Viewmodel (MVVM) framework Vue and Firebase as a backend.
-	- [lguipeng/Notes](https://github.com/lguipeng/Notes) - Material Design Notes App
 
 ## Developing for Android
 * [Android Development – A Glimpse into the History](http://learnprogramming.academy/android-development-a-glimpse-into-the-history/) (Nov 3, 2015) - the interesting history of Android OS from beginning to nowadays.
@@ -131,6 +123,7 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Top 10 Most Common Android Development Mistakes: A Programming Tutorial](http://www.toptal.com/android/top-10-most-common-android-development-mistakes) - Here’s an Android programming tutorial to address the 10 most common mistakes Android developers make.
 * [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/) - Code completion can improve your productivity by reducing how much you have to type, but there are situations when a more powerful tool is needed. Thanks to Android Studio and IntelliJ, live templates make it much easier to focus on just the things you care about.
 * [Memory leaks in Android — identify, treat and avoid](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8) - A common cause of crashes are memory leaks. This particular problem can manifest itself in various forms. In most cases we see a steady increase in memory usage until the app cannot allocate more resources and inevitably crashes. To help others minimize time spent on code analysis I’ll present a few examples of memory leaks, how to identify them in Android Studio and most importantly how to remove them.
+
 
 ## Android Development Tips and Tools
 * [The powerful Android Studio](http://saulmm.github.io/the-powerful-android-studio) (Jun 8, 2016) - In this article, I (Saul Molinero) would like to give importance to the role that plays IntelliJ IDEA over Android Studio besides a few more tips that I use every day.
@@ -144,18 +137,22 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Android Development Useful Tools](https://medium.freecodecamp.com/android-development-useful-tools-fd73283e82e3) (Sep 10, 2016) by [Amit Shekhar](https://medium.freecodecamp.com/@amitshekhar) - Over the years, these are the Android development tools I’ve found most useful. I consistently use these tools to build apps. I recommend you take a look at them and see whether they’re a good fit for your tool chain.
 * [Hard-Earned Android Programming Experiences](https://medium.freecodecamp.com/hard-earned-android-programming-experiences-361fbaaecd07) (Jul 7, 2016) - This post, like Kent Beck says in his book Implementation Patterns, “…is based on a rather fragile premise that good code matters…”. But we all know that clean code matters as we’ve had to deal for so long with its lack. And so does Kent.
 
+
 ## Code Guidelines
 * [Android Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) by [ribot](http://ribot.co.uk/)
 * [Project guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) by [ribot](http://ribot.co.uk/)
 * [Introducing Android code style guidelines at Buffer](https://overflow.buffer.com/2016/08/18/introducing-android-code-style-guidelines-buffer/) (Aug 18, 2016) by [Joe Birch](https://overflow.buffer.com/author/joe/) - this is an overview about the [new code style](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) for Android App at Buffer.
 
+
 ## Testing
 - [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c) by [ribot labs](https://labs.ribot.co.uk/) - In this article we’ll explore how we used Mockito and Dagger 2 to achieve faster and more reliable UI tests on Android. If you are a developer looking to start writing UI tests on Android or improve the performance of your existing ones, read on.
 - [Introduction to Automated Android Testing – Part 1](https://riggaroo.co.za/introduction-automated-android-testing/) - I’ve seen a lot of people confused and unsure about how to do tests in Android. In the past, it was very difficult to test Android apps and there wasn’t much direction. In this series, I am going to try make testing a bit easier for you.
 
+
 ## Building with Gradle
 * [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds) (Jul 20, 2015) by [Saúl Molinero](http://saulmm.github.io/) - Android Studio came from by the hand of Gradle as a new tool for the construction and packaging of Android projects. This powerful utility, well exploited, can provide much power and comfort developing complex Android projects. These projects may contain different modules, variants, dependencies, continuous integration systems, code quality. The motivation of this article is nothing more than sharing simple methodologies that I have applied on certain projects.
 * [Introduction to Gradle](https://www.bignerdranch.com/blog/introduction-to-gradle/) (Oct 22, 2014) by [Brian Gardner](https://www.bignerdranch.com/about-us/nerds/brian-gardner/) -  In this blog post, I hope to shed some light on what Gradle is, what it can do for you and some ways you can use it with your applications.
+
 
 ## Design Support Library
 * [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32) - This new library introduces several new components previously not available out-of-the-box. Here we take a brief look at what they are, what they do and how we can implement them.
@@ -174,28 +171,11 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [ADB - Episode 30: Android Design Library](http://androidbackstage.blogspot.de/2015/07/episode-30-android-design-library.html) -
 
 
-
 ## Learning Kotlin for Android
 * [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit#heading=h.v6i4iyf7kkxh) by [Jake Wharton](http://twitter.com/JakeWharton) - This is a copy (and slight edit) of a document that was presented internally at Square. It advocates the use of the Kotlin language for developing Android apps.
 * [Kotlin for Android Developers](http://www.javaadvent.com/2015/12/21) by [Antonio Leiva](http://antonioleiva.com/) for [2015 Java Advent Calendar](http://www.javaadvent.com/).
 * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.9klrxrpmg) (Jul 6, 2015) by [Mike Hearn](https://medium.com/@octskyward) - An ode to the language you’ve never heard of.
 
-## Open Source Apps
-* [PhoneProfiles](https://github.com/henrichg/PhoneProfiles) - Android application - manually change device settings like ringer mode, sounds, Wi-Fi, Bluetooth, launcher wallpaper, ...
-* [Google I/O Android App](https://github.com/google/iosched) - This project is the Android app for the Google I/O conference. The app supports devices running Android 4.0+, and is optimized for phones and tablets of all shapes and sizes.
-* [PocketHub](https://github.com/pockethub/PocketHub) - This is the same repository as the now-defunct official GitHub Android app.
-* [Awesome Android UI/UX libraries](https://github.com/wasabeef/awesome-android-ui)
-* [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) - Draggable Panel is an Android library created to build a draggable user interface similar to the new YouTube draggable video component based on Fragments or Views.
-
-### Hacker News Readers
-* [HN - Hacker News Reader](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  on GitHub [manmal/hn-android](https://github.com/manmal/hn-android/)
-* [Materialistic - Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) on GitHub [hidroh/materialistic](https://github.com/hidroh/materialistic)
-* [Hacker News Reader](https://play.google.com/store/apps/details?id=com.hitherejoe.hackernews) on GitHub [hitherejoe/HackerNewsReader](https://github.com/hitherejoe/HackerNewsReader) by [Joe Birch](https://medium.com/@hitherejoe) - A simple and modern Material Design influenced Hacker News reader Android app. Read, view comments, bookmark and share stories from the hacker news feed!
-* [MVVM using Data Binding](https://github.com/hitherejoe/MVVM_Hacker_News) by [Joe Birch](https://medium.com/@hitherejoe) - I wanted to experiment creating an MVVM structured project using the official Data Binding library, so I stripped back an old project of mine ( [Hacker News Reader](https://github.com/hitherejoe/HackerNewsReader)) and replaced relevant codebase with an MVVM approach. This is still experimental, so I'd love to hear any suggestion / improvements to the approach!
-*  [Yahnac for Hacker News](https://play.google.com/store/apps/details?id=com.malmstein.yahnac) by [David González](http://www.malmstein.com/) ([Novoda](https://www.novoda.com/) guy) - Yet Another Hacker News Android Client on GitHub [malmstein/yahnac](https://github.com/malmstein/yahnac)
-	* [Introducing Yahnac: Where RxJava Meets Firebase and Content Providers](http://www.malmstein.com/blog/2015/03/28/introducing-yahnac-where-rxjava-meets-content-providers/) (Mar 28th, 2015)
-	* [Building Yahnac’s Rx Pipeline](http://www.malmstein.com/blog/2015/04/05/yahnacs-rx-pipeline/) (Apr 5th, 2015)
-	* [Yahnac Meets the Design Support Library](http://www.malmstein.com/blog/2015/09/20/yahnac-meets-the-material-design-library/) (Sep 20th, 2015)
 
 ## Vogella tutorials
 * [Android Development](http://www.vogella.com/tutorials/android.html)
@@ -203,54 +183,8 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Android examples from the vogella.com website](https://github.com/vogellacompany/codeexamples-android)
 
 
-## iBeacon Experiments
-* [Exploring Google Eddystone with the Proximity Beacon API](https://medium.com/ribot-labs/exploring-google-eddystone-with-the-proximity-beacon-api-bc9256c97e05) (Aug 11, 2015) by [Joe Birch](https://medium.com/@hitherejoe) - Google recently announced the release of their cross-platform BLE Beacon format. Here we look at what we can do with it and how to use this new API to manage our beacons. To really understand how the API works, I decided to build a sample app, allowing me to really test the API’s functionality. Android users can find this on github: [itherejoe/WatchTower](https://github.com/hitherejoe/WatchTower) 
-* [Droidcon 2015 - Experimenting monitoring and proximity techniques using Android - Matteo Gazzurelli](https://www.youtube.com/watch?v=8DQ5Ng_nE8E) - the speech describes the demo project with the implementation of the Monitoring and Ranging Features of iBeacons. It is used also to work as Indoor Location and Way Finding. Source code is available on [GitHub](https://github.com/gazzumatteo/iBeaconFullExample).
-
-
 ## Android Misc
 * [Android How to Build Intro Slider for your App](http://www.androidhive.info/2016/05/android-build-intro-slider-app/) (May 10, 2016) - In this article we are going to learn how to add an intro slider to your app where user can swipe through few slides before getting into app.
-
-
-## Android Apps on GitHub
-* [JoaquimLey/avenging](https://github.com/JoaquimLey/avenging) - Android app built with an MVP approach without RxJava or Dagger. Uses [Marvel Comics API](https://developer.marvel.com/) as a service which contains all the information about its vast library.
-- [lguipeng/Notes](https://github.com/lguipeng/Notes) - Material Design Notes App
-- [esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide) - Android app that lists popular/highest-rated movies, shows trailers and reviews. This app showcases the MVP pattern, RxJava, Dagger 2 and Uncle Bob Martin's Clean Architecture approach. Optimized for tablets.
-- [dmilicic/android-clean-sample-app](https://github.com/dmilicic/android-clean-sample-app) - A sample cost-tracker app that showcases [my Clean architecture approach](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029) to build Android applications.
-- [hitherejoe/Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate) - Android Boilerplate project using RxJava, Dagger 2, Espresso, Mockito + more!
-- [ribot/android-boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot http://ribot.co.uk
-- [Automattic/simplenote-android](https://github.com/Automattic/simplenote-android) - Simplenote for Android http://simplenote.com
-- [grantmk/Personal-RSS-Feed-Android](https://github.com/grantmk/Personal-RSS-Feed-Android) - An Android app to read your favourite RSS streams. Part of a course on Udemy, [Android Mobile App - A Published RSS Reader App](https://www.udemy.com/creating-beautiful-android-apps-design-code-and-publish/).
-* [saulmm/OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material) - This repository aims to show examples about material design in a real app, the application is a client of the  [OpenLibra Project](https://openlibra.com/en/) - The idea behind this project is to try and bring together in one place, most of the quality bibliographic resources, with a special interest in those written in the Spanish language. In this way, all that you need to do to consult a book, or easily download it to print or read on your favorite device, is come to this service and perform your searches in an easy and categorized way.
-- [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - Plaid is a showcase of [material design](https://www.google.com/design/spec/) that we hope you will keep installed. It pulls in news & inspiration from [Designer News](https://www.designernews.co/), [Dribbble](https://dribbble.com/) & [Product Hunt](https://www.producthunt.com/). It demonstrates the use of [material principles](https://www.google.com/design/spec/material-design/introduction.html#introduction-principles) to create tactile, bold, understandable UIs.
-	- [Refactoring Plaid App – A reactive MVP approach](https://www.youtube.com/watch?v=wWyPc_HN77c) (www.youtube.com) by [Hannes Dorfmann](http://hannesdorfmann.com/) - 
-The aim of this talk is to showcase the importance of a well thought out software architecture and how to implement such an MVP based architecture and last but not least to clarify what the word “reactive” actually means in this context.
-		- [REFACTORING PLAID APP - A REACTIVE MVP APPROACH (PART 1)](http://hannesdorfmann.com/android/plaid-refactored-1) (29 Nov 2015)
-		- [REFACTORING PLAID APP - A REACTIVE MVP APPROACH (PART 2)](http://hannesdorfmann.com/android/plaid-refactored-2) (02 Dec 2015)
-
-
-## Apps Ideas
-
-### The Star Wars API
-[SWAPI](https://swapi.co/) - The Star Wars API
-
-### OpenLibra Project
-[saulmm/OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material) - This repository aims to show examples about material design in a real app, the application is a client of the  [OpenLibra Project](https://openlibra.com/en/) - The idea behind this project is to try and bring together in one place, most of the quality bibliographic resources, with a special interest in those written in the Spanish language. In this way, all that you need to do to consult a book, or easily download it to print or read on your favorite device, is come to this service and perform your searches in an easy and categorized way.
-
-### Feed Reader - Feedr, Freedr
-* [The power of the RSS reader](http://www.marco.org/2013/03/26/power-of-rss)  
-  RSS is best for following a large number of infrequently updated sites: sites that you’d never remember to check every day because they only post occasionally, and that your social-network friends won’t reliably find or link to.
-* [FreedReadR: RSS Reader Created With AngularJS (part 1 of 2)](http://www.codeproject.com/Articles/817417/FreedReadR-RSS-Reader-Created-With-AngularJS-part)  [(part 2 of 2)](http://www.codeproject.com/Articles/820771/FreedReadR-RSS-Reader-Created-With-AngularJS-par)  
-	This is the second part of a two part article.  The first article stored all data in localStorage and that made it so only the one browser you originally used was able to retrieve your list of feeds.   
-	Now, with the changes in this article you will be able to sign in using your social account (Facebook, Google, Yahoo) and save your feed list to your own personal account.
-* [Android RSS Reader Application using SQLite Part 1](http://www.androidhive.info/2012/05/android-rss-reader-application-using-sqlite-part-1/) and [Part 2](http://www.androidhive.info/2012/05/android-rss-reader-application-using-sqlite-part-2/) by [Ravi Tamada](http://www.twitter.com/ravitamada) - In this tutorial I am going to explain building simple rss reader application.
-* [dodyg/AndroidRivers](https://github.com/dodyg/AndroidRivers/) - free news reader for Android - developed using Kotlin.
-* [razyhitty/Munch](https://github.com/crazyhitty/Munch) - A minimalistic Rss Reader for Android devices.
-- [grantmk/Personal-RSS-Feed-Android](https://github.com/grantmk/Personal-RSS-Feed-Android) - An Android app to read your favourite RSS streams. Part of a course on Udemy, [Android Mobile App - A Published RSS Reader App](https://www.udemy.com/creating-beautiful-android-apps-design-code-and-publish/).
-* [crazyhitty/Rss-Manager](https://github.com/crazyhitty/Rss-Manager) - A simple, lightweight and easy to use library to parse rss feeds into your app.
-* [salendron/Simple-Rss2-Android](https://github.com/salendron/Simple-Rss2-Android) - A really simple RSS 2.0 Parser Library for Android.
-* [nerdability/AndroidRssReader](https://github.com/nerdability/AndroidRssReader) - A sample Android RSS reader - in the style of Google Reader.
-* [thasmin/Riasel](https://github.com/thasmin/Riasel) - RSS/Atom parser library for Android.
 
 
 

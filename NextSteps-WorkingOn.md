@@ -29,6 +29,7 @@
 * [How to automatically show Progress Bar on each retrofit API call?](http://stackoverflow.com/a/37621831/2768802)
 * [Android: An Introduction to Material Design](https://www.raywenderlich.com/103367/material-design)
 * [hiagokimo/TMDb](https://github.com/thiagokimo/TMDb) - A simple Android client for The Movie DB in Material Design.
+* [crazyhitty/RecyclerViewPagination](https://github.com/crazyhitty/RecyclerViewPagination) - Simple implementation of scroll down to load more concept in RecyclerView.
 
 ### Android MVP
 * [Refactoring to MVP](https://medium.com/@Miqubel/refactoring-to-mvp-b504a3774ffd) (Oct 20, 2016) by [Miquel Beltran](https://medium.com/@Miqubel) - This article is for beginners who just heard about MVP but are not sure on how to switch from their current solution to it. We will start with a MainActivity that implements an API call and we will move that logic into the MVP pattern.
