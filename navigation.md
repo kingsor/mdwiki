@@ -1,6 +1,15 @@
 # MDwiki
 
-[About](index.md)
+[Next Steps]()
+
+  * [Ideas Bucket](NextSteps-IdeasBucket.md)
+  * [Working On](NextSteps-WorkingOn.md)
+  * [Android](NextSteps-Android.md)
+  - - - -
+  * # Neetpiq
+  * [Android Certification](NextSteps-AndroidCertification.md)
+  * [Neetpiq Channel](NextSteps-Neetpiq.md)
+  
 
 [Notes and Ideas](Notes-Ideas.md)
 
@@ -21,6 +30,7 @@
 
   * [Url Shortener](UrlShortener.md)
 
+[About](about.md)
 
 [gimmick:theme (inverse: false)](united)
 
