@@ -10,6 +10,10 @@
   * # Neetpiq
   * [Android Certification](NextSteps-AndroidCertification.md)
   * [Neetpiq Channel](NextSteps-Neetpiq.md)
+  - - - -
+  * # Fitness
+  * [Ideas](NextSteps-Fitness.md)
+  * [Acrobalance](NextSteps-Acrobalance.md)
   
 [Project Ideas]()
 
