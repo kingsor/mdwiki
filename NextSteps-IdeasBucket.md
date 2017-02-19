@@ -2,16 +2,16 @@
 # Next steps - Ideas Bucket
 
 ## Focus On
-* [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256) (Aug 8, 2016) - Why do products sometimes label things as my stuff, and sometimes label things as your stuff? As you tap around from app to app, you’ll see that there’s no standard way to refer to the things that belong to you within an interface. Some say it’s my stuff. Some say it’s your stuff.
-* [Hygieia](https://developer.capitalone.com/opensource-projects/hygieia) - One Dashboard for the Entire CI/CD Pipeline. A single, configurable, easy to use dashboard to visualize near real-time status of the entire software delivery pipeline.
-	* [capitalone/Hygieia](https://github.com/capitalone/Hygieia) - Hygieia℠ is a single, configurable, easy to use dashboard to visualize near real-time status of the entire delivery pipeline.
+* [Building a Bookmarking App with Electron, VueJs, and Firebase](https://coligo.io/bookmarking-app-electron-vuejs-firebase/) (Apr 1st, 2016) - In this tutorial we will be building a cross-platform, real-time Bookmarking Application using [Electron](http://electron.atom.io/), [Firebase](https://www.firebase.com/), and [VueJs](http://vuejs.org/). We will be covering everything from setting up your project structure and configuring Webpack to creating the Electron app and building the Vue components.
 * [Electron](http://electron.atom.io/) - Build cross platform desktop apps with JavaScript, HTML, and CSS. If you can build a website, you can build a desktop app. Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
 	* [Electron: Desktop Apps with Web Languages - GitHub Universe 2016](https://www.youtube.com/watch?v=FNHBfN8c32U) - In this session, hosted by Zeke Sikelianos, an Electron Developer at GitHub, we'll look at some of the amazing things you can create using features and tools Electron inherits from the Chromium browser, Node.js, and the vast ecosystem of npm modules.
 	* [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer
 	* [Pencil Project](http://pencil.evolus.vn/) - Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
+* [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256) (Aug 8, 2016) - Why do products sometimes label things as my stuff, and sometimes label things as your stuff? As you tap around from app to app, you’ll see that there’s no standard way to refer to the things that belong to you within an interface. Some say it’s my stuff. Some say it’s your stuff.
+* [Hygieia](https://developer.capitalone.com/opensource-projects/hygieia) - One Dashboard for the Entire CI/CD Pipeline. A single, configurable, easy to use dashboard to visualize near real-time status of the entire software delivery pipeline.
+	* [capitalone/Hygieia](https://github.com/capitalone/Hygieia) - Hygieia℠ is a single, configurable, easy to use dashboard to visualize near real-time status of the entire delivery pipeline.
 * [Simplenote](https://simplenote.com/) - The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 	* [Simplenote - iOS, Android, and macOS Apps Now Open Source](https://simplenote.com/2016/08/11/ios-android-and-macos-apps-now-open-source/)
-* [Building a Bookmarking App with Electron, VueJs, and Firebase](https://coligo.io/bookmarking-app-electron-vuejs-firebase/) (Apr 1st, 2016) - In this tutorial we will be building a cross-platform, real-time Bookmarking Application using [Electron](http://electron.atom.io/), [Firebase](https://www.firebase.com/), and [VueJs](http://vuejs.org/). We will be covering everything from setting up your project structure and configuring Webpack to creating the Electron app and building the Vue components.
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
 	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
 	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
@@ -63,14 +63,9 @@
 ## Android to REST
 * [Android Login and Registration with PHP, MySQL and SQLite](http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/) (Jan 31, 2012) - In this tutorial I am going to explain how to build complete login and registration system in android using PHP, MySQL and SQLite. Also this tutorial covers how to build simple API using PHP and MySQL.
 * [How to create REST API for Android app using PHP, Slim and MySQL – Day 1/2](http://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-app-using-php-slim-and-mysql-day-12-2/) ( Jan 19, 2014) - This tutorial gives enough knowledge about building a REST API for very beginners. As this tutorial seems lengthy, I had divided it into 2 parts. In the 1st part we learn fundamental concepts of REST and do the required setup. In the 2nd part building actual API (writing PHP & MySQL code) is covered.
-* [Android Hosting PHP, MySQL RESTful services to DigitalOcean](http://www.androidhive.info/2015/03/android-hosting-php-mysql-restful-services-to-digitalocean/) (Mar 5, 2015) - Few months back I wrote an article about developing RESTful services using PHP, Slim and MySQL. But the services are not accessible to public as they are limited to localhost. In this article we are going to learn how to host the services on a realtime server, so that, they can be accessible from anywhere.
 
 
 ## REST Api Architecture
-* [Swagger](http://swagger.io/) - Swagger is a simple yet powerful representation of your RESTful API. With the largest ecosystem of API tooling on the planet, thousands of developers are supporting Swagger in almost every modern programming language and deployment environment. With a Swagger-enabled API, you get interactive documentation, client SDK generation and discoverability. We created Swagger to help fulfill the promise of APIs. Swagger helps companies like Apigee, Getty Images, Intuit, LivingSocial, McKesson, Microsoft, Morningstar, and PayPal build the best possible services with RESTful APIs. Now in version 2.0, Swagger is more enabling than ever. And it's 100% open source software.
-	* [Swagger Editor](http://editor.swagger.io/) - An editor for designing Swagger specifications from scratch, using a simple YAML structure. [Source](https://github.com/swagger-api/swagger-editor)
-	* [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - Turn an API spec into client SDKs or server-side code. You can also generate API client or server using the online generator (https://generator.swagger.io).
-* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The goal of The OpenAPI Specification is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interfaces have done for lower-level programming, OpenAPI removes the guesswork in calling the service.
 * [The Importance of Serializing API Output](https://philsturgeon.uk/api/2015/05/30/serializing-api-output/) (May 30 2015) - when I talk about serialization, which I refer to as "adding a presentation layer to your data".
 * [Building a Decent API](https://philsturgeon.uk/api/2013/07/12/building-a-decent-api/) (Jul 12 2013) - PHP developers are increasingly moving over to API development, as are a lot of server-side developers. It's a trend that's been happening for the last few years and it's getting to the point where everyone and their dog are putting articles showing off how to build "awesome" API's. Unfortunately most of these are either woefully inadequate or are promoting bad practices. I'm not going to link to any bad examples because that's just rude, but here are some golden rules that I stick to when building out API's.
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design) (Jul 5, 2016) - HTTP API design guide extracted from work on the [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference).
@@ -78,20 +73,20 @@
 When you’re designing, testing, or releasing a new Web API, you’re building a new system on top of an existing complex and sophisticated system. At a minimum, you’re building upon HTTP, which is built upon TCP/IP, which is built upon a series of tubes. You’re also building upon a web server, an application framework, and maybe an API framework.  
 Most people, myself included, are not aware of all the intricacies and nuances of every component they’re building upon. Even if you deeply understand each component, it’s probably going to be too much information to hold in your head at one time.
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) (Last updated Aug 12, 2015) - Your data model has started to stabilize and you're in a position to create a public API for your web app. You realize it's hard to make significant changes to your API once it's released and want to get as much right as possible up front. Now, the internet has no shortage on opinions on API design. But, since there's no one widely adopted standard that works in all cases, you're left with a bunch of choices: What formats should you accept? How should you authenticate? Should your API be versioned? In designing an API for [Enchant](http://www.enchant.com/) (a [Zendesk Alternative](http://www.enchant.com/zendesk-alternative)), I've tried to come up with pragmatic answers to these questions. My goal is for the [Enchant API](http://dev.enchant.com/api/v1) to be easy to use, easy to adopt and flexible enough to [dogfood](http://en.wikipedia.org/wiki/Eating_your_own_dog_food) for our own user interfaces.
+* [Swagger](http://swagger.io/) - Swagger is a simple yet powerful representation of your RESTful API. With the largest ecosystem of API tooling on the planet, thousands of developers are supporting Swagger in almost every modern programming language and deployment environment. With a Swagger-enabled API, you get interactive documentation, client SDK generation and discoverability. We created Swagger to help fulfill the promise of APIs. Swagger helps companies like Apigee, Getty Images, Intuit, LivingSocial, McKesson, Microsoft, Morningstar, and PayPal build the best possible services with RESTful APIs. Now in version 2.0, Swagger is more enabling than ever. And it's 100% open source software.
+	* [Swagger Editor](http://editor.swagger.io/) - An editor for designing Swagger specifications from scratch, using a simple YAML structure. [Source](https://github.com/swagger-api/swagger-editor)
+	* [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - Turn an API spec into client SDKs or server-side code. You can also generate API client or server using the online generator (https://generator.swagger.io).
+* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The goal of The OpenAPI Specification is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interfaces have done for lower-level programming, OpenAPI removes the guesswork in calling the service.
 
 
-## Design Pattern with CSharp
-* [Introduzione ai design pattern](https://msdn.microsoft.com/it-it/library/cc185081.aspx) da Riccardo Golia ( Microsoft MVP Solutions Architect) - Introduzione ai design pattern, tassonomia dei più diffusi per poi descrivere in articoli successivi quali design pattern sono presenti nel .NET framework.
-
-
-## Node.js
-* [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/) by [RisingStack](http://blog.risingstack.com/) - RisingStack conducted a survey during 2016 Summer to find out how developers use Node.js and what technologies they prefer with it. This article summarizes the results.
-* [Node.js Examples - How Enterprises use Node in 2016](https://blog.risingstack.com/node-js-examples-how-enterprises-use-node-in-2016/) - Fortunately, the Node Foundation’s [“Enterprise conversations”](https://www.youtube.com/playlist?list=PLfMzBWSH11xYNeUJXap4NTMX3TFtH-_0z) project lets us peek into the life of the greatest enterprises and their use cases as well. This article summarizes how GoDaddy, Netflix, and Capital One uses Node.js in 2016.
-* [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) - This is the first post of an upcoming Node.js tutorial series called Node Hero - in these chapters, you can learn how to get started with Node.js and deliver software products using it. We are going to start with the basics - no prior Node.js knowledge is needed. The goal of this series is to get you started with Node.js and make sure you understand how to write an application using it, so don't hesitate to ask us if anything is unclear!
-
-
-## ASP.NET MVC & Web API
-* [Business Application using HTML5, ASP.NET MVC, Web API and Knockout.js - Part 1](http://www.dotnetcurry.com/aspnet-mvc/1199/business-app-html5-aspnet-mvc-webapi-knockoutjs) (10/12/2015) - This article is divided in two parts. In the first part, we will see the server-side bits including Database design, Model design, and MVC and WEB API controllers. In part 2 of this article we will implement the client-side logic using jQuery and Knockout library. **Case Study**: There are several property owners who want to Sell or Rent their properties to local residents as well as visitors or investors. But it is challenging for them to put an advertisement in the newspaper, because of limited local circulation and also due to the financials involved. So we will make it easier for them by creating a web portal where they can display properties details and make it available to internet users, all across the globe.
+## Web APIs, Building
+- [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by [Phil Sturgeon](https://leanpub.com/u/philsturgeon)
+- [Matthias Biehl](https://twitter.com/mattbiehl) - API Integration Architect | Innovation Catalyst | Digital Transformer | Author and Advisor [@API_University](https://twitter.com/API_University) - Zürich, CH - Stockholm, SE
+- Working with Vagrant
+- Creating REST Web API
+	- with Nancy (ASP.NET)
+	- with Node (Javascript)
+	- with Laravel (PHP)
 
 
 ## Backend Architectures
@@ -104,6 +99,28 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 * [Stamplay](https://stamplay.com/) - Chain together APIs as if they are Lego blocks arranging them into service based apps
 
 
+## Design Pattern with CSharp
+* [Introduzione ai design pattern](https://msdn.microsoft.com/it-it/library/cc185081.aspx) da Riccardo Golia ( Microsoft MVP Solutions Architect) - Introduzione ai design pattern, tassonomia dei più diffusi per poi descrivere in articoli successivi quali design pattern sono presenti nel .NET framework.
+
+
+## Node.js
+* [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/) by [RisingStack](http://blog.risingstack.com/) - RisingStack conducted a survey during 2016 Summer to find out how developers use Node.js and what technologies they prefer with it. This article summarizes the results.
+* [Node.js Examples - How Enterprises use Node in 2016](https://blog.risingstack.com/node-js-examples-how-enterprises-use-node-in-2016/) - Fortunately, the Node Foundation’s [“Enterprise conversations”](https://www.youtube.com/playlist?list=PLfMzBWSH11xYNeUJXap4NTMX3TFtH-_0z) project lets us peek into the life of the greatest enterprises and their use cases as well. This article summarizes how GoDaddy, Netflix, and Capital One uses Node.js in 2016.
+* [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) - This is the first post of an upcoming Node.js tutorial series called Node Hero - in these chapters, you can learn how to get started with Node.js and deliver software products using it. We are going to start with the basics - no prior Node.js knowledge is needed. The goal of this series is to get you started with Node.js and make sure you understand how to write an application using it, so don't hesitate to ask us if anything is unclear!
+* [CRUD application using AngularJs, NodeJs, MongoDB : Part 1 : introduction](http://www.codeproject.com/Articles/1070392/CRUD-application-using-AngularJs-NodeJs-MongoDB) (Jan 11, 2016) - This article explains how we can implement a Web application built using angularjs, node js to perform create, read, update and delete operations on MongoDB database.
+* [NodeSchool Workshopper](http://nodeschool.io/#workshopper-list) - Workshopper is the name used for the open source lesson modules associated with NodeSchool. All are self guided (you don't need to attend a workshop to do one) and most work offline.
+* [Must See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.mctqif9hr) (Nov 27, 2015) by [Eric Elliott](https://medium.com/@_ericelliott) - They said JS was slow. Now it's fast. Said we had no dev tools. We have the best. Said it sucks for big apps. We rock them.
+* [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/) (Jun 7, 2015) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
+* [Authenticate a Node.js API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens) (Apr 22, 2015) - As a primer to this article, go ahead and get yourself familiar with token based authentication principles and the standard used for token based authentication, JSON Web Tokens. Now that we’ve got all the important information about token based authentication out of the way, let’s build a very simple Node API and use tokens to authenticate users that request access.
+* [RESTful API Using Node and Express 4](https://codeforgeek.com/2015/03/restful-api-node-and-express-4/) (Mar 16, 2015) - In this tutorial we’ll learn how to create basic REST API’s using Node.js and Express which retrieve data from MySQL database and give response in JSON format.
+* [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) (Apr 15, 2014) - Today we’ll be looking at creating a RESTful API using Node, Express 4 and its Router, and Mongoose to interact with a MongoDB instance. We will also be testing our API using Postman in Chrome.
+* [JavaScript Weekly - Best of 2015](http://javascriptweekly.com/issues/264) - A special issue looking back at the best of 2015.
+
+
+## ASP.NET MVC & Web API
+* [Business Application using HTML5, ASP.NET MVC, Web API and Knockout.js - Part 1](http://www.dotnetcurry.com/aspnet-mvc/1199/business-app-html5-aspnet-mvc-webapi-knockoutjs) (10/12/2015) - This article is divided in two parts. In the first part, we will see the server-side bits including Database design, Model design, and MVC and WEB API controllers. In part 2 of this article we will implement the client-side logic using jQuery and Knockout library. **Case Study**: There are several property owners who want to Sell or Rent their properties to local residents as well as visitors or investors. But it is challenging for them to put an advertisement in the newspaper, because of limited local circulation and also due to the financials involved. So we will make it easier for them by creating a web portal where they can display properties details and make it available to internet users, all across the globe.
+
+
 ## Microservices
 * [Microservices: Real Architectural Patterns](https://medium.com/@skamille/microservices-real-architectural-patterns-68bd83bbb6cd) by [Camille Fournier](https://medium.com/@skamille) - A dissection of our favorite folk architecture.
 
@@ -112,23 +129,7 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d) - Together with our colleagues at the University of Hamburg, we — that is Felix Gessert, Wolfram Wingerath, Steffen Friedrich and Norbert Ritter — presented an overview over the NoSQL landscape at SummerSOC’16 last month. Here is the written gist. We give our best to convey the condensed NoSQL knowledge we gathered building Baqend.
 
 
-## REST services
-
-### Java
-* [Build a Spatial JEE6 Application with JAX-RS, CDI, and MongoDB](https://blog.openshift.com/spatial-jee6-jax-rs-cdi-mongodb-on-paas/) (January 22, 2013) - The series that started with MongoDB and spatial point data now has a web service in Python, Node.JS, and Ruby Sinatra. Now we will take that same web service and port it to JEE6 with JBoss EAP 6 on Openshift. The two primary concepts this post will demonstrate are JAX-RS for making REST type web services and CDI for carrying out simple context dependency injection.
-* [Modern Web Apps using JAX-RS, MongoDB, JSON, and jQuery](https://dzone.com/articles/modern-web-apps-using-jax-rs) (Apr 30, 2012) - There are many different ways to build a browser-based client but for this example I will use jQuery and JavaScript since they are the most common. There are also many ways to expose the RESTful services, here I will use JAX-RS since it is the Java standard for RESTful services. For back-end data persistence this example will also use MongoDB, a NoSQL database.
-* [Mongo JEE](https://angelozerr.wordpress.com/about/mongo_jee/) - I have decided to write Mongo JEE articles which shows in action the feature of Mongo JEE. Those articles will explain step by step how to develop a Dojo Grid with pagination which consumes a JAX-RS REST service which produces JSON coming directly from the MongoDB with Java Driver and not with Pojo-Mapper.
-* [Blade](http://bladejava.com/) - Blade is a lightweight MVC framework. It is based on the principles of simplicity and elegance. Source code on [GitHub](https://github.com/biezhi/blade).
-	* Lightweight: the code is simple and the structure is clear
-	* Modular (you can choose which components to use)
-	* Supports plug-in extension mechanism
-	* RESTful style routing interface
-	* Supports multiple configuration files (currently properties, json and coding)
-	* Embedded jetty server and template engine support
-	* Supports JDK 1.6 and up
-
-
-### CSharp
+## NancyFx
 * [About NancyFx by Phil Hack](http://www.philhack.com/nancyfx/)
 * [Exploring the nancy module](https://github.com/NancyFx/Nancy/wiki/Exploring%20the%20Nancy%20module)
 * [Nancy Documentation](https://github.com/NancyFx/Nancy/wiki/Documentation)
@@ -160,17 +161,6 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 * [SimpleNotepad-Swing](https://github.com/statickidz/SimpleNotepad-Swing) - Word processor made with Java and Swing with MVP pattern.
 
 
-## Node.js
-* [CRUD application using AngularJs, NodeJs, MongoDB : Part 1 : introduction](http://www.codeproject.com/Articles/1070392/CRUD-application-using-AngularJs-NodeJs-MongoDB) (Jan 11, 2016) - This article explains how we can implement a Web application built using angularjs, node js to perform create, read, update and delete operations on MongoDB database.
-* [NodeSchool Workshopper](http://nodeschool.io/#workshopper-list) - Workshopper is the name used for the open source lesson modules associated with NodeSchool. All are self guided (you don't need to attend a workshop to do one) and most work offline.
-* [Must See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.mctqif9hr) (Nov 27, 2015) by [Eric Elliott](https://medium.com/@_ericelliott) - They said JS was slow. Now it's fast. Said we had no dev tools. We have the best. Said it sucks for big apps. We rock them.
-* [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/) (Jun 7, 2015) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
-* [Authenticate a Node.js API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens) (Apr 22, 2015) - As a primer to this article, go ahead and get yourself familiar with token based authentication principles and the standard used for token based authentication, JSON Web Tokens. Now that we’ve got all the important information about token based authentication out of the way, let’s build a very simple Node API and use tokens to authenticate users that request access.
-* [RESTful API Using Node and Express 4](https://codeforgeek.com/2015/03/restful-api-node-and-express-4/) (Mar 16, 2015) - In this tutorial we’ll learn how to create basic REST API’s using Node.js and Express which retrieve data from MySQL database and give response in JSON format.
-* [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) (Apr 15, 2014) - Today we’ll be looking at creating a RESTful API using Node, Express 4 and its Router, and Mongoose to interact with a MongoDB instance. We will also be testing our API using Postman in Chrome.
-* [JavaScript Weekly - Best of 2015](http://javascriptweekly.com/issues/264) - A special issue looking back at the best of 2015.
-
-
 ## Automattic
 * [Remote @ Automattic](http://workdifferent.com/remote-automattic/) - The 10 year old company behind WordPress.com, Akismet, Jetpack and VaultPress, has a 100% distributed workforce of almost 400 people scattered across 37 countries, where all communication happens online, across different platforms, rapidly, often in acronyms, and entirely in public. There’s no email, no office, no set work hours, no vacation policy, and seemingly little in the way of structure.
 * [How To Go Remote](http://workdifferent.com/how-to-remote/) - Too often, the idea of running a distributed (remote) team is dismissed as only possible when the company is small. This week, Automattic showed us that it’s not only possible to have a fully distributed team at a large scale, but you become a billion dollar company doing it. In this HowToWD we are going to disassemble the learnings from Automattic into a format that can be easily implemented by any team.
@@ -183,16 +173,6 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 	* [Desktop Apps](https://apps.wordpress.com/desktop/) for [Windows 7+](https://apps.wordpress.com/d/windows), [Mac OS X (10.9+)](https://apps.wordpress.com/d/osx), [Linux (.tar.gz)](https://apps.wordpress.com/d/linux), [Linux (.deb)](https://apps.wordpress.com/d/linux-deb)
 	* [WordPress.com for Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop is an [Electron](https://github.com/atom/electron) wrapper for [Calypso](https://github.com/Automattic/wp-calypso), the new WordPress.com front-end. It works on Mac, Windows, and Linux.
 	* [Contribute](https://apps.wordpress.com/contribute/)
-
-
-## Web APIs, Building
-- [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by [Phil Sturgeon](https://leanpub.com/u/philsturgeon)
-- [Matthias Biehl](https://twitter.com/mattbiehl) - API Integration Architect | Innovation Catalyst | Digital Transformer | Author and Advisor [@API_University](https://twitter.com/API_University) - Zürich, CH - Stockholm, SE
-- Working with Vagrant
-- Creating REST Web API
-	- with Nancy (ASP.NET)
-	- with Node (Javascript)
-	- with Laravel (PHP)
 
 
 ## Udacity Courses

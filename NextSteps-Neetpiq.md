@@ -15,10 +15,10 @@
 * [Sam Soffes](https://soff.es/) -> [Kingsor](http://kingsor.github.io/)
 
 ## Fonts for Logo
+* [Selection of fonts on Google Fonts](https://fonts.google.com/selection?selection.family=Aldrich|Audiowide|Baloo|Baumans|Keania+One|Nova+Round|Orbitron|Pirata+One|Prosto+One|Rationale|Rum+Raisin|Text+Me+One|Tulpen+One|Yanone+Kaffeesatz)
 * [Laconic at Font Squirrel](https://www.fontsquirrel.com/fonts/laconic?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
-* [Orbitron at Font Squirrel](https://www.fontsquirrel.com/fonts/Orbitron?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
-* [Tulpen One at Font Squirrel](https://www.fontsquirrel.com/fonts/tulpen-one?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
 * [Nord at Font Squirrel](https://www.fontsquirrel.com/fonts/Nord?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
+* [MADE IN NYC](https://nytm.org/made) - A collection of internet companies made with ♥ in NYC. Usefull source of logo inspiration.
 
 ## Update GitHub blog
 * [Mo Valipour's Blog](http://mvalipour.github.io/) - using the same theme I use on my blog, but better than mine.
@@ -44,6 +44,9 @@
 ## Coworking
 * [Il coworking di Open](http://www.openmilano.com/it/coworking/) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
 
+## Startup Europe
+* [EU-Startups](http://www.eu-startups.com/) - it is one of the leading startup blogs in Europe and was founded in October of 2010. We write about internet and tech startups out of Europe and provide our readers with data-driven analysis, interviews and startup-related news. In addition to our focus on young technology companies, we also publish other kinds of news out of the tech-space that has a commercial or cultural impact on startups in Europe.
+
 ## Toptal
 [Toptal](https://www.toptal.com/) is a global network of elite software engineers, designers, and finance experts. Toptal works with clients to understand their project/team needs and custom-match them with pre-screened designers, developers, and finance experts who join their teams on a full-time, part-time, or hourly basis.
 
@@ -68,7 +71,9 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * [My Experience with Toptal](https://www.linkedin.com/pulse/my-experience-toptal-doug-sparling) (Apr 27, 2015) by [Doug Sparling](https://www.linkedin.com/in/dsparling)
 * [My experience with Toptal – 5 month review](https://drakuwa.wordpress.com/2014/05/28/my-experience-with-toptal/) (May 28, 2014) by [Bojan Ilievski](https://www.toptal.com/resume/bojan-ilievski) - Skopje, Macedonia - Member since November 26, 2013
 * [Ask HN: What do developers earn on toptal.com?](https://news.ycombinator.com/item?id=10107448) (last comment about one year ago)
-* [xxx](http://www.michaelhoughton.com/article/toptal-review-the-interview-process)
+* [Toptal Review: The Interview Process](http://www.michaelhoughton.com/article/toptal-review-the-interview-process) (Apr 20, 2014)
+	* [TOPTAL - A FOLLOW UP AFTER 6 MONTHS](http://www.michaelhoughton.com/article/toptal-a-follow-up-after-6-months) (Oct 2, 2014)
+	* [TOPTAL - THE 2 YEAR UPDATE YOU HAVE BEEN WAITING FOR!](http://www.michaelhoughton.com/article/toptal-review-2-year-developer-update) (Jun 22, 2016)
 
 
 
