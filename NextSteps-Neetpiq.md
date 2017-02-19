@@ -39,6 +39,7 @@
 ## Working remotely
 * [How to work Remotely with 150+ people](https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c) (Jan 3, 2016) - Work asynchronously, keep a single source of truth, avoid management overhead and communicate.
 * [Working Remotely at GitLab: An update](https://about.gitlab.com/2016/03/04/remote-working-gitlab/) (Mar 4, 2016) - In April 2015, we published the Remote Manifesto on our blog. There were 9 people in the company at that time, which means we've grown over 600% during that time, with 54 people on our team as I write this.
+* [How to Remote](https://dev.to/andydangerous/how-to-remote) (Feb 15, 2017) - Working with a remote team has many advantages. It can also be hard to do effectively. This post is how to remote. As for why, maybe I'll cover that in the future.
 
 ## Coworking
 * [Il coworking di Open](http://www.openmilano.com/it/coworking/) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
