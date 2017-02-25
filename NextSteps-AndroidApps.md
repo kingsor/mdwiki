@@ -1,5 +1,12 @@
 # Next Steps - Android Apps
 
+## Android Samples
+* [Google Samples](https://github.com/googlesamples)
+* [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+* [googlesamples/android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
+* [googlesamples/android-ShareActionProvider](https://github.com/googlesamples/android-ShareActionProvider) - This sample shows you how a provide a context-sensitive ShareActionProvider.
+
+
 ## Android Apps on GitHub
 * [JoaquimLey/avenging](https://github.com/JoaquimLey/avenging) - Android app built with an MVP approach without RxJava or Dagger. Uses [Marvel Comics API](https://developer.marvel.com/) as a service which contains all the information about its vast library.
 - [lguipeng/Notes](https://github.com/lguipeng/Notes) - Material Design Notes App

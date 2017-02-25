@@ -1,6 +1,30 @@
 
 # NextSteps - Neetpiq Channel
 
+## Java & C++
+[Sviluppatore Java Senior](https://www.infojobs.it/milano/sviluppatore-java-senior-rif.-0102/of-i9d25b3b79c47cfae6fa46947998cba&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i9d25b3b79c47cfae6fa46947998cba%5d-%5b1064067356%5d@1&navOrigen=e_push)
+
+* Java Standard Edition
+* Sviluppo di applicazioni multithreading
+* Ottimizzazione e conoscenza del garbage collector
+* Conoscenza approfondita della Virtual Machine di Java
+* Esperienza sull'ottimizzazione delle performance di Java (differenze tra StringBuffer e StringBuilder, ecc...)
+
+[Sviluppatore C++ Expert](https://www.infojobs.it/milano/sviluppatore-c-expert-rif.-0101/of-i4f0e8cf1b6419ca12d1f21781bfa49&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i4f0e8cf1b6419ca12d1f21781bfa49%5d-%5b1064067356%5d@1&navOrigen=e_push)
+
+* Conoscenza approfondita di C++
+* Gestione dei semafori per lo sviluppo multithreading con mutex
+* Utilizzo di librerie boost e STL
+
+### About C++
+
+* [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
+	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
+* [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) - The NVIDIA® CUDA® Toolkit provides a comprehensive development environment for C and C++ developers building GPU-accelerated applications. The CUDA Toolkit includes a compiler for NVIDIA GPUs, math libraries, and tools for debugging and optimizing the performance of your applications. You’ll also find programming guides, user manuals, API reference, and other documentation to help you get started quickly accelerating your application with GPUs.
+* [CUDA Toolkit Documentation v8.0](http://docs.nvidia.com/cuda/#axzz4ZW2SB9h4) - installation guides and programming guides.
+
+
 ## Inspiration
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
 	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.

@@ -33,6 +33,7 @@
 ### Slack Alternatives
 * [Five Open-Source Slack Alternatives](https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/) (Nov 2, 2015)
 * [Rocket.Chat](https://rocket.chat/) - [demo](https://demo.rocket.chat/)
+	* [Deploying Rocket.Chat on Vagrant with Ubuntu](https://rocket.chat/docs/installation/automation-tools/vagrant/)
 * [Gabriel Engel: Building Rocket.Chat in Meteor](https://www.youtube.com/watch?v=yzkId54vng8)
 
 
