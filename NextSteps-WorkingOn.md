@@ -66,7 +66,12 @@ This app may be the base for Webmarks server. I'd like to publish on neetpiq dom
 I'd like to use asp.net + nancyfx (it may be interesting to investigate about asp.net core) for this project.
 
 * [StackExchange/dapper-dot-net](https://github.com/StackExchange/dapper-dot-net) - Dapper - a simple object mapper for .Net
-* [Token-Based Authentication for Web Service APIs in C# MVC .NET](http://www.primaryobjects.com/2015/05/08/token-based-authentication-for-web-service-apis-in-c-mvc-net/) (May 8, 2015) - In this tutorial, we’ll walk through how to create a simple, but effective token-based authentication framework to secure a .NET REST API. 
+* [Token-Based Authentication for Web Service APIs in C# MVC .NET](http://www.primaryobjects.com/2015/05/08/token-based-authentication-for-web-service-apis-in-c-mvc-net/) (May 8, 2015) - In this tutorial, we’ll walk through how to create a simple, but effective token-based authentication framework to secure a .NET REST API.
+* [scottksmith95/CSharp.Readability](https://github.com/scottksmith95/CSharp.Readability) - Readability API binding and OAuth connect support for the readability.com API.
+* [marek-stoj/NReadability](https://github.com/marek-stoj/NReadability) (Latest commit on Jun 29, 2014) - NReadability is a tool for removing clutter from HTML pages so that they are more enjoyable to read. 
+* [ceee/ReadSharp](https://github.com/ceee/ReadSharp) (Latest commit on Dec 13, 2015) - Extract meaningful website contents using a port of NReadability.
+* [Deserializing JSON resources with C# and Json.NET](http://www.codetrench.com/deserializing-json-resources-with-c-sharp-and-json-net/) (Apr 22, 2015)
+* [Json.NET](http://www.newtonsoft.com/json) - Popular high-performance JSON framework for .NET)
 
 Something about Mercury and who is working on it.
 

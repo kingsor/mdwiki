@@ -39,7 +39,27 @@
 
 ### Meteor
 * [An introduction to Meteor](https://www.youtube.com/watch?v=dOCMpoeuwTI)
+* [10 Tips to Get a Job Working with Meteor](https://themeteorchef.com/blog/10-tips-to-get-a-job-working-with-meteor/) (Mar 28, 2016) - [Nate Strauser](http://natestrauser.me/)'s recommendations for developers looking to get a job with Meteor.
+* [We Work Meteor](https://www.weworkmeteor.com/) - The premier job board and developer community space specifically for Meteor. [Source code](https://github.com/nate-strauser/wework) on GitHub.
 
+
+## Web Apps Samples (Open Source)
+
+### Issue Tracker
+* [NullDesk/TicketDesk](https://github.com/NullDesk/TicketDesk) (ASP.NET MVC 5, Entity Framework 6, C#) - TicketDesk is an issue tracking system for IT Help Desks. TicketDesk is efficient and designed to do only one thing, facilitate communications between help desk staff and end users. The overriding design goal is to be as simple and frictionless for both users and help desk staff as is possible.
+
+### ToDo List or Task List
+* [Todo-Backend](http://www.todobackend.com/) - The Todo-Backend project helps showcase and compare different language and framework combinations for building web services. This website defines a simple web API in the form of a todo list and users can create their own identical APIs using various tech stacks. This website then provides a spec runner to verify that the user implementation is identical to the base implementation. The Todo-Backend project was inspired by the [TodoMVC project](http://todomvc.com/), and some code (specifically the todo client app) was borrowed directly from TodoMVC.
+	* [C# with NancyFx](http://todobackend.apphb.com/todo-backend) - implementation with Nancy Framework and NDatabase, an inmemory object database.
+		* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
+		* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
+* [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
+	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
+	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
+* [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://getstream.io/blog/depth-guide-building-rest-api-node-js-restify-mongodb/) - a todo list sample using Restify and MongoDB.
+
+### Notes App
+* [NoteCloud API](https://github.com/itderrickh/NoteCloudApi) - The api for NoteCloud. Written with NancyFx and .NET utilities.
 
 ## ToRead List
 * [moq/moq4](https://github.com/moq/moq4) - Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
@@ -49,16 +69,26 @@
 * [IV parte: Codebase e Continuous Integration](http://www.mokabyte.it/2016/04/rapiddevelopment-4/) - in questo articolo, ci riallacciamo a quanto raccontato nelle parti precedenti della serie e guardiamo ad alcune strategie che la Continuous Integration la fanno fuori per davvero. Il fatto è che tali strategie di gestione del processo di sviluppo sono molto più comuni di quanto si pensi e che, soprattutto, vengono impiegate in ambiti in cui, in buona fede, si ritiene di fare Continuous Integration, Continuous Delivery e Continuous Deployment.
 
 
+## .NET Core
+* [.NET Core and Visual Studio Code](https://code.visualstudio.com/docs/runtimes/dotnet) - .NET Core gives you a blazing fast and modular platform for creating server applications that run on Windows, Linux and Mac. Use Visual Studio Code with the C# extension to get a powerful editing experience with full support for C# IntelliSense (smart code completion) and debugging.
+* [Integrating ASP.NET Core Web API and Entity Framework Core](http://www.mithunvp.com/aspnet-core-web-api-entity-framework-core/) - ASP.NET Core Web API and Entity Framework Core (EF Core) are the two latest Microsoft’s offerings into Open Source world gaining momentum. We will learn to integrate them together, being cross platform technologies you are not bound to Windows for learning.
+* [Creating ASP.NET Core Web API in Visual Studio 2015](http://www.mithunvp.com/create-aspnet-mvc-6-web-api-visual-studio-2015/) - This tutorial lets us create very basic ASP.NET Core Web API using Visual Studio 2015. We will be creating Contacts API which lets do popular CRUD operations.
+	* [ASP.NET Core Middleware – Write a Custom Middleware in Web API](http://www.mithunvp.com/write-custom-asp-net-core-middleware-web-api/) - ASP.NET Core Middleware concept is one of powerful features introduced, it gives us complete control over HTTP pipeline using Request and response. They effectively replacement for HttpModules and HttpHandlers. The scenario is “A user registers in our system to generate a “user-key“; using this key all requests are sent. The Web API project will check if “user-key” exists or not in header. If exists move ahead to validate if key is part of our registered user, if not then respond back with 401 status code. If key not present in Header then it will be Bad Request.
+	* [Integrating ASP.NET Core Web API and Entity Framework Core](http://www.mithunvp.com/aspnet-core-web-api-entity-framework-core/) - EF Core is an object-relational mapper (O/RM) that enables .NET developers to work with a database using .NET objects. It eliminates the need for most of the data-access code that developers usually need to write. EF Core supports many database engines.
+	* [mithunvp/ContactsAPI](https://github.com/mithunvp/ContactsAPI) - Contacts API is creating using ASP.NET Core Web API and using EF Core
+* [kriasoft/aspnet-starter-kit](https://github.com/kriasoft/aspnet-starter-kit) - Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate. 
+* [[How To] Deploy your ASP.NET Core app to Heroku](https://bolorundurowinnertimothy.wordpress.com/2016/10/04/how-to-deploy-your-asp-net-core-app-to-heroku/) (Oct 4, 2016) - using a custom buildpack.
+* [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - This is a Heroku buildpack for building ASP.NET 5 apps using project.json files and the kpm package manager. Please note: This buildpack is an experimental project and is not officially supported.
+	* [Buildpacks](https://devcenter.heroku.com/articles/buildpacks) - Buildpacks are responsible for transforming deployed code into a slug, which can then be executed on a dyno. Buildpacks are composed of a set of scripts, and depending on the programming language, the scripts will retrieve dependencies, output generated assets or compiled code, and more. This output is assembled into a slug by the slug compiler.
+	* [Third-Party Buildpacks](https://devcenter.heroku.com/articles/third-party-buildpacks) - Heroku maintains a collection of officially supported buildpacks but there are also third-party buildpacks that enable you to use languages and frameworks beyond those that are officially supported by Heroku.
+
+
 ## GoLang
 * [Golang for the C# Developer – [1] Intro](https://shonnlyga.wordpress.com/2016/10/01/golang-for-the-csharp-developer-intro/)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [IDEs and Plugins for Go](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)
 * [Go Courses](https://github.com/golang/go/wiki/Courses)
 * [Getting Started on Heroku with Go](https://devcenter.heroku.com/articles/getting-started-with-go#set-up)
-
-
-## Readability Api Client
-* [scottksmith95/CSharp.Readability](https://github.com/scottksmith95/CSharp.Readability) - Readability API binding and OAuth connect support for the readability.com API.
 
 
 ## Android to REST
@@ -147,10 +177,6 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 * [Patterns for web services in NancyFx](http://anthonysteele.co.uk/patterns-of-web-apis-in-nancy) (Feb 25, 2014)
 * [From ASP.NET MVC to Nancy - Part 1](http://www.jhovgaard.com/from-aspnet-mvc-to-nancy-part-1/) (Feb 17, 2012) - Nancy is a Micro .NET framework inspired by Sinatra. If you ever felt that ASP.NET MVC is too heavy, too clumsy and stands in your way, Nancy is definitely made for you. I’m an average .NET developer. I work for a middle-sized company where we build a lot of applications in ASP.NET MVC 3 and because of that, this series of posts will be designed for exactly that purpose: moving from ASP.NET MVC 3 to Nancy.
 * [Frictionless .NET Web App Development with Nancy ](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) (Oct 10, 2011)
-* [marek-stoj/NReadability](https://github.com/marek-stoj/NReadability) (Latest commit on Jun 29, 2014) - NReadability is a tool for removing clutter from HTML pages so that they are more enjoyable to read. 
-* [ceee/ReadSharp](https://github.com/ceee/ReadSharp) (Latest commit on Dec 13, 2015) - Extract meaningful website contents using a port of NReadability.
-* [Deserializing JSON resources with C# and Json.NET](http://www.codetrench.com/deserializing-json-resources-with-c-sharp-and-json-net/) (Apr 22, 2015)
-* [Json.NET](http://www.newtonsoft.com/json) - Popular high-performance JSON framework for .NET)
 
 
 ## Java

@@ -1,29 +1,6 @@
 
 # NextSteps - Neetpiq Channel
 
-## Java & C++
-[Sviluppatore Java Senior](https://www.infojobs.it/milano/sviluppatore-java-senior-rif.-0102/of-i9d25b3b79c47cfae6fa46947998cba&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i9d25b3b79c47cfae6fa46947998cba%5d-%5b1064067356%5d@1&navOrigen=e_push)
-
-* Java Standard Edition
-* Sviluppo di applicazioni multithreading
-* Ottimizzazione e conoscenza del garbage collector
-* Conoscenza approfondita della Virtual Machine di Java
-* Esperienza sull'ottimizzazione delle performance di Java (differenze tra StringBuffer e StringBuilder, ecc...)
-
-[Sviluppatore C++ Expert](https://www.infojobs.it/milano/sviluppatore-c-expert-rif.-0101/of-i4f0e8cf1b6419ca12d1f21781bfa49&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i4f0e8cf1b6419ca12d1f21781bfa49%5d-%5b1064067356%5d@1&navOrigen=e_push)
-
-* Conoscenza approfondita di C++
-* Gestione dei semafori per lo sviluppo multithreading con mutex
-* Utilizzo di librerie boost e STL
-
-### About C++
-
-* [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
-	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
-* [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.
-* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) - The NVIDIA® CUDA® Toolkit provides a comprehensive development environment for C and C++ developers building GPU-accelerated applications. The CUDA Toolkit includes a compiler for NVIDIA GPUs, math libraries, and tools for debugging and optimizing the performance of your applications. You’ll also find programming guides, user manuals, API reference, and other documentation to help you get started quickly accelerating your application with GPUs.
-* [CUDA Toolkit Documentation v8.0](http://docs.nvidia.com/cuda/#axzz4ZW2SB9h4) - installation guides and programming guides.
-
 
 ## Inspiration
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
@@ -43,6 +20,7 @@
 * [Laconic at Font Squirrel](https://www.fontsquirrel.com/fonts/laconic?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
 * [Nord at Font Squirrel](https://www.fontsquirrel.com/fonts/Nord?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
 * [MADE IN NYC](https://nytm.org/made) - A collection of internet companies made with ♥ in NYC. Usefull source of logo inspiration.
+* [50 Simple, Yet Clever Logo Designs for Inspiration and Ideas](http://1stwebdesigner.com/logo-inspiration/) (Oct 18, 2016) - What makes a logo look clever? It’s the hidden thought, deeper meaning behind the logo design. The design world has seen some amazing logos and we wanted to display some of the best examples of clever logo design for you as a source of inspiration. They show how with great creativity how much simplicity can make such a big impact.
 
 ## Update GitHub blog
 * [Mo Valipour's Blog](http://mvalipour.github.io/) - using the same theme I use on my blog, but better than mine.
@@ -60,7 +38,13 @@
 * [HTML5 UP](https://html5up.net/) - makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable, 100% Free under the Creative Commons.
 * [Start Bootstrap](https://startbootstrap.com/) - Start Bootstrap is a collection of free to download Bootstrap themes and templates. Our themes are open source and you can use them for any purpose, even comercially!
 
+
+## Freelancing
+* [HOW TO MOVE FROM FULL TIME EMPLOYMENT TO FULL TIME FREELANCING?](http://www.michaelhoughton.com/article/how-to-move-from-full-time-employment-to-full-time-freelancing) (Dec 12, 2016) - I have been freelancing full time for the majority of my 12 year career. Freelancing was something I had always dreamt about doing - I wanted to be my own boss and run my own business - and freelancing has allowed me to do just that! More importantly it gives me the freedom to choose the types of projects to work on and be selective about the clients I work with. The aim of this article is to help clarify the steps which a Developer needs to take to break into freelancing.
+* [HOW I FREELANCE? ATTRIBUTES REQUIRED FOR FULL TIME FREELANCING](http://www.michaelhoughton.com/article/how-i-freelance-attributes-required-for-full-time-freelancing) (Nov 10, 2016) - After 6 months on the Toptal core team, I recently went back into full time freelancing - doing PHP development. My experience on the Toptal core team was amazing, however I missed the freelancing lifestyle and found working around meetings and schedules at times very stressful. While being a freelancer does comes with risks and certainly isn't for everyone - I would love to take the time to highlight what I love about freelancing and how I like to work!
+
 ## Working remotely
+* [7 Remote Work Trends to take into consideration in 2017](http://remoters.net/remote-work-trends-2017)
 * [How to work Remotely with 150+ people](https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c) (Jan 3, 2016) - Work asynchronously, keep a single source of truth, avoid management overhead and communicate.
 * [Working Remotely at GitLab: An update](https://about.gitlab.com/2016/03/04/remote-working-gitlab/) (Mar 4, 2016) - In April 2015, we published the Remote Manifesto on our blog. There were 9 people in the company at that time, which means we've grown over 600% during that time, with 54 people on our team as I write this.
 * [How to Remote](https://dev.to/andydangerous/how-to-remote) (Feb 15, 2017) - Working with a remote team has many advantages. It can also be hard to do effectively. This post is how to remote. As for why, maybe I'll cover that in the future.
@@ -87,6 +71,7 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * [Filippo Conforti](https://www.toptal.com/resume/filippo-conforti) - Florence, Italy - Member since June 13, 2015
 * [Doug Sparling](https://www.toptal.com/resume/doug-sparling) - Chiang Mai, Thailand - Member since January 6, 2015
 * [Demir Selmanovic](https://www.toptal.com/resume/demir-selmanovic) - Sarajevo, Bosnia and Herzegovina - Member since May 23, 2014
+* [Mikhail Selivanov](https://www.toptal.com/resume/mikhail-selivanov) - Solna, Sweden - Member since December 19, 2012
 * [Evgeniy T.](https://www.upwork.com/freelancers/~01d95397aacaef6e88) - from Upwork
 
 ### Working for and hiring process
@@ -99,6 +84,30 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * [Toptal Review: The Interview Process](http://www.michaelhoughton.com/article/toptal-review-the-interview-process) (Apr 20, 2014)
 	* [TOPTAL - A FOLLOW UP AFTER 6 MONTHS](http://www.michaelhoughton.com/article/toptal-a-follow-up-after-6-months) (Oct 2, 2014)
 	* [TOPTAL - THE 2 YEAR UPDATE YOU HAVE BEEN WAITING FOR!](http://www.michaelhoughton.com/article/toptal-review-2-year-developer-update) (Jun 22, 2016)
+
+
+## Java & C++
+[Sviluppatore Java Senior](https://www.infojobs.it/milano/sviluppatore-java-senior-rif.-0102/of-i9d25b3b79c47cfae6fa46947998cba&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i9d25b3b79c47cfae6fa46947998cba%5d-%5b1064067356%5d@1&navOrigen=e_push)
+
+* Java Standard Edition
+* Sviluppo di applicazioni multithreading
+* Ottimizzazione e conoscenza del garbage collector
+* Conoscenza approfondita della Virtual Machine di Java
+* Esperienza sull'ottimizzazione delle performance di Java (differenze tra StringBuffer e StringBuilder, ecc...)
+
+[Sviluppatore C++ Expert](https://www.infojobs.it/milano/sviluppatore-c-expert-rif.-0101/of-i4f0e8cf1b6419ca12d1f21781bfa49&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i4f0e8cf1b6419ca12d1f21781bfa49%5d-%5b1064067356%5d@1&navOrigen=e_push)
+
+* Conoscenza approfondita di C++
+* Gestione dei semafori per lo sviluppo multithreading con mutex
+* Utilizzo di librerie boost e STL
+
+### About C++
+
+* [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
+	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
+* [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) - The NVIDIA® CUDA® Toolkit provides a comprehensive development environment for C and C++ developers building GPU-accelerated applications. The CUDA Toolkit includes a compiler for NVIDIA GPUs, math libraries, and tools for debugging and optimizing the performance of your applications. You’ll also find programming guides, user manuals, API reference, and other documentation to help you get started quickly accelerating your application with GPUs.
+* [CUDA Toolkit Documentation v8.0](http://docs.nvidia.com/cuda/#axzz4ZW2SB9h4) - installation guides and programming guides.
 
 
 
