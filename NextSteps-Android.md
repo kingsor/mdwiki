@@ -1,18 +1,27 @@
 # Next steps - Android
 
-
-## Android Development Tips and Tools
+## Android Studio
 * [Auto-generate Android Log TAG in Android Studio/Intellij idea](http://stackoverflow.com/a/29378779/2768802) (Feb 10, 2016)
 * [The powerful Android Studio](http://saulmm.github.io/the-powerful-android-studio) (Jun 8, 2016) - In this article, I (Saul Molinero) would like to give importance to the role that plays IntelliJ IDEA over Android Studio besides a few more tips that I use every day.
-* [Android Development Best Practices](https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3) (Sep 30, 2016) - Let’s explore some best practices in designing and developing Android apps.
 * [Android Studio Like a Boss](https://realm.io/news/360andev-philippe-breault-android-studio-ide-like-boss-structural-search-refactoring-java/) (Sep 24, 2016) by [Philippe Breault](https://twitter.com/pbreault) - Mastering your IDE is a great way to become more productive. However, it seems like every blog post or video rehashes the same basic tricks. In this 360AnDev talk, we will take a detailed look at powerful but lesser known features. We will bend structural search and replace to our will, develop our own Live Templates, force Android Studio to interact with external tools and we will take a look at lesser known refactorings that you should be using.
 * [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2) (Nov 8, 2016) by [Michal Bialas](https://medium.com/@mmbialas) - The reason of this article, is to list helpful tips, tricks, shortcuts and resources for Android Studio that will improve your overall efficiency and performance. 
-* [Good practices to become a great Android developer — Part 2](https://medium.com/lateral-view/good-practices-to-become-a-great-android-developer-part-2-523fb5262108) (Nov 9, 2016) - At LateralView we seek ways to keep improving our development process to make it more efficient and agile as possible. Here are some advices and tips that can help you optimize your work as an Android developer.
 * [Android Studio: A Few Tips and Tricks](https://medium.com/@margaretmz/android-studio-a-few-tips-and-tricks-5de4486799c9) (Aug 20, 2016) by [Margaret Maynard-Reid](https://medium.com/@margaretmz) - I want to share a few tips and tricks on Android Studio. This is not a comprehensive guide on how to use the IDE, and rather some of the tools I personally use to make myself more productive, and a few resources where you can learn more.
 * [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375) (Apr 14, 2016) by [Reto Meier](https://medium.com/@retomeier) - We all have better things to do with our time than count the exact number of Android Studio pro-tips in a 3 minute video — check it out for yourself and see how many are new to you.
+
+
+## Android Development Tips
+* [Android Development Best Practices](https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3) (Sep 30, 2016) - Let’s explore some best practices in designing and developing Android apps.
+* [Good practices to become a great Android developer — Part 2](https://medium.com/lateral-view/good-practices-to-become-a-great-android-developer-part-2-523fb5262108) (Nov 9, 2016) - At LateralView we seek ways to keep improving our development process to make it more efficient and agile as possible. Here are some advices and tips that can help you optimize your work as an Android developer.
 * [My favorite people and resources to learn Android programming from](https://m.signalvnoise.com/my-favorite-people-and-resources-to-learn-android-programming-from-293f249e2b4e) (Sep 11, 2016) - Keep your skills razor sharp by following these fantastic people and resources in the Android community.
 * [Android Development Useful Tools](https://medium.freecodecamp.com/android-development-useful-tools-fd73283e82e3) (Sep 10, 2016) by [Amit Shekhar](https://medium.freecodecamp.com/@amitshekhar) - Over the years, these are the Android development tools I’ve found most useful. I consistently use these tools to build apps. I recommend you take a look at them and see whether they’re a good fit for your tool chain.
 * [Hard-Earned Android Programming Experiences](https://medium.freecodecamp.com/hard-earned-android-programming-experiences-361fbaaecd07) (Jul 7, 2016) - This post, like Kent Beck says in his book Implementation Patterns, “…is based on a rather fragile premise that good code matters…”. But we all know that clean code matters as we’ve had to deal for so long with its lack. And so does Kent.
+* [Building Android Apps — 30 things that experience made me learn the hard way](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.hczcak4m3) by [César Ferreira](http://cesarferreira.com/) - Here are some of the things I’ve learned along the way that I want to share with you.
+* [6 Things I wish I Knew before I Wrote my first Android App](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/) by [Philosophical Hacker](http://www.philosophicalhacker.com/) - Here’s a list of things to keep in mind as you’re writing your first Android apps. These lessons are derived from actual mistakes that I made in the source code of my first app, mistakes that I’ll be showing below. Keeping these things in mind will help you write an app that you can be a little prouder of.
+
+
+## Guidelines
+* [Project and Code Style Guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) by [ribot](http://ribot.co.uk/)
+* [Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) by [ribot](http://ribot.co.uk/) - The architecture of our Android apps is based on the MVP (Model View Presenter) pattern.
 
 
 ## Tools
@@ -22,15 +31,31 @@
 	* [Action bar/tab icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-actionbar.html) - Generate icons for the app bar or tab bars.
 * [Droid@Screen](http://droid-at-screen.org/) - With Droid@Screen you can easily show the screen of an Android device on a computer/laptop (PC, Mac, Linux, ...) and then project the desktop using a LCD-projector. Droid@Screen is used for training/teaching and demonstration purposes. Here are the [installation instructions](http://droid-at-screen.org/installation.html)
 
+
 ## Learning
 * [CodePath Android Cliffnotes](http://guides.codepath.com/android) - Welcome to the open-source CodePath Android Cliffnotes! Our goal is to become the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic. 
+
+### Vogella tutorials
+* [Android Development](http://www.vogella.com/tutorials/android.html)
+* [Design Patterns in Java](http://www.vogella.com/tutorials/designpattern.html)
+* [Android examples from the vogella.com website](https://github.com/vogellacompany/codeexamples-android)
+
 
 ## Product Design
 * [What Everyone Should Know About The Process Behind App Design](https://www.smashingmagazine.com/2016/11/what-everyone-should-know-about-the-process-behind-app-design/) (Nov 7, 2016) - How do you go about designing an app? So, here’s an article about just that. A top level, somewhat simplified, and very honest overview of the steps involved in designing an app. This is an account of how most of the apps I work on are born, complete with shameless links to the tools I use.
 * [The Product Design Sprint](https://robots.thoughtbot.com/the-product-design-sprint) (Nov 6, 2013) - A [Product Design Sprint](http://www.gv.com/lib/the-product-design-sprint-a-five-day-recipe-for-startups) (invented by Google Ventures) is a 5-phase exercise which uses design thinking to reduce the inherent risks in successfully bringing products to market. We’ve done many product design sprints and have made them a standard part of our consulting engagements.
 * [Product Design](https://www.udacity.com/course/product-design--ud509) @ [Udacity](https://www.udacity.com/) - There is nothing more powerful than an idea whose time has come. This course is designed to help you materialize your game-changing idea and transform it into a product that you can build a business around. Product Design blends theory and practice to teach you product validation, UI/UX practices, Google’s Design Sprint and the process for setting and tracking actionable metrics.
 
+
+### How Much Does an App Cost
+* [How Much Does an App Cost: A Massive Review of Pricing and other Budget Considerations](http://savvyapps.com/blog/how-much-does-app-cost-massive-review-pricing-budget-considerations)
+	* Apps built by the largest app companies, the "**big boys**", likely cost anywhere **between \$500,000 to \$1,000,000**.
+	* Apps built **by agencies like [savvy apps](http://savvyapps.com/)** cost anywhere **between \$150,000 to $\450,000**.
+	* Apps built **by smaller shops**, possibly with only 2-3 people, likely cost anywhere **between \$50,000 to \$100,000**.
+
+
 ## Inspiration
+
 ### [Android Mobile Bootcamp at Netflix](http://codepath.com/androidbootcamp)
 We are partnering with Netflix to provide our **accelerated 8-week Android evening** bootcamp starting on March 6th. The course was designed to cover all the major topics required to build Android apps according to current industry best practices incorporating the following elements:
 
@@ -45,6 +70,7 @@ We are partnering with Netflix to provide our **accelerated 8-week Android eveni
 At the end of the program, your group will compete for prizes at Demo Day and you will join our CodePath alumni network which provides access to curated events, opportunities to network with other alums, and priority selection for future classes.
 
 > This is an interesting idea to organize time to learn a topic. Set a goal, and organize time as in a sprint (4/8 weeks) with sessions of 2/3 hours each. May be two or three times a week. Fine tune time and effort. Repeat.
+
 
 ## Mobile UX
 * [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8) (Nov 3, 2016) by [Zoltan Kollin](https://medium.com/@kollinz) - If you’re working on digital products, you have already read dozens of articles describing how and why the hamburger navigation on mobile (and desktop!) hurts UX metrics due of its [low discoverability](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#6d1e) and efficiency. (You can read some of best articles on the topic [here](https://www.nngroup.com/articles/hamburger-menus/), [here](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/), [here](http://www.lukew.com/ff/entry.asp?1945), and [here](http://jamesarcher.me/hamburger-menu).) Luckily, more and more sites and apps are experimenting with alternative, more efficient solutions for this very problem. None of the ideas listed here is better than the others, their viability and performance obviously depend on the content and the context.
@@ -140,8 +166,6 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Memory leaks in Android — identify, treat and avoid](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8) - A common cause of crashes are memory leaks. This particular problem can manifest itself in various forms. In most cases we see a steady increase in memory usage until the app cannot allocate more resources and inevitably crashes. To help others minimize time spent on code analysis I’ll present a few examples of memory leaks, how to identify them in Android Studio and most importantly how to remove them.
 
 
-
-
 ## Code Guidelines
 * [Android Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) by [ribot](http://ribot.co.uk/)
 * [Project guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) by [ribot](http://ribot.co.uk/)
@@ -181,10 +205,6 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.9klrxrpmg) (Jul 6, 2015) by [Mike Hearn](https://medium.com/@octskyward) - An ode to the language you’ve never heard of.
 
 
-## Vogella tutorials
-* [Android Development](http://www.vogella.com/tutorials/android.html)
-* [Design Patterns in Java](http://www.vogella.com/tutorials/designpattern.html)
-* [Android examples from the vogella.com website](https://github.com/vogellacompany/codeexamples-android)
 
 
 ## Android Misc
