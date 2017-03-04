@@ -43,6 +43,21 @@
 * [HOW TO MOVE FROM FULL TIME EMPLOYMENT TO FULL TIME FREELANCING?](http://www.michaelhoughton.com/article/how-to-move-from-full-time-employment-to-full-time-freelancing) (Dec 12, 2016) - I have been freelancing full time for the majority of my 12 year career. Freelancing was something I had always dreamt about doing - I wanted to be my own boss and run my own business - and freelancing has allowed me to do just that! More importantly it gives me the freedom to choose the types of projects to work on and be selective about the clients I work with. The aim of this article is to help clarify the steps which a Developer needs to take to break into freelancing.
 * [HOW I FREELANCE? ATTRIBUTES REQUIRED FOR FULL TIME FREELANCING](http://www.michaelhoughton.com/article/how-i-freelance-attributes-required-for-full-time-freelancing) (Nov 10, 2016) - After 6 months on the Toptal core team, I recently went back into full time freelancing - doing PHP development. My experience on the Toptal core team was amazing, however I missed the freelancing lifestyle and found working around meetings and schedules at times very stressful. While being a freelancer does comes with risks and certainly isn't for everyone - I would love to take the time to highlight what I love about freelancing and how I like to work!
 
+
+## Open Source Contribution
+
+Starting from this Meetup Group: [Open Source Saturday Milano](https://www.meetup.com/Open-Source-Saturday-Milano/) I've found again this way to contribute to project on GitHub.
+
+### [Code Triage](https://www.codetriage.com/)
+* [Wallabag android-app](https://www.codetriage.com/wallabag/android-app)
+* [nancy](https://www.codetriage.com/nancyfx/nancy)
+* [dapper-dot-net](https://www.codetriage.com/stackexchange/dapper-dot-net)
+* [Glucosio Android App](https://www.codetriage.com/glucosio/glucosio-android)
+* [realm-java](https://www.codetriage.com/realm/realm-java)
+
+
+
+
 ## Working remotely
 * [7 Remote Work Trends to take into consideration in 2017](http://remoters.net/remote-work-trends-2017)
 * [How to work Remotely with 150+ people](https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c) (Jan 3, 2016) - Work asynchronously, keep a single source of truth, avoid management overhead and communicate.
