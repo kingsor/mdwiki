@@ -47,12 +47,14 @@
 
 ### Issue Tracker
 * [NullDesk/TicketDesk](https://github.com/NullDesk/TicketDesk) (ASP.NET MVC 5, Entity Framework 6, C#) - TicketDesk is an issue tracking system for IT Help Desks. TicketDesk is efficient and designed to do only one thing, facilitate communications between help desk staff and end users. The overriding design goal is to be as simple and frictionless for both users and help desk staff as is possible.
+* [Build A Support Ticket Application With Laravel – Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-laravel-part-2) (Aug 15, 2016) - Learn how to build a support ticket application with Laravel.
 
 ### ToDo List or Task List
 * [Todo-Backend](http://www.todobackend.com/) - The Todo-Backend project helps showcase and compare different language and framework combinations for building web services. This website defines a simple web API in the form of a todo list and users can create their own identical APIs using various tech stacks. This website then provides a spec runner to verify that the user implementation is identical to the base implementation. The Todo-Backend project was inspired by the [TodoMVC project](http://todomvc.com/), and some code (specifically the todo client app) was borrowed directly from TodoMVC.
 	* [C# with NancyFx](http://todobackend.apphb.com/todo-backend) - implementation with Nancy Framework and NDatabase, an inmemory object database.
 		* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
 		* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
+* [Creating a Nancy web api to store data in MongoDB](https://suttoncodefield.wordpress.com/2015/09/24/creating-a-nancy-web-api-to-store-data-in-mongodb/) (Sep 24, 2015) - Today I’m going to describe a quick example of a web api for storing and retrieving data in a MongoDB.
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
 	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
 	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
@@ -61,9 +63,9 @@
 ### Notes App
 * [NoteCloud API](https://github.com/itderrickh/NoteCloudApi) - The api for NoteCloud. Written with NancyFx and .NET utilities.
 
+
 ## ToRead List
 * [moq/moq4](https://github.com/moq/moq4) - Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
-* [Build A Support Ticket Application With Laravel – Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-laravel-part-2) (Aug 15, 2016) - Learn how to build a support ticket application with Laravel.
 * [Using dependency injection in Java](http://www.vogella.com/tutorials/DependencyInjection/article.html) by [Lars Vogel](http://www.vogella.com/) - This article describes the concept of dependency injection from a Java perspective.
 * [Java 8, Lambda e la programmazione funzionale](http://www.mokabyte.it/2015/09/java8lambda/) - Un “esperimento” con le funzioni di ordine superiore.
 * [IV parte: Codebase e Continuous Integration](http://www.mokabyte.it/2016/04/rapiddevelopment-4/) - in questo articolo, ci riallacciamo a quanto raccontato nelle parti precedenti della serie e guardiamo ad alcune strategie che la Continuous Integration la fanno fuori per davvero. Il fatto è che tali strategie di gestione del processo di sviluppo sono molto più comuni di quanto si pensi e che, soprattutto, vengono impiegate in ambiti in cui, in buona fede, si ritiene di fare Continuous Integration, Continuous Delivery e Continuous Deployment.
@@ -160,46 +162,9 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d) - Together with our colleagues at the University of Hamburg, we — that is Felix Gessert, Wolfram Wingerath, Steffen Friedrich and Norbert Ritter — presented an overview over the NoSQL landscape at SummerSOC’16 last month. Here is the written gist. We give our best to convey the condensed NoSQL knowledge we gathered building Baqend.
 
 
-## NancyFx
-* [About NancyFx by Phil Hack](http://www.philhack.com/nancyfx/)
-* [Exploring the nancy module](https://github.com/NancyFx/Nancy/wiki/Exploring%20the%20Nancy%20module)
-* [Nancy Documentation](https://github.com/NancyFx/Nancy/wiki/Documentation)
-* [Nancy Blog](http://blog.nancyfx.org/)
-	* [One Nancy blog to aggregate them all!](http://blog.nancyfx.org/one-nancy-blog-to-aggregate-them-all/)
-* [#nancyfx on twitter](https://twitter.com/hashtag/nancyfx)
-* [Use NancyFx in ASP.NET Core](http://www.talkingdotnet.com/use-nancyfx-in-asp-net-core/) (Sep 22, 2016) -  In this post, let’s find out how to use NancyFx in ASP.NET Core.
-* [Microservices in .NET with C#, the Nancy framework, and OWIN middleware](https://manning.com/books/microservices-in-net) by [Christian Horsdal](http://www.horsdal-consult.dk/p/about.html) (Publication in Summer 2016 - estimated) - Microservices in .NET shows you how to build and deploy secure and operations-friendly microservices using Nancy. The book takes you through an introduction to the microservices architectural style. Next, you’ll learn important practical aspects of developing microservices from simple core concepts to more sophisticated. Throughout the book, you’ll see many code examples implementing it with lightweight .NET technologies—most prominently Nancy. By the end, you’ll be able to quickly and easily build reliable and operations-friendly microservices using Nancy, OWIN and other open technologies. 
-* [ASP.NET 5 Series: NancyFX](http://codeopinion.com/asp-net-5-series-nancyfx/) (Jan 11, 2016) - Last week I decided to start migrating one of my existing ASP.NET application that uses NancyFX over to ASP.NET 5.  The process is actually pretty straight forward if you are familiar with OWIN.
-* [NancyFX: .NET Web Framework](http://codeopinion.com/nancyfx-net-web-framework/) (Sep 22, 2015) - There has been a bigger wave of alternative and open source software awareness within .NET. NancyFX is a great alternative that is very mature, simple and has great documentation.
-* [horsdal/ShortURL](https://github.com/horsdal/ShortURL) (Latest commit on May 28, 2015)
-* [Nancy handler functions revisited](http://anthonysteele.co.uk/nancy-handler-functions-revisited) (Jun 6, 2014)
-* [More patterns for web services in NancyFx](http://anthonysteele.co.uk/more-patterns-for-web-services-in-nancyfx) (Mar 1, 2014)
-* [Patterns for web services in NancyFx](http://anthonysteele.co.uk/patterns-of-web-apis-in-nancy) (Feb 25, 2014)
-* [From ASP.NET MVC to Nancy - Part 1](http://www.jhovgaard.com/from-aspnet-mvc-to-nancy-part-1/) (Feb 17, 2012) - Nancy is a Micro .NET framework inspired by Sinatra. If you ever felt that ASP.NET MVC is too heavy, too clumsy and stands in your way, Nancy is definitely made for you. I’m an average .NET developer. I work for a middle-sized company where we build a lot of applications in ASP.NET MVC 3 and because of that, this series of posts will be designed for exactly that purpose: moving from ASP.NET MVC 3 to Nancy.
-* [Frictionless .NET Web App Development with Nancy ](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) (Oct 10, 2011)
-
-
-## Java
-* [20 Java Interview Questions from Investment Banks (Answered)](http://www.codeproject.com/Tips/1061616/Java-Interview-Questions-from-Investment-Banks-Ans) - Some core Java questions from Interviews from Investment banks, good for technical round.
-
-
 ## Swing
 * [Filthy Rich Clients](http://filthyrichclients.org/) by [Chet Haase](http://graphics-geek.blogspot.it/) and [Romain Guy](http://www.curious-creature.com/) - Create stunning visual and animated effects with Swing and Java 2D. Learn graphics and animation fundamentals as well as advanced rendering techniques. The source code for all the examples and demos from the book is available on [GitHub](https://github.com/romainguy/filthy-rich-clients) under the BSD license.
 * [SimpleNotepad-Swing](https://github.com/statickidz/SimpleNotepad-Swing) - Word processor made with Java and Swing with MVP pattern.
-
-
-## Automattic
-* [Remote @ Automattic](http://workdifferent.com/remote-automattic/) - The 10 year old company behind WordPress.com, Akismet, Jetpack and VaultPress, has a 100% distributed workforce of almost 400 people scattered across 37 countries, where all communication happens online, across different platforms, rapidly, often in acronyms, and entirely in public. There’s no email, no office, no set work hours, no vacation policy, and seemingly little in the way of structure.
-* [How To Go Remote](http://workdifferent.com/how-to-remote/) - Too often, the idea of running a distributed (remote) team is dismissed as only possible when the company is small. This week, Automattic showed us that it’s not only possible to have a fully distributed team at a large scale, but you become a billion dollar company doing it. In this HowToWD we are going to disassemble the learnings from Automattic into a format that can be easily implemented by any team.
-* [The New WordPress.com](https://developer.wordpress.com/calypso/) - A single interface to manage all your WordPress.com or Jetpack-enabled sites, built with the latest web technologies and used by millions of people - and now it's open source.
-	* [Installing Calypso](https://github.com/Automattic/wp-calypso/blob/master/docs/install.md)
-	* [Calypso Bootstrap](https://github.com/Automattic/wp-calypso-bootstrap) - is a development environment for Calypso built with Vagrant and Puppet.
-* [Simplenote](https://simplenote.com/) - Your notes stay updated across all your devices. No buttons to press. It just works. Backups, syncing, sharing — it’s all completely free.
-* [Wordpress.com Apps](https://apps.wordpress.com/)
-	* [Mobile Apps](https://apps.wordpress.com/mobile/)
-	* [Desktop Apps](https://apps.wordpress.com/desktop/) for [Windows 7+](https://apps.wordpress.com/d/windows), [Mac OS X (10.9+)](https://apps.wordpress.com/d/osx), [Linux (.tar.gz)](https://apps.wordpress.com/d/linux), [Linux (.deb)](https://apps.wordpress.com/d/linux-deb)
-	* [WordPress.com for Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop is an [Electron](https://github.com/atom/electron) wrapper for [Calypso](https://github.com/Automattic/wp-calypso), the new WordPress.com front-end. It works on Mac, Windows, and Linux.
-	* [Contribute](https://apps.wordpress.com/contribute/)
 
 
 ## Udacity Courses

@@ -71,6 +71,10 @@ Starting from this Meetup Group: [Open Source Saturday Milano](https://www.meetu
 ## Startup Europe
 * [EU-Startups](http://www.eu-startups.com/) - it is one of the leading startup blogs in Europe and was founded in October of 2010. We write about internet and tech startups out of Europe and provide our readers with data-driven analysis, interviews and startup-related news. In addition to our focus on young technology companies, we also publish other kinds of news out of the tech-space that has a commercial or cultural impact on startups in Europe.
 
+## Java Interview Questions
+* [20 Java Interview Questions from Investment Banks (Answered)](http://www.codeproject.com/Tips/1061616/Java-Interview-Questions-from-Investment-Banks-Ans) - Some core Java questions from Interviews from Investment banks, good for technical round.
+
+
 ## Toptal
 [Toptal](https://www.toptal.com/) is a global network of elite software engineers, designers, and finance experts. Toptal works with clients to understand their project/team needs and custom-match them with pre-screened designers, developers, and finance experts who join their teams on a full-time, part-time, or hourly basis.
 
@@ -99,6 +103,21 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * [Toptal Review: The Interview Process](http://www.michaelhoughton.com/article/toptal-review-the-interview-process) (Apr 20, 2014)
 	* [TOPTAL - A FOLLOW UP AFTER 6 MONTHS](http://www.michaelhoughton.com/article/toptal-a-follow-up-after-6-months) (Oct 2, 2014)
 	* [TOPTAL - THE 2 YEAR UPDATE YOU HAVE BEEN WAITING FOR!](http://www.michaelhoughton.com/article/toptal-review-2-year-developer-update) (Jun 22, 2016)
+
+
+## Automattic
+* [Remote @ Automattic](http://workdifferent.com/remote-automattic/) - The 10 year old company behind WordPress.com, Akismet, Jetpack and VaultPress, has a 100% distributed workforce of almost 400 people scattered across 37 countries, where all communication happens online, across different platforms, rapidly, often in acronyms, and entirely in public. There’s no email, no office, no set work hours, no vacation policy, and seemingly little in the way of structure.
+* [How To Go Remote](http://workdifferent.com/how-to-remote/) - Too often, the idea of running a distributed (remote) team is dismissed as only possible when the company is small. This week, Automattic showed us that it’s not only possible to have a fully distributed team at a large scale, but you become a billion dollar company doing it. In this HowToWD we are going to disassemble the learnings from Automattic into a format that can be easily implemented by any team.
+* [The New WordPress.com](https://developer.wordpress.com/calypso/) - A single interface to manage all your WordPress.com or Jetpack-enabled sites, built with the latest web technologies and used by millions of people - and now it's open source.
+	* [Installing Calypso](https://github.com/Automattic/wp-calypso/blob/master/docs/install.md)
+	* [Calypso Bootstrap](https://github.com/Automattic/wp-calypso-bootstrap) - is a development environment for Calypso built with Vagrant and Puppet.
+* [Simplenote](https://simplenote.com/) - Your notes stay updated across all your devices. No buttons to press. It just works. Backups, syncing, sharing — it’s all completely free.
+* [Wordpress.com Apps](https://apps.wordpress.com/)
+	* [Mobile Apps](https://apps.wordpress.com/mobile/)
+	* [Desktop Apps](https://apps.wordpress.com/desktop/) for [Windows 7+](https://apps.wordpress.com/d/windows), [Mac OS X (10.9+)](https://apps.wordpress.com/d/osx), [Linux (.tar.gz)](https://apps.wordpress.com/d/linux), [Linux (.deb)](https://apps.wordpress.com/d/linux-deb)
+	* [WordPress.com for Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop is an [Electron](https://github.com/atom/electron) wrapper for [Calypso](https://github.com/Automattic/wp-calypso), the new WordPress.com front-end. It works on Mac, Windows, and Linux.
+	* [Contribute](https://apps.wordpress.com/contribute/)
+
 
 
 ## Java & C++

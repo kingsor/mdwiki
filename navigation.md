@@ -12,6 +12,9 @@
   * [Neetpiq Channel](NextSteps-Neetpiq.md)
   * [Quotes](NextSteps-Quotes.md)
   - - - -
+  * # Projects
+  * [Task List](NextSteps-TaskList.md)
+  - - - -
   * # Fitness
   * [Ideas](NextSteps-Fitness.md)
   * [Acrobalance](NextSteps-Acrobalance.md)

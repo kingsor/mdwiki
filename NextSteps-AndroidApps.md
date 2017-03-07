@@ -8,6 +8,8 @@
 
 
 ## Android Apps on GitHub
+* [SimplePomodoro](https://github.com/kingsor/SimplePomodoro) - fork of [dacer/SimplePomodoro-android](https://github.com/dacer/SimplePomodoro-android) - SimplePomodoro App (DEPRECATED) http://dacer.github.io/myapps/
+* [PocketHub](https://github.com/pockethub/PocketHub) - This repository contains the source code for the PocketHub Android app. This is the same repository as the now-defunct official GitHub Android app.
 * [JoaquimLey/avenging](https://github.com/JoaquimLey/avenging) - Android app built with an MVP approach without RxJava or Dagger. Uses [Marvel Comics API](https://developer.marvel.com/) as a service which contains all the information about its vast library.
 - [lguipeng/Notes](https://github.com/lguipeng/Notes) - Material Design Notes App
 - [esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide) - Android app that lists popular/highest-rated movies, shows trailers and reviews. This app showcases the MVP pattern, RxJava, Dagger 2 and Uncle Bob Martin's Clean Architecture approach. Optimized for tablets.
@@ -30,7 +32,6 @@ The aim of this talk is to showcase the importance of a well thought out softwar
 ## Projects on GitHub
 * [Airbnb](https://github.com/airbnb) - Open source projects from Airbnb crew.
 * [tomighty/tomighty](https://github.com/tomighty/tomighty) - Desktop timer for Pomodoro practitioners (inactive, looking for new maintainer) http://www.tomighty.org
-* [dacer/SimplePomodoro-android](https://github.com/dacer/SimplePomodoro-android) - SimplePomodoro App (DEPRECATED) http://dacer.github.io/myapps/
 - [Papa Parse](http://papaparse.com/) - The powerful, in-browser CSV parser for big boys and girls
 - [serverless/serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com
 - [Parse Platform](https://github.com/ParsePlatform) - Parse-compatible API server module for Node/Express
