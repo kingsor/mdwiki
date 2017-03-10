@@ -1,6 +1,13 @@
 
 # Next steps - Ideas Bucket
 
+## ToRead List
+* [moq/moq4](https://github.com/moq/moq4) - Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
+* [Using dependency injection in Java](http://www.vogella.com/tutorials/DependencyInjection/article.html) by [Lars Vogel](http://www.vogella.com/) - This article describes the concept of dependency injection from a Java perspective.
+* [Java 8, Lambda e la programmazione funzionale](http://www.mokabyte.it/2015/09/java8lambda/) - Un “esperimento” con le funzioni di ordine superiore.
+* [IV parte: Codebase e Continuous Integration](http://www.mokabyte.it/2016/04/rapiddevelopment-4/) - in questo articolo, ci riallacciamo a quanto raccontato nelle parti precedenti della serie e guardiamo ad alcune strategie che la Continuous Integration la fanno fuori per davvero. Il fatto è che tali strategie di gestione del processo di sviluppo sono molto più comuni di quanto si pensi e che, soprattutto, vengono impiegate in ambiti in cui, in buona fede, si ritiene di fare Continuous Integration, Continuous Delivery e Continuous Deployment.
+
+
 ## Focus On
 * [Building a Bookmarking App with Electron, VueJs, and Firebase](https://coligo.io/bookmarking-app-electron-vuejs-firebase/) (Apr 1st, 2016) - In this tutorial we will be building a cross-platform, real-time Bookmarking Application using [Electron](http://electron.atom.io/), [Firebase](https://www.firebase.com/), and [VueJs](http://vuejs.org/). We will be covering everything from setting up your project structure and configuring Webpack to creating the Electron app and building the Vue components.
 * [Electron](http://electron.atom.io/) - Build cross platform desktop apps with JavaScript, HTML, and CSS. If you can build a website, you can build a desktop app. Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
@@ -41,9 +48,17 @@
 * [An introduction to Meteor](https://www.youtube.com/watch?v=dOCMpoeuwTI)
 * [10 Tips to Get a Job Working with Meteor](https://themeteorchef.com/blog/10-tips-to-get-a-job-working-with-meteor/) (Mar 28, 2016) - [Nate Strauser](http://natestrauser.me/)'s recommendations for developers looking to get a job with Meteor.
 * [We Work Meteor](https://www.weworkmeteor.com/) - The premier job board and developer community space specifically for Meteor. [Source code](https://github.com/nate-strauser/wework) on GitHub.
+* [Building An App In 45 Minutes With Meteor](https://www.smashingmagazine.com/2013/06/build-app-45-minutes-meteor/) (Jun 13, 2013) - what if I built an app that lets the user add their Twitter account to a list in a single click?
+* [I’ve been running Meteor at scale for a year now. Here’s what I’ve learned.](https://medium.freecodecamp.com/scaling-meteor-a-year-on-26ee37588e4b#.ike82ll3a) (Dec 11, 2016) - A year ago I wrote an article describing my first experiences scaling Meteor. In short, I created a popular fantasy football website using Meteor. At a certain point, my service started slowing down. The single server I had running the game could no longer handle the load. I was able to solve these early scaling issues by — among other things — adding additional servers. Well, when last summer’s new season of football arrived, I once again ran into scaling issues. Adding more servers alone wouldn’t solve these problems. But I did manage to overcome them. This article will explain things I learned this time around, broken down into six pieces of practical advice.
+	* [First Experiences Scaling a Meteor App](https://medium.freecodecamp.com/first-experiences-scaling-a-meteor-app-14a48e62a4af#.xr3jtm1ol) (Nov 2, 2015) - I recently went through the challenge and ordeal of having to scale my Meteor app. It’s a project that had already been running in production for about a year. This summer the app became a lot more popular with thousands of preseason signups. My initial setup could no longer handle the load and I was faced with a scaling problem that had to be solved quickly. This article describes the process I went through and some of the things I learnt along the way and my hope is that it will help others that face similar challenges in the future. It will cover the basics, such as what scaling is, and how load balancing works. It will also walk you through some basic setups, and show you how to scale your Meteor app.
+	* [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.kb8cfek3x) (Jul 6, 2016) - Startup Genome says premature scaling is the number one cause of startup death. You shouldn’t spend time optimizing a product when you don’t even know if users want it. Yet every time you launch a web app, you run the risk of actually succeeding, and your server should be ready to handle the load. In this article I’ll share a simple, free recipe to get your app launch-ready. An hour spent following these steps will save you countless hours of sleep over the course of your product’s lifetime.
 
 
 ## Web Apps Samples (Open Source)
+
+### App for Conferences and Events
+* [Connfa!](http://connfa.com/) - Open Source iOS & Android App for Conferences and Events
+* [Squanchy](https://github.com/rock3r/squanchy) - Squanchy is an open source schedule platform for conferences. It was born as a fork of Connfa, but later diverged to embrace different design decision and user needs.
 
 ### Issue Tracker
 * [NullDesk/TicketDesk](https://github.com/NullDesk/TicketDesk) (ASP.NET MVC 5, Entity Framework 6, C#) - TicketDesk is an issue tracking system for IT Help Desks. TicketDesk is efficient and designed to do only one thing, facilitate communications between help desk staff and end users. The overriding design goal is to be as simple and frictionless for both users and help desk staff as is possible.
@@ -60,15 +75,12 @@
 	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
 * [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://getstream.io/blog/depth-guide-building-rest-api-node-js-restify-mongodb/) - a todo list sample using Restify and MongoDB.
 
+#### Task List with Android Client
+* [Android Login and Registration with PHP, MySQL and SQLite](http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/) (Jan 31, 2012) - In this tutorial I am going to explain how to build complete login and registration system in android using PHP, MySQL and SQLite. Also this tutorial covers how to build simple API using PHP and MySQL.
+* [How to create REST API for Android app using PHP, Slim and MySQL – Day 1/2](http://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-app-using-php-slim-and-mysql-day-12-2/) ( Jan 19, 2014) - This tutorial gives enough knowledge about building a REST API for very beginners. As this tutorial seems lengthy, I had divided it into 2 parts. In the 1st part we learn fundamental concepts of REST and do the required setup. In the 2nd part building actual API (writing PHP & MySQL code) is covered.
+
 ### Notes App
 * [NoteCloud API](https://github.com/itderrickh/NoteCloudApi) - The api for NoteCloud. Written with NancyFx and .NET utilities.
-
-
-## ToRead List
-* [moq/moq4](https://github.com/moq/moq4) - Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
-* [Using dependency injection in Java](http://www.vogella.com/tutorials/DependencyInjection/article.html) by [Lars Vogel](http://www.vogella.com/) - This article describes the concept of dependency injection from a Java perspective.
-* [Java 8, Lambda e la programmazione funzionale](http://www.mokabyte.it/2015/09/java8lambda/) - Un “esperimento” con le funzioni di ordine superiore.
-* [IV parte: Codebase e Continuous Integration](http://www.mokabyte.it/2016/04/rapiddevelopment-4/) - in questo articolo, ci riallacciamo a quanto raccontato nelle parti precedenti della serie e guardiamo ad alcune strategie che la Continuous Integration la fanno fuori per davvero. Il fatto è che tali strategie di gestione del processo di sviluppo sono molto più comuni di quanto si pensi e che, soprattutto, vengono impiegate in ambiti in cui, in buona fede, si ritiene di fare Continuous Integration, Continuous Delivery e Continuous Deployment.
 
 
 ## .NET Core
@@ -91,11 +103,6 @@
 * [IDEs and Plugins for Go](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)
 * [Go Courses](https://github.com/golang/go/wiki/Courses)
 * [Getting Started on Heroku with Go](https://devcenter.heroku.com/articles/getting-started-with-go#set-up)
-
-
-## Android to REST
-* [Android Login and Registration with PHP, MySQL and SQLite](http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/) (Jan 31, 2012) - In this tutorial I am going to explain how to build complete login and registration system in android using PHP, MySQL and SQLite. Also this tutorial covers how to build simple API using PHP and MySQL.
-* [How to create REST API for Android app using PHP, Slim and MySQL – Day 1/2](http://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-app-using-php-slim-and-mysql-day-12-2/) ( Jan 19, 2014) - This tutorial gives enough knowledge about building a REST API for very beginners. As this tutorial seems lengthy, I had divided it into 2 parts. In the 1st part we learn fundamental concepts of REST and do the required setup. In the 2nd part building actual API (writing PHP & MySQL code) is covered.
 
 
 ## REST Api Architecture
@@ -132,8 +139,6 @@ Most people, myself included, are not aware of all the intricacies and nuances o
 * [Stamplay](https://stamplay.com/) - Chain together APIs as if they are Lego blocks arranging them into service based apps
 
 
-## Design Pattern with CSharp
-* [Introduzione ai design pattern](https://msdn.microsoft.com/it-it/library/cc185081.aspx) da Riccardo Golia ( Microsoft MVP Solutions Architect) - Introduzione ai design pattern, tassonomia dei più diffusi per poi descrivere in articoli successivi quali design pattern sono presenti nel .NET framework.
 
 
 ## Node.js

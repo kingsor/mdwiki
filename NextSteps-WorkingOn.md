@@ -36,9 +36,22 @@
 	* [miquelbeltran/android_book_listing](https://github.com/miquelbeltran/android_book_listing) - This version of the project uses Retrofit instead AsyncTasks. As example of how to use awesome libraries to get things done instead of doing it "the old way". Original project from [@laramartin](https://github.com/laramartin/android_book_listing) as part of the [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
 
 
-
-
 ## ToDo
+
+### Design Pattern with CSharp
+* [Object Oriented Programming (OOP)](http://www.dotnetcurry.com/software-gardening/1125/object-oriented-programming-oops)
+
+First introduced by Robert “Uncle Bob” Martin, SOLID is not new. Uncle Bob simply took concepts that had been around for years and put them together. However, he didn’t have them in SOLID order. We can credit Michael Feathers for coming up with the SOLID acronym. So, what is SOLID? Well, it is five OOP principles, the first letter of each spelling out SOLID: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. Over the next five issues, I’ll cover each one of these concepts. While originally targeting OOP, many of these concepts apply to non-OOP languages as well.
+
+* [Single Responsibility Principle](http://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
+* [Open-Closed Principle](http://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
+* [Liskov Substitution Principle](http://www.dotnetcurry.com/software-gardening/1235/liskov-substitution-principle-lsp-solid-patterns)
+* [Interface Segregation Principle](http://www.dotnetcurry.com/software-gardening/1257/interface-segregation-principle-isp-solid-principle)
+* [Dependency Injection - SOLID Principles](http://www.dotnetcurry.com/software-gardening/1284/dependency-injection-solid-principles)
+
+* [Introducing the Daily Design Pattern](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/) (Jun 1, 2016) by [Exception Not Found](https://www.exceptionnotfound.net/)
+* [Introduzione ai design pattern](https://msdn.microsoft.com/it-it/library/cc185081.aspx) da Riccardo Golia ( Microsoft MVP Solutions Architect) - Introduzione ai design pattern, tassonomia dei più diffusi per poi descrivere in articoli successivi quali design pattern sono presenti nel .NET framework.
+
 
 ### Web Parser
 Creating an app similar to [Mercury Web Parser](https://mercury.postlight.com/web-parser/).

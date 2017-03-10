@@ -1,6 +1,11 @@
 
 # NextSteps - Neetpiq Channel
 
+## Neetpiq Lab on Slack
+* [neetpiqlab.slack.com](Neetpiq Lab on Slack)
+* [/notes](https://www.slashnotes.com/) - The easiest way to recall your notes. Without leaving Slack.
+* [Tomatobot](https://tomatobot.matthewhiggins.me/) - Hi, I'm Tomatobot. I'm a simple timer for short, distraction-free tasks, and I can join your team in Slack.
+
 
 ## Inspiration
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
