@@ -1,6 +1,14 @@
 # Task List
 
-I'd like to create a todo list / task list app. 
+I'd like to create a todo list / task list app.
+
+
+## Building an Android Todo App
+* [Building the Todo Android App in Studio](http://goo.gl/8R7Mty) - Step by step slides to create a minimalistic Todo app.
+* [Basic Todo App Tutorial](http://guides.codepath.com/android/Basic-Todo-App-Tutorial) - Todo App steps in guide format
+* [TODO-MVP](https://github.com/googlesamples/android-architecture/tree/todo-mvp/) - This sample is the base for many of the variants. It showcases a simple implementation of the Model-View-Presenter pattern with no architectural frameworks. It uses manual dependency injection to provide a repository with local and remote data sources. Asynchronous tasks are handled with callbacks.
+* [How We Used Micro-Transitions for Smooth Android To-Do List Animations](https://yalantis.com/blog/how-we-used-micro-transitions-for-smooth-android-to-do-list-animations/) (???) - Working on one of our recent projects at Yalantis we had a small task of creating a to-do list, and the challenging part was to create one that would stand out among similar features and be fun for the user. The idea was that we needed something that would make managing tasks fast and intuitive. The project is available on [GitHub](https://github.com/Yalantis/ToDoList).
+
 
 ## Samples
 * [Todo-Backend](http://www.todobackend.com/) - The Todo-Backend project helps showcase and compare different language and framework combinations for building web services. This website defines a simple web API in the form of a todo list and users can create their own identical APIs using various tech stacks. This website then provides a spec runner to verify that the user implementation is identical to the base implementation. The Todo-Backend project was inspired by the [TodoMVC project](http://todomvc.com/), and some code (specifically the todo client app) was borrowed directly from TodoMVC.

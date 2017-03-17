@@ -19,9 +19,10 @@
 * [6 Things I wish I Knew before I Wrote my first Android App](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/) by [Philosophical Hacker](http://www.philosophicalhacker.com/) - Here’s a list of things to keep in mind as you’re writing your first Android apps. These lessons are derived from actual mistakes that I made in the source code of my first app, mistakes that I’ll be showing below. Keeping these things in mind will help you write an app that you can be a little prouder of.
 
 
-## Guidelines
-* [Project and Code Style Guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) by [ribot](http://ribot.co.uk/)
-* [Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) by [ribot](http://ribot.co.uk/) - The architecture of our Android apps is based on the MVP (Model View Presenter) pattern.
+## Code Guidelines
+* [Android Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) by [ribot](http://ribot.co.uk/)
+* [Project and Code Style Guideliness](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) by [ribot](http://ribot.co.uk/)
+* [Introducing Android code style guidelines at Buffer](https://overflow.buffer.com/2016/08/18/introducing-android-code-style-guidelines-buffer/) (Aug 18, 2016) by [Joe Birch](https://overflow.buffer.com/author/joe/) - this is an overview about the [new code style](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) for Android App at Buffer.
 
 
 ## Tools
@@ -39,6 +40,26 @@
 * [Android Development](http://www.vogella.com/tutorials/android.html)
 * [Design Patterns in Java](http://www.vogella.com/tutorials/designpattern.html)
 * [Android examples from the vogella.com website](https://github.com/vogellacompany/codeexamples-android)
+
+
+## Android Development
+* [Android Development – A Glimpse into the History](http://learnprogramming.academy/android-development-a-glimpse-into-the-history/) (Nov 3, 2015) - the interesting history of Android OS from beginning to nowadays.
+* [Java For Android](http://www.raywenderlich.com/110452/java-for-android) (Dec 15, 2015) - While a number of languages can be used to build Android apps, Java is the language Google encourages developers to use. However, it’s not precisely the same as the Java you may have encountered on other platforms. There are some subtle differences and peculiarities and it’s important for you as an Android developer to get your head around them.
+* [Common Design Patterns for Android](http://www.raywenderlich.com/109843/common-design-patterns-for-android) (Dec 15, 2015) - This article will introduce a few common design patterns for Android that you can use while developing apps. Design patterns are reusable solutions to common software problems. The design patterns covered here aren’t an exhaustive list, nor an academically-citable paper. Rather, they serve as a workable references and starting points for further investigation.
+* [Developing for Android: Introduction](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - This article (or, rather, series of articles, since a sense of decency and understanding of short-attention-span readership has compelled me to break it up into less gargantuan chunks) is intended to cover various best practices for Android app development. To some extent, this could be entitled “Android Programming for Java Developers,” or “Mobile Development for Server and Desktop Developers” because it is meant to point out practices that are necessary for writing good Android apps that may not be obvious for developers coming from a non-mobile background. 
+* [Top 10 Most Common Android Development Mistakes: A Programming Tutorial](http://www.toptal.com/android/top-10-most-common-android-development-mistakes) - Here’s an Android programming tutorial to address the 10 most common mistakes Android developers make.
+* [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/) - Code completion can improve your productivity by reducing how much you have to type, but there are situations when a more powerful tool is needed. Thanks to Android Studio and IntelliJ, live templates make it much easier to focus on just the things you care about.
+* [Memory leaks in Android — identify, treat and avoid](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8) - A common cause of crashes are memory leaks. This particular problem can manifest itself in various forms. In most cases we see a steady increase in memory usage until the app cannot allocate more resources and inevitably crashes. To help others minimize time spent on code analysis I’ll present a few examples of memory leaks, how to identify them in Android Studio and most importantly how to remove them.
+
+
+## Testing
+- [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c) by [ribot labs](https://labs.ribot.co.uk/) - In this article we’ll explore how we used Mockito and Dagger 2 to achieve faster and more reliable UI tests on Android. If you are a developer looking to start writing UI tests on Android or improve the performance of your existing ones, read on.
+- [Introduction to Automated Android Testing – Part 1](https://riggaroo.co.za/introduction-automated-android-testing/) - I’ve seen a lot of people confused and unsure about how to do tests in Android. In the past, it was very difficult to test Android apps and there wasn’t much direction. In this series, I am going to try make testing a bit easier for you.
+
+
+## Building with Gradle
+* [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds) (Jul 20, 2015) by [Saúl Molinero](http://saulmm.github.io/) - Android Studio came from by the hand of Gradle as a new tool for the construction and packaging of Android projects. This powerful utility, well exploited, can provide much power and comfort developing complex Android projects. These projects may contain different modules, variants, dependencies, continuous integration systems, code quality. The motivation of this article is nothing more than sharing simple methodologies that I have applied on certain projects.
+* [Introduction to Gradle](https://www.bignerdranch.com/blog/introduction-to-gradle/) (Oct 22, 2014) by [Brian Gardner](https://www.bignerdranch.com/about-us/nerds/brian-gardner/) -  In this blog post, I hope to shed some light on what Gradle is, what it can do for you and some ways you can use it with your applications.
 
 
 ## Product Design
@@ -156,30 +177,6 @@ At the end of the program, your group will compete for prizes at Demo Day and yo
 * [Clean Android Architecture for Padawans](http://spirosoik.github.io/AndroidArchitecturePadawans/) - This repository shows how to separate layers of an application for newcomers in Android world with a simple application based on Foursquare API. After this you will become a Padawan and this means that you have made a great progress to become a JEDI.
 
 
-## Developing for Android
-* [Android Development – A Glimpse into the History](http://learnprogramming.academy/android-development-a-glimpse-into-the-history/) (Nov 3, 2015) - the interesting history of Android OS from beginning to nowadays.
-* [Java For Android](http://www.raywenderlich.com/110452/java-for-android) (Dec 15, 2015) - While a number of languages can be used to build Android apps, Java is the language Google encourages developers to use. However, it’s not precisely the same as the Java you may have encountered on other platforms. There are some subtle differences and peculiarities and it’s important for you as an Android developer to get your head around them.
-* [Common Design Patterns for Android](http://www.raywenderlich.com/109843/common-design-patterns-for-android) (Dec 15, 2015) - This article will introduce a few common design patterns for Android that you can use while developing apps. Design patterns are reusable solutions to common software problems. The design patterns covered here aren’t an exhaustive list, nor an academically-citable paper. Rather, they serve as a workable references and starting points for further investigation.
-* [Developing for Android: Introduction](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - This article (or, rather, series of articles, since a sense of decency and understanding of short-attention-span readership has compelled me to break it up into less gargantuan chunks) is intended to cover various best practices for Android app development. To some extent, this could be entitled “Android Programming for Java Developers,” or “Mobile Development for Server and Desktop Developers” because it is meant to point out practices that are necessary for writing good Android apps that may not be obvious for developers coming from a non-mobile background. 
-* [Top 10 Most Common Android Development Mistakes: A Programming Tutorial](http://www.toptal.com/android/top-10-most-common-android-development-mistakes) - Here’s an Android programming tutorial to address the 10 most common mistakes Android developers make.
-* [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/) - Code completion can improve your productivity by reducing how much you have to type, but there are situations when a more powerful tool is needed. Thanks to Android Studio and IntelliJ, live templates make it much easier to focus on just the things you care about.
-* [Memory leaks in Android — identify, treat and avoid](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8) - A common cause of crashes are memory leaks. This particular problem can manifest itself in various forms. In most cases we see a steady increase in memory usage until the app cannot allocate more resources and inevitably crashes. To help others minimize time spent on code analysis I’ll present a few examples of memory leaks, how to identify them in Android Studio and most importantly how to remove them.
-
-
-## Code Guidelines
-* [Android Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) by [ribot](http://ribot.co.uk/)
-* [Project guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) by [ribot](http://ribot.co.uk/)
-* [Introducing Android code style guidelines at Buffer](https://overflow.buffer.com/2016/08/18/introducing-android-code-style-guidelines-buffer/) (Aug 18, 2016) by [Joe Birch](https://overflow.buffer.com/author/joe/) - this is an overview about the [new code style](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) for Android App at Buffer.
-
-
-## Testing
-- [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c) by [ribot labs](https://labs.ribot.co.uk/) - In this article we’ll explore how we used Mockito and Dagger 2 to achieve faster and more reliable UI tests on Android. If you are a developer looking to start writing UI tests on Android or improve the performance of your existing ones, read on.
-- [Introduction to Automated Android Testing – Part 1](https://riggaroo.co.za/introduction-automated-android-testing/) - I’ve seen a lot of people confused and unsure about how to do tests in Android. In the past, it was very difficult to test Android apps and there wasn’t much direction. In this series, I am going to try make testing a bit easier for you.
-
-
-## Building with Gradle
-* [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds) (Jul 20, 2015) by [Saúl Molinero](http://saulmm.github.io/) - Android Studio came from by the hand of Gradle as a new tool for the construction and packaging of Android projects. This powerful utility, well exploited, can provide much power and comfort developing complex Android projects. These projects may contain different modules, variants, dependencies, continuous integration systems, code quality. The motivation of this article is nothing more than sharing simple methodologies that I have applied on certain projects.
-* [Introduction to Gradle](https://www.bignerdranch.com/blog/introduction-to-gradle/) (Oct 22, 2014) by [Brian Gardner](https://www.bignerdranch.com/about-us/nerds/brian-gardner/) -  In this blog post, I hope to shed some light on what Gradle is, what it can do for you and some ways you can use it with your applications.
 
 
 ## Design Support Library

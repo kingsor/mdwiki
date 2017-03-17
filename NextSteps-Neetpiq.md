@@ -8,6 +8,8 @@
 
 
 ## Inspiration
+Following there are nice applications I'd like to work on - creating a copy, just to learn more.
+
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
 	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
 	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
@@ -16,9 +18,11 @@
 	* [Mercury Case Study](https://postlight.com/work/mercury/) - a post about the project.
 	* [Web Parser API](https://mercury.postlight.com/web-parser/) - With just one API request, Mercury takes any web article and returns only the relevant content — headline, author, body text, relevant images and more — free from any clutter. It’s reliable, easy-to-use and free.
 
+
 ## From Inspiration to Action
 * [Nothing Magical](http://nothingmagical.com/) -> [Neetpiq](http://www.neetpiq.com) - main site of my label
 * [Sam Soffes](https://soff.es/) -> [Kingsor](http://kingsor.github.io/)
+
 
 ## Fonts for Logo
 * [Selection of fonts on Google Fonts](https://fonts.google.com/selection?selection.family=Aldrich|Audiowide|Baloo|Baumans|Keania+One|Nova+Round|Orbitron|Pirata+One|Prosto+One|Rationale|Rum+Raisin|Text+Me+One|Tulpen+One|Yanone+Kaffeesatz)
@@ -26,6 +30,7 @@
 * [Nord at Font Squirrel](https://www.fontsquirrel.com/fonts/Nord?filter%5Bclassifications%5D%5B0%5D=display&sort=recent)
 * [MADE IN NYC](https://nytm.org/made) - A collection of internet companies made with ♥ in NYC. Usefull source of logo inspiration.
 * [50 Simple, Yet Clever Logo Designs for Inspiration and Ideas](http://1stwebdesigner.com/logo-inspiration/) (Oct 18, 2016) - What makes a logo look clever? It’s the hidden thought, deeper meaning behind the logo design. The design world has seen some amazing logos and we wanted to display some of the best examples of clever logo design for you as a source of inspiration. They show how with great creativity how much simplicity can make such a big impact.
+
 
 ## Update GitHub blog
 * [Mo Valipour's Blog](http://mvalipour.github.io/) - using the same theme I use on my blog, but better than mine.
@@ -35,9 +40,11 @@
 * [Saul Molinero](http://saulmm.github.io/)
 * [Hyde Jekyll Template](http://hyde.getpoole.com/)
 
+
 ## Jekyll and Vagrant
 * [Vagrant, Jekyll and Github Pages for streamlined content creation](http://kappataumu.com/articles/vagrant-jekyll-github-pages-streamlined-content-creation.html) (Dec 31, 2015) - Our goal is to configure a local GitHub Pages server, inside a disposable and trivially instantiable environment, managed by Vagrant.
 	* [kappataumu/vagrant-up-github-pages](https://github.com/kappataumu/vagrant-up-github-pages) - Vagrant configuration that lets you easily spin up a local Jekyll-powered GitHub pages server
+
 
 ## Web Themes and Templates
 * [HTML5 UP](https://html5up.net/) - makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable, 100% Free under the Creative Commons.
@@ -47,6 +54,17 @@
 ## Freelancing
 * [HOW TO MOVE FROM FULL TIME EMPLOYMENT TO FULL TIME FREELANCING?](http://www.michaelhoughton.com/article/how-to-move-from-full-time-employment-to-full-time-freelancing) (Dec 12, 2016) - I have been freelancing full time for the majority of my 12 year career. Freelancing was something I had always dreamt about doing - I wanted to be my own boss and run my own business - and freelancing has allowed me to do just that! More importantly it gives me the freedom to choose the types of projects to work on and be selective about the clients I work with. The aim of this article is to help clarify the steps which a Developer needs to take to break into freelancing.
 * [HOW I FREELANCE? ATTRIBUTES REQUIRED FOR FULL TIME FREELANCING](http://www.michaelhoughton.com/article/how-i-freelance-attributes-required-for-full-time-freelancing) (Nov 10, 2016) - After 6 months on the Toptal core team, I recently went back into full time freelancing - doing PHP development. My experience on the Toptal core team was amazing, however I missed the freelancing lifestyle and found working around meetings and schedules at times very stressful. While being a freelancer does comes with risks and certainly isn't for everyone - I would love to take the time to highlight what I love about freelancing and how I like to work!
+
+
+## Git
+* [20 Git Commands For Beginners](http://www.fromdev.com/2016/09/git-commands-cheatsheet.html) (Sep 26, 2016) - most common git commands.
+* [Git Explained: For Beginners](http://juristr.com/blog/2013/04/git-explained/)
+* [Git smart! 20 essential tips for Git and GitHub users](http://www.infoworld.com/print/239093)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)  
+  Many teams have already migrated to git and many more are transitioning to it now. Apart from training single developers and appointing Champions to help with the adoption it is imperative to pick a nice and simple code collaboration practice that does not complicate things too much. With git one can definitely conjure very complicated workflows, I’ve seen them first hand.
+* [Git Workflows](https://www.atlassian.com/git/workflows)  
+  The array of possible workflows can make it hard to know where to begin when implementing Git in the workplace. This page provides a starting point by surveying the most common Git workflows for enterprise teams.
 
 
 ## Open Source Contribution
@@ -61,8 +79,6 @@ Starting from this Meetup Group: [Open Source Saturday Milano](https://www.meetu
 * [realm-java](https://www.codetriage.com/realm/realm-java)
 
 
-
-
 ## Working remotely
 * [7 Remote Work Trends to take into consideration in 2017](http://remoters.net/remote-work-trends-2017)
 * [How to work Remotely with 150+ people](https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c) (Jan 3, 2016) - Work asynchronously, keep a single source of truth, avoid management overhead and communicate.
@@ -70,14 +86,44 @@ Starting from this Meetup Group: [Open Source Saturday Milano](https://www.meetu
 * [How to Remote](https://dev.to/andydangerous/how-to-remote) (Feb 15, 2017) - Working with a remote team has many advantages. It can also be hard to do effectively. This post is how to remote. As for why, maybe I'll cover that in the future.
 * [How to Find and Get Hired for a Remote Job](https://zapier.com/blog/remote-work-jobs/) (Jan 31, 2017) - For many people, remote work is the ideal way to work. You get the income stability and benefits of being an employee, plus the freedom to work wherever fits you best. You get to ditch the soul-crushing commute and, yes, work in your pajamas if you like. Before you throw out all your suits, though, you have to land the job. Here at Zapier, we're a 100% remote team and we get many applicants for our job openings. In our Customer Champion roles, for example, only 2% of applicants get a job fit interview and only 0.4% are hired. We're as picky as Yale–and so are other employers.
 
+
 ## Coworking
 * [Il coworking di Open](http://www.openmilano.com/it/coworking/) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
+
 
 ## Startup Europe
 * [EU-Startups](http://www.eu-startups.com/) - it is one of the leading startup blogs in Europe and was founded in October of 2010. We write about internet and tech startups out of Europe and provide our readers with data-driven analysis, interviews and startup-related news. In addition to our focus on young technology companies, we also publish other kinds of news out of the tech-space that has a commercial or cultural impact on startups in Europe.
 
-## Java Interview Questions
+
+## Resume
+* [JSON Resume](http://jsonresume.org/)  
+  JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools. 
+  * [On Hacker News](https://news.ycombinator.com/item?id=7996464)
+* [Example CV JSON](https://gist.github.com/mcrider/3925110)
+* [Json Resume](http://prat0318.github.io/json_resume/)
+
+
+## Interview Questions
+
+### Java
 * [20 Java Interview Questions from Investment Banks (Answered)](http://www.codeproject.com/Tips/1061616/Java-Interview-Questions-from-Investment-Banks-Ans) - Some core Java questions from Interviews from Investment banks, good for technical round.
+* [Java Questions and Answers](http://bit.ly/JavaInterviewApp) - This FREE app has core java interview questions for experienced developers as well as beginners. The questions and answers are based on 15+ years of java programming experience. Many questions are compiled from various sources including practical interviews, java websites and communities. 
+
+
+## Job Search
+* [Synesthesia srl - Work with us](http://synesthesia.it/work-us) - Mobile App Developer
+* [Meetup - Android Engineer](https://www.meetup.com/jobs/android-engineer-572933/#job-title)
+
+
+## Commonsense
+[Commonsense - Lavora con noi](http://www.commonsense.cc/lavoro/)
+Cosa chiediamo, se hai già esperienza
+
+Curiosità e passione, per mantenersi aggiornati con le novità di un settore che cambia rapidamente. Onestà intellettuale, per imparare riconoscendo i propri errori immediatamente. Capacità di comunicare, con i colleghi e coi clienti. Creatività per trovare le soluzioni migliori e disciplina per applicarle e consegnare il lavoro.
+
+Queste qualità, più degli anni di esperienza o di conoscenze tecniche approfondite, appartengono alle persone con cui ci piacerebbe lavorare.
+
+Ti offriamo di crescere professionalmente lavorando assieme a colleghi con esperienza e clienti esigenti.
 
 
 ## Toptal
@@ -140,8 +186,8 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * Gestione dei semafori per lo sviluppo multithreading con mutex
 * Utilizzo di librerie boost e STL
 
-### About C++
 
+### About C++
 * [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
 	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
 * [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.

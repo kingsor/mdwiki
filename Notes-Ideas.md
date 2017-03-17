@@ -1,12 +1,6 @@
 
 # Notes and ideas
 
-## Resume
-* [JSON Resume](http://jsonresume.org/)  
-  JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools. 
-  * [On Hacker News](https://news.ycombinator.com/item?id=7996464)
-* [Example CV JSON](https://gist.github.com/mcrider/3925110)
-* [Json Resume](http://prat0318.github.io/json_resume/)
 
 ## Inspiring Personal Sites
 
@@ -180,31 +174,10 @@ Considering the renewal cycle is about 5 years WPF should be the unique choice f
   [..] L'oggetto che oggi gli ha procurato il brivido della vittoria domani finirà dimenticato in fondo a qualche armadio. Tutti gli altri, gli sconfitti, si dirigono verso l'uscita del Terminal. Loro ci riproveranno l'anno prossimo.
 
 
-## Startup strategies
-
-* [10 Reasons Why I Self-Funded My Startup and So Should You](http://yongfook.com/10-reasons-why-i-self-funded-my-startup-and-so-should-you.html)  
-  This post is simply here to remind some of you why we do what we do. A message that often gets lost,
-in this world of funding-hungry startups.  
-  8 months ago I started my company. And I never took a cent of outside funding.  
-  Here's why I think self-funding (also known as bootstrapping) is the best thing a young startup can do.
-* [15 Reasons to Keep Your Company Small](http://readwrite.com/2014/05/05/keep-your-startup-small)  
-  Despite all the headlines about billion-dollar exits and IPOs, growing too quickly or too much is not always the most desirable outcome for a startup.  
-Fifteen entrepreneurs, members of [Young Entrepreneur Council](http://yec.co/) (YEC), offer their perspective on why, in some cases, smaller means mightier.
-* [Is Going for Rapid Growth Always Good? Aren’t Startups So Much More?](http://www.bothsidesofthetable.com/2012/09/22/is-going-for-rapid-growth-always-good-arent-startups-so-much-more/)  
-  I think I’ve read Paul Graham’s post on “Startup = Growth” three or four times now. And of course on Twitter I’ve seen the Tweets, ReTweets and superlatives on what a great post it is.
-
 ## Managing distributed teams
 
 * [The most valuable lessons I learned from managing a virtual team](http://thenextweb.com/entrepreneur/2013/12/04/valuable-lessons-learned-managing-virtual-team/)
 
-## Git
-* [Git Explained: For Beginners](http://juristr.com/blog/2013/04/git-explained/)
-* [Git smart! 20 essential tips for Git and GitHub users](http://www.infoworld.com/print/239093)
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-* [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)  
-  Many teams have already migrated to git and many more are transitioning to it now. Apart from training single developers and appointing Champions to help with the adoption it is imperative to pick a nice and simple code collaboration practice that does not complicate things too much. With git one can definitely conjure very complicated workflows, I’ve seen them first hand.
-* [Git Workflows](https://www.atlassian.com/git/workflows)  
-  The array of possible workflows can make it hard to know where to begin when implementing Git in the workplace. This page provides a starting point by surveying the most common Git workflows for enterprise teams.
 
 
 ## Web APIs (REST and more)

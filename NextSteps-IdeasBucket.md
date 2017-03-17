@@ -31,27 +31,18 @@
 		* [Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web](https://googleblog.blogspot.it/2015/10/introducing-accelerated-mobile-pages.html) (Oct 7, 2015) - Smartphones and tablets have revolutionized the way we access information, and today people consume a tremendous amount of news on their phones. Today, after discussions with publishers and technology companies around the world, we’re announcing a new open source initiative called Accelerated Mobile Pages, which aims to dramatically improve the performance of the mobile web. We want webpages with rich content like video, animations and graphics to work alongside smart ads, and to load instantaneously. We also want the same code to work across multiple platforms and devices so that content can appear everywhere in an instant—no matter what type of phone, tablet or mobile device you’re using.
 
 
-### REST Server prototype
+## HTTP and REST Server prototype
+* [HTTP Server]() - 
 * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping powered by [JSON Server](https://github.com/typicode/json-server) and [lowdb](https://github.com/typicode/lowdb)
 * [Harp](https://harpjs.com/) - The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
 
-### Slack Alternatives
+## Slack Alternatives
 * [Five Open-Source Slack Alternatives](https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/) (Nov 2, 2015)
 * [Rocket.Chat](https://rocket.chat/) - [demo](https://demo.rocket.chat/)
 	* [Deploying Rocket.Chat on Vagrant with Ubuntu](https://rocket.chat/docs/installation/automation-tools/vagrant/)
 * [Gabriel Engel: Building Rocket.Chat in Meteor](https://www.youtube.com/watch?v=yzkId54vng8)
-
-
-### Meteor
-* [An introduction to Meteor](https://www.youtube.com/watch?v=dOCMpoeuwTI)
-* [10 Tips to Get a Job Working with Meteor](https://themeteorchef.com/blog/10-tips-to-get-a-job-working-with-meteor/) (Mar 28, 2016) - [Nate Strauser](http://natestrauser.me/)'s recommendations for developers looking to get a job with Meteor.
-* [We Work Meteor](https://www.weworkmeteor.com/) - The premier job board and developer community space specifically for Meteor. [Source code](https://github.com/nate-strauser/wework) on GitHub.
-* [Building An App In 45 Minutes With Meteor](https://www.smashingmagazine.com/2013/06/build-app-45-minutes-meteor/) (Jun 13, 2013) - what if I built an app that lets the user add their Twitter account to a list in a single click?
-* [I’ve been running Meteor at scale for a year now. Here’s what I’ve learned.](https://medium.freecodecamp.com/scaling-meteor-a-year-on-26ee37588e4b#.ike82ll3a) (Dec 11, 2016) - A year ago I wrote an article describing my first experiences scaling Meteor. In short, I created a popular fantasy football website using Meteor. At a certain point, my service started slowing down. The single server I had running the game could no longer handle the load. I was able to solve these early scaling issues by — among other things — adding additional servers. Well, when last summer’s new season of football arrived, I once again ran into scaling issues. Adding more servers alone wouldn’t solve these problems. But I did manage to overcome them. This article will explain things I learned this time around, broken down into six pieces of practical advice.
-	* [First Experiences Scaling a Meteor App](https://medium.freecodecamp.com/first-experiences-scaling-a-meteor-app-14a48e62a4af#.xr3jtm1ol) (Nov 2, 2015) - I recently went through the challenge and ordeal of having to scale my Meteor app. It’s a project that had already been running in production for about a year. This summer the app became a lot more popular with thousands of preseason signups. My initial setup could no longer handle the load and I was faced with a scaling problem that had to be solved quickly. This article describes the process I went through and some of the things I learnt along the way and my hope is that it will help others that face similar challenges in the future. It will cover the basics, such as what scaling is, and how load balancing works. It will also walk you through some basic setups, and show you how to scale your Meteor app.
-	* [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.kb8cfek3x) (Jul 6, 2016) - Startup Genome says premature scaling is the number one cause of startup death. You shouldn’t spend time optimizing a product when you don’t even know if users want it. Yet every time you launch a web app, you run the risk of actually succeeding, and your server should be ready to handle the load. In this article I’ll share a simple, free recipe to get your app launch-ready. An hour spent following these steps will save you countless hours of sleep over the course of your product’s lifetime.
 
 
 ## Web Apps Samples (Open Source)
@@ -81,6 +72,36 @@
 
 ### Notes App
 * [NoteCloud API](https://github.com/itderrickh/NoteCloudApi) - The api for NoteCloud. Written with NancyFx and .NET utilities.
+
+
+
+
+
+## Meteor
+* [An introduction to Meteor](https://www.youtube.com/watch?v=dOCMpoeuwTI)
+* [10 Tips to Get a Job Working with Meteor](https://themeteorchef.com/blog/10-tips-to-get-a-job-working-with-meteor/) (Mar 28, 2016) - [Nate Strauser](http://natestrauser.me/)'s recommendations for developers looking to get a job with Meteor.
+* [We Work Meteor](https://www.weworkmeteor.com/) - The premier job board and developer community space specifically for Meteor. [Source code](https://github.com/nate-strauser/wework) on GitHub.
+* [Building An App In 45 Minutes With Meteor](https://www.smashingmagazine.com/2013/06/build-app-45-minutes-meteor/) (Jun 13, 2013) - what if I built an app that lets the user add their Twitter account to a list in a single click?
+* [I’ve been running Meteor at scale for a year now. Here’s what I’ve learned.](https://medium.freecodecamp.com/scaling-meteor-a-year-on-26ee37588e4b#.ike82ll3a) (Dec 11, 2016) - A year ago I wrote an article describing my first experiences scaling Meteor. In short, I created a popular fantasy football website using Meteor. At a certain point, my service started slowing down. The single server I had running the game could no longer handle the load. I was able to solve these early scaling issues by — among other things — adding additional servers. Well, when last summer’s new season of football arrived, I once again ran into scaling issues. Adding more servers alone wouldn’t solve these problems. But I did manage to overcome them. This article will explain things I learned this time around, broken down into six pieces of practical advice.
+	* [First Experiences Scaling a Meteor App](https://medium.freecodecamp.com/first-experiences-scaling-a-meteor-app-14a48e62a4af#.xr3jtm1ol) (Nov 2, 2015) - I recently went through the challenge and ordeal of having to scale my Meteor app. It’s a project that had already been running in production for about a year. This summer the app became a lot more popular with thousands of preseason signups. My initial setup could no longer handle the load and I was faced with a scaling problem that had to be solved quickly. This article describes the process I went through and some of the things I learnt along the way and my hope is that it will help others that face similar challenges in the future. It will cover the basics, such as what scaling is, and how load balancing works. It will also walk you through some basic setups, and show you how to scale your Meteor app.
+	* [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.kb8cfek3x) (Jul 6, 2016) - Startup Genome says premature scaling is the number one cause of startup death. You shouldn’t spend time optimizing a product when you don’t even know if users want it. Yet every time you launch a web app, you run the risk of actually succeeding, and your server should be ready to handle the load. In this article I’ll share a simple, free recipe to get your app launch-ready. An hour spent following these steps will save you countless hours of sleep over the course of your product’s lifetime.
+
+
+## PHP
+* [HOW GOOD IS PHP?](http://www.webiny.com/blog/2015/01/06/how-good-is-php/) (Jan 9, 2015) - PHP is still, mostly thanks to Wordpress, the most widely used server-side language on the Internet (source). It is used on more than 82% of all websites. But why, with all that “glory”, some developers say it's a really bad language? They often use terms like "spaghetti code”, slow or even evil. In order to understand the origin of these standings, I will briefly go over the history of PHP.
+* [PHP Releases](https://secure.php.net/releases/) - We have collected all the official information and code available for past PHP releases.
+
+### Laravel
+* [Getting Started With Laravel](http://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386)
+* [Laravel Homestead](https://laravel.com/docs/5.1/homestead)
+* [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead) by [Scotch.io](https://scotch.io/) (Jul 16, 2014)
+* [Laravel Quick Start - Basic Task List](https://laravel.com/docs/5.1/quickstart)
+* [Laravel EU YouTube Channel](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
+* [Build A Support Ticket Application With Laravel – Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-laravel-part-1) (Jul 27, 2016)
+* [Token-Based Authentication for AngularJS and Laravel Apps](https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps) (Jun 30, 2015)
+* [Build a Time Tracker with Laravel 5 and AngularJS – Part 1](https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-1) (Mar 26, 2015)
+* [Build a Time Tracker with Laravel 5 and AngularJS – Part 2](https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-2) (Apr 20, 2015)
+
 
 
 ## .NET Core

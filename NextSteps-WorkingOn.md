@@ -3,6 +3,11 @@
 
 ## Doing
 
+### AppScale
+AppScale is open source Google App Engine and allows you to run your GAE applications on any infrastructure, anywhere that makes sense for your business. AppScale eliminates lock-in and makes your GAE application portable. This way you can choose which public or private cloud platform is the best fit for your business requirements. Because we are literally the GAE alternative, it is an easy migration from Google App Engine to AppScale. AppScale implements the Google App Engine API’s allowing users to move their App Engine applications to AppScale unmodified, while providing the same no-ops experience as Google App Engine. This way you can save time and money by choosing AppScale for your application. Check out our [case studies page](https://www.appscale.com/resources/use-cases/) and see why our customers are so happy.
+
+* [Try AppScale](https://www.appscale.com/try-appscale/) - AppScale can be deployed on a single node (usual case for Dev/Test), and on multiple nodes (production deployments with large datasets or CPU needs). It is possible to try AppScale on Vagrant.
+
 ### Url Shortener
 * [on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.
 * [KishCom/shorten-node](https://github.com/KishCom/shorten-node) - A Node.js powered URL Shortener web app with Heroku deploy instructions. [http://kish.cm](http://kish.cm/)
@@ -10,6 +15,7 @@
 * [KingPixil/snip](https://github.com/KingPixil/snip) - dead-simple URL shortener [http://snipit.ga](http://snipit.ga)
 * [What is the “__v” field in MongoDB](http://stackoverflow.com/a/31872302/2768802) - if you don't need version_key ...
 * [kingsor/shortio-url-shortener](https://github.com/kingsor/shortio-url-shortener) - the repo of the project I created following the tutorial on CodeTuts.
+
 
 ### NancyFx
 * [nerobianchi/visual_studio_gallery](https://github.com/nerobianchi/visual_studio_gallery) - nancy template for visual studio 2015
@@ -21,6 +27,7 @@
 		* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
 		* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
 
+
 ### Retrofit and RecyclerView, working with
 * [Using the RecyclerView](https://guides.codepath.com/android/using-the-recyclerview)
 * [Get Started With Retrofit 2 HTTP Client](https://code.tutsplus.com/tutorials/getting-started-with-retrofit-2--cms-27792) (Dec 16, 2016) - In this tutorial, I will explain how to use Retrofit 2 to handle network requests by building a simple app to query recent answers from the Stack Exchange API. We'll perform GET requests by specifying an endpoint—/answers, appended to the base URL https://api.stackexchange.com/2.2/—then get the results and display them in a recycler view. I will also show you how to do this with RxJava for easy management of the flow of state and data.
@@ -30,6 +37,7 @@
 * [Android: An Introduction to Material Design](https://www.raywenderlich.com/103367/material-design)
 * [hiagokimo/TMDb](https://github.com/thiagokimo/TMDb) - A simple Android client for The Movie DB in Material Design.
 * [crazyhitty/RecyclerViewPagination](https://github.com/crazyhitty/RecyclerViewPagination) - Simple implementation of scroll down to load more concept in RecyclerView.
+
 
 ### Android MVP
 * [Refactoring to MVP](https://medium.com/@Miqubel/refactoring-to-mvp-b504a3774ffd) (Oct 20, 2016) by [Miquel Beltran](https://medium.com/@Miqubel) - This article is for beginners who just heard about MVP but are not sure on how to switch from their current solution to it. We will start with a MainActivity that implements an API call and we will move that logic into the MVP pattern.
@@ -53,51 +61,8 @@ First introduced by Robert “Uncle Bob” Martin, SOLID is not new. Uncle Bob s
 * [Introduzione ai design pattern](https://msdn.microsoft.com/it-it/library/cc185081.aspx) da Riccardo Golia ( Microsoft MVP Solutions Architect) - Introduzione ai design pattern, tassonomia dei più diffusi per poi descrivere in articoli successivi quali design pattern sono presenti nel .NET framework.
 
 
-### Web Parser
-Creating an app similar to [Mercury Web Parser](https://mercury.postlight.com/web-parser/).
-Mercury Web Parser is created by Readability crew. They use a name with no meaning (for me, at least) about article extraction. Here is [Mercury](https://en.wikipedia.org/wiki/Mercury) in Wikipedia.
-Readability is a name that focus on the readability feature and secondly on the bookmark feature.
-Read it Later (now Pocket) has a focus on the bookmark feature and the readability feature is described as a plus.
-Instapaper has a focus on the paper feature (kind of bookmark) and the readability feature is a plus.
-Mercury is a Web Parser API (readability feature from the developer point of view) and after a while they created Mercury Reader (chrome extension) for the end user.
-So I think I can use a name with no direct meaning on the main feature or a name that recall the meaning.
-For the second type I was thinking to [sharpener](http://www.wordreference.com/enit/sharpener), or something that recall the extraction, clearing or similar of a web article. It is even interesting something that recall [web scraping](https://en.wikipedia.org/wiki/Web_scraping). 
-For the first type I was looking for deities names from greek mytology - [Artemis](https://en.wikipedia.org/wiki/Artemis_(disambiguation)), [Aletheia](https://en.wikipedia.org/wiki/Aletheia_(disambiguation)), [Thalia](https://en.wikipedia.org/wiki/Thalia), [Cleo](https://en.wikipedia.org/wiki/Cleo_of_Alpha_Chi) from [Muses in popular culture](https://en.wikipedia.org/wiki/Muses_in_popular_culture).
-
-I found very nice "Cleo, web articles scraping". But the day after it does not seem so nice :-D
-On Friday 20th of Jan it became "Cleo, web content scraping" or "web content gathering" or "web article trimmer".
-This may be the endpoint: GET -> /api/content/{url} with a header containing an API key about the user that is calling it.
-
-A basic structure may be this:
- 
- * a main page, describing what the service do and how to use it
- * api key creation, through a form that require an email, send the email with a link to activate the api key
- * parser api entry point
-
-This app may be the base for Webmarks server. I'd like to publish on neetpiq domain. Something like webmarks.neetpiq.com or webmarksapp.neetpiq.com but I'm not sure it should be a right solution.
-
-I'd like to use asp.net + nancyfx (it may be interesting to investigate about asp.net core) for this project.
-
-* [StackExchange/dapper-dot-net](https://github.com/StackExchange/dapper-dot-net) - Dapper - a simple object mapper for .Net
-* [Token-Based Authentication for Web Service APIs in C# MVC .NET](http://www.primaryobjects.com/2015/05/08/token-based-authentication-for-web-service-apis-in-c-mvc-net/) (May 8, 2015) - In this tutorial, we’ll walk through how to create a simple, but effective token-based authentication framework to secure a .NET REST API.
-* [scottksmith95/CSharp.Readability](https://github.com/scottksmith95/CSharp.Readability) - Readability API binding and OAuth connect support for the readability.com API.
-* [marek-stoj/NReadability](https://github.com/marek-stoj/NReadability) (Latest commit on Jun 29, 2014) - NReadability is a tool for removing clutter from HTML pages so that they are more enjoyable to read. 
-* [ceee/ReadSharp](https://github.com/ceee/ReadSharp) (Latest commit on Dec 13, 2015) - Extract meaningful website contents using a port of NReadability.
-* [Deserializing JSON resources with C# and Json.NET](http://www.codetrench.com/deserializing-json-resources-with-c-sharp-and-json-net/) (Apr 22, 2015)
-* [Json.NET](http://www.newtonsoft.com/json) - Popular high-performance JSON framework for .NET)
-
-Something about Mercury and who is working on it.
-
-* [Mercury](https://mercury.postlight.com/) - Mercury is a toolkit that lets you transform web pages into clean text. Publishers and programmers use it to make the web make sense. For free. Mercury is a product of [Postlight Labs](https://postlight.com/labs). [Mercury Toolkit](https://twitter.com/MercuryToolkit) on twitter.
-	* [Postlight](https://postlight.com/) - Postlight is a digital product studio in New York City. We build prototypes to prove out ideas—then build large, scalable digital platforms that support elegant consumer products.
-	* [Mercury Case Study](https://postlight.com/work/mercury/) - a post about the project.
-	* [Web Parser API](https://mercury.postlight.com/web-parser/) - With just one API request, Mercury takes any web article and returns only the relevant content — headline, author, body text, relevant images and more — free from any clutter. It’s reliable, easy-to-use and free.
-
-
 ### WebMarks
-* [Wallabag Service](https://www.wallabag.it/en/features) - [wallabag](https://wallabag.org/) is an [open source](https://github.com/wallabag) application to save your web articles and allows you to read them later, on your smartphone, your tablet or your ereader. We propose to you a quality service to host your account: you'll get the latest version of the application and you'll get a professional support.
-	* [Framabag](https://www.framabag.org/) - Framabag est un service libre et gratuit proposé par le réseau [Framasoft](http://framasoft.org/). Framabag est une instance de [wallabag](http://www.wallabag.org/).
-
+* [Webmarks and Web Parser](NextSteps-Webmarks.md) - project description.
 
 ### Cost Tracker
 [dmilicic/android-clean-sample-app](https://github.com/dmilicic/android-clean-sample-app) is a sample cost-tracker app that showcases [my Clean architecture approach](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029) to build Android applications.
@@ -110,10 +75,7 @@ Something about Mercury and who is working on it.
 
 
 ### Building an Android Todo App
-* [Building the Todo Android App in Studio](http://goo.gl/8R7Mty) - Step by step slides to create a minimalistic Todo app.
-* [Basic Todo App Tutorial](http://guides.codepath.com/android/Basic-Todo-App-Tutorial) - Todo App steps in guide format
-* [TODO-MVP](https://github.com/googlesamples/android-architecture/tree/todo-mvp/) - This sample is the base for many of the variants. It showcases a simple implementation of the Model-View-Presenter pattern with no architectural frameworks. It uses manual dependency injection to provide a repository with local and remote data sources. Asynchronous tasks are handled with callbacks.
-* [How We Used Micro-Transitions for Smooth Android To-Do List Animations](https://yalantis.com/blog/how-we-used-micro-transitions-for-smooth-android-to-do-list-animations/) (???) - Working on one of our recent projects at Yalantis we had a small task of creating a to-do list, and the challenging part was to create one that would stand out among similar features and be fun for the user. The idea was that we needed something that would make managing tasks fast and intuitive. The project is available on [GitHub](https://github.com/Yalantis/ToDoList).
+* [Task List Project](NextSteps-TaskList.md) - description of the project
 
 
 ### Android Master Detail sample
@@ -124,10 +86,6 @@ Something about Mercury and who is working on it.
 * [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375) (Apr 14, 2016) by [Reto Meier](https://medium.com/@retomeier) - We all have better things to do with our time than count the exact number of Android Studio pro-tips in a 3 minute video — check it out for yourself and see how many are new to you. The video moves pretty quickly, so keep reading to see most of the tips and tricks featured in written / animated GIF form for easy reference.
 * [What 2 Years of Android Development Have Taught Me the Hard Way](https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51) (Aug 31, 2016) - I still remember that day back in 2014 when I decided to start Android development, and that was one of the best decisions I took in my life. It has been around two and a half years now and I had the chance to learn and un-learn a lot of things in Android. In this article, I will be sharing some of the gems that I have collected in these years. It might help someone to get started faster and not repeat the mistakes that I once did. 18 very usefull tips.
 * [The Ultimate Pre-Release Checklist for Android App Success On Play Store](https://blog.aritraroy.in/the-ultimate-pre-release-checklist-for-android-app-success-on-play-store-cb0eb9f59ce9) (Oct 30, 2016) - There is so much to learn, implement and cover before making your final release in Play Store. So without wasting a moment, let’s jump into it straight away.
-
-
-### Android News
-* [Android Studio 2.2](https://android-developers.googleblog.com/2016/09/android-studio-2-2.html?m=1) (Sep 19, 2016) - Packed with enhancements, this release has three major themes: speed, smarts, and Android platform support. Develop faster with features such as the new Layout Editor, which makes creating an app user interface quick and intuitive. Develop smarter with our new APK analyzer, enhanced Layout Inspector, expanded code analysis, IntelliJ’s 2016.1.3 features and much more. Lastly, as the official IDE for Android app development, Android Studio 2.2 includes support for all the latest developer features in Android 7.0 Nougat, like code completion to help you add Android platform features like Multi-Window support, Quick Settings API, or the redesigned Notifications, and of course, the built-in Android Emulator to test them all out.
 
 
 ### Android Testing
