@@ -46,6 +46,13 @@ AppScale is open source Google App Engine and allows you to run your GAE applica
 
 ## ToDo
 
+### Bar Code Scanner
+* [dm77/barcodescanner](https://github.com/dm77/barcodescanner) - Android library projects that provides easy to use and extensible Barcode Scanner views based on ZXing and ZBar.
+
+### Open Food Facts
+* [Open Food Facts](https://it.openfoodfacts.org/) - Un database collaborativo, libero e aperto di prodotti alimentari provenienti da tutto il mondo.
+* [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp) - Native port of Open Food Facts on Android
+
 ### Design Pattern with CSharp
 * [Object Oriented Programming (OOP)](http://www.dotnetcurry.com/software-gardening/1125/object-oriented-programming-oops)
 

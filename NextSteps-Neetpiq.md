@@ -33,12 +33,15 @@ Following there are nice applications I'd like to work on - creating a copy, jus
 
 
 ## Update GitHub blog
+
+* [Saul Molinero](http://saulmm.github.io/) - first time inspiration theme
+* [Chris Banes](https://chris.banes.me/) - same theme than Saul's site
+* [Jeroen Mols](http://jeroenmols.com/blog) - nice site with presentation page and blog page using Hyde Theme
 * [Mo Valipour's Blog](http://mvalipour.github.io/) - using the same theme I use on my blog, but better than mine.
-* [mvalipour/mvalipour.github.io](https://github.com/mvalipour/mvalipour.github.io) - the repo on GitHub.
-* [Jekyll Themes](http://jekyllthemes.org/)
-* [Chris Banes](https://chris.banes.me/)
-* [Saul Molinero](http://saulmm.github.io/)
-* [Hyde Jekyll Template](http://hyde.getpoole.com/)
+	* [mvalipour/mvalipour.github.io](https://github.com/mvalipour/mvalipour.github.io) - the repo on GitHub.
+* [Hyde Jekyll Template](http://hyde.getpoole.com/) - the base theme
+* [Jekyll Themes](http://jekyllthemes.org/) - more themes
+
 
 
 ## Jekyll and Vagrant
@@ -69,7 +72,9 @@ Following there are nice applications I'd like to work on - creating a copy, jus
 
 ## Open Source Contribution
 
-Starting from this Meetup Group: [Open Source Saturday Milano](https://www.meetup.com/Open-Source-Saturday-Milano/) I've found again this way to contribute to project on GitHub.
+Starting from this Meetup Group:
+
+* [Open Source Saturday Milano](https://www.meetup.com/Open-Source-Saturday-Milano/) I've found again this way to contribute to project on GitHub.
 
 ### [Code Triage](https://www.codetriage.com/)
 * [Wallabag android-app](https://www.codetriage.com/wallabag/android-app)
@@ -77,6 +82,10 @@ Starting from this Meetup Group: [Open Source Saturday Milano](https://www.meetu
 * [dapper-dot-net](https://www.codetriage.com/stackexchange/dapper-dot-net)
 * [Glucosio Android App](https://www.codetriage.com/glucosio/glucosio-android)
 * [realm-java](https://www.codetriage.com/realm/realm-java)
+
+### More GitHub Projects
+* [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
+* [Sensey](http://nisrulz.github.io/sensey/) - Android library which makes detecting gestures a breeze. The library is built for simplicity and ease of use. It eliminates most boilerplate code for dealing with setting up gesture detection on Android.
 
 
 ## Working remotely
