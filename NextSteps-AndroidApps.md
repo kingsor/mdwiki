@@ -50,14 +50,7 @@ The aim of this talk is to showcase the importance of a well thought out softwar
 ## Apps Ideas
 
 ### Webmarks App Project
-Vorrei riprendere a lavorare a questo progetto per arrivare al deploy di una prima versione con una serie di funzionalità di base.
-Il progetto si compone di due parti: una parte web (server side) che consente di salvare i propri webmarks e di mantenere sincronizzati i vari dispositivi collegati (smartphone, tablet). Ed una parte mobile (Android App) che consente di salvare i propri webmarks e di leggerli in movimento (con la possibilità di salvare in locale gli articoli per poterli consultare off-line).
-
-- [Webmarks App](https://github.com/WebmarksApp) (server side)
-	- [webmarks.nancy](https://github.com/WebmarksApp/webmarks.nancy) - hosted on  [AppHarbor](https://appharbor.com/applications/webmarks) and available at this address: [http://webmarks.apphb.com/](http://webmarks.apphb.com/)
-	- [webmarks.node](https://github.com/WebmarksApp/webmarks.node) - hosted on [Heroku](https://dashboard.heroku.com/apps/webmarksapp) and available at this address: [https://webmarksapp.herokuapp.com/](https://webmarksapp.herokuapp.com/)
-	- [webmarksapp.github.io](https://github.com/WebmarksApp/webmarksapp.github.io) - hosted by [GitHub Pages](https://pages.github.com/) and available at this address: [http://webmarksapp.github.io/](http://webmarksapp.github.io/)
-- [Webmarks App](https://github.com/kingsor/WordPress-Android) (android)
+[Webmarks](NextSteps-Webmarks.md)
 
 
 ### Working with Firebase

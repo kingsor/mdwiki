@@ -6,6 +6,10 @@
 * [/notes](https://www.slashnotes.com/) - The easiest way to recall your notes. Without leaving Slack.
 * [Tomatobot](https://tomatobot.matthewhiggins.me/) - Hi, I'm Tomatobot. I'm a simple timer for short, distraction-free tasks, and I can join your team in Slack.
 
+## Coworking
+* [Il coworking di Open](http://www.openmilano.com/it/coworking/) (Zona Porta Romana) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
+* [YoRoom](http://www.yoroom.it/) (Quartiere Isola) - Yoroom è uno spazio di lavoro condiviso che ha l’ambizione di diventare una Comunità Socialmente Responsabile. Scoperto navigando sul sito di [NemboWeb](http://nemboweb.com/) Web Agency (by Marta Petrella).
+
 
 ## Inspiration
 Following there are nice applications I'd like to work on - creating a copy, just to learn more.
@@ -96,8 +100,7 @@ Starting from this Meetup Group:
 * [How to Find and Get Hired for a Remote Job](https://zapier.com/blog/remote-work-jobs/) (Jan 31, 2017) - For many people, remote work is the ideal way to work. You get the income stability and benefits of being an employee, plus the freedom to work wherever fits you best. You get to ditch the soul-crushing commute and, yes, work in your pajamas if you like. Before you throw out all your suits, though, you have to land the job. Here at Zapier, we're a 100% remote team and we get many applicants for our job openings. In our Customer Champion roles, for example, only 2% of applicants get a job fit interview and only 0.4% are hired. We're as picky as Yale–and so are other employers.
 
 
-## Coworking
-* [Il coworking di Open](http://www.openmilano.com/it/coworking/) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
+
 
 
 ## Startup Europe
