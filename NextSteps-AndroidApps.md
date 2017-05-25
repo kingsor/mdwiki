@@ -8,6 +8,7 @@
 
 
 ## Android Apps on GitHub
+* [grennis/MongoExplorer](https://github.com/grennis/MongoExplorer) - Android client for Mongo DB
 * [SimplePomodoro](https://github.com/kingsor/SimplePomodoro) - fork of [dacer/SimplePomodoro-android](https://github.com/dacer/SimplePomodoro-android) - SimplePomodoro App (DEPRECATED) http://dacer.github.io/myapps/
 * [PocketHub](https://github.com/pockethub/PocketHub) - This repository contains the source code for the PocketHub Android app. This is the same repository as the now-defunct official GitHub Android app.
 * [JoaquimLey/avenging](https://github.com/JoaquimLey/avenging) - Android app built with an MVP approach without RxJava or Dagger. Uses [Marvel Comics API](https://developer.marvel.com/) as a service which contains all the information about its vast library.

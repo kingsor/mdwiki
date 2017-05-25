@@ -114,6 +114,9 @@ Starting from this Meetup Group:
 
 ## Interview Questions
 
+* [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e) (Nov 20, 2012) - If you are interviewing for a programming job it is almost inevitable that you will be asked to do some coding on a whiteboard. In this post I’m not commenting on the validity of this style of interview (though I do personally find whiteboard coding a useful way to see how candidates work through problems) but instead pointing out some common pitfalls that can be avoided, given that this is how tech companies interview.
+
+
 ### Java
 * [20 Java Interview Questions from Investment Banks (Answered)](http://www.codeproject.com/Tips/1061616/Java-Interview-Questions-from-Investment-Banks-Ans) - Some core Java questions from Interviews from Investment banks, good for technical round.
 * [Java Questions and Answers](http://bit.ly/JavaInterviewApp) - This FREE app has core java interview questions for experienced developers as well as beginners. The questions and answers are based on 15+ years of java programming experience. Many questions are compiled from various sources including practical interviews, java websites and communities. 
