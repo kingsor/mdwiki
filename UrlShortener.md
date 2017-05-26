@@ -1,7 +1,5 @@
 # URL shortener
 
-## The project
-
 The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to getting started with MongoDB and C#.
 
 * [Developing a URL shortening service using Windows Azure SDK and C#](http://www.nakkala.net/2013/02/developing-url-shortening-service-using.html)
@@ -13,6 +11,33 @@ The idea started time ago but was awaked by this post [Frictionless .NET Web App
 * [manufacturing flic.kr style photo URLs](http://www.flickr.com/groups/api/discuss/72157616713786392/)
     * [Tiny Url’s in C#](http://www.faygate.net/post/133462295/tinyurlcode)
 
+
+
+## The project
+* [on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.
+
+### Node.js + Heroku
+* [kingsor/shortio-url-shortener](https://github.com/kingsor/shortio-url-shortener) - the repo of the project I created following the tutorial on CodeTuts.
+
+#### Resources
+* [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://codetuts.tech/build-a-url-shortener-node-hapi-js/) (Aug 6, 2016) - tutorial about creating a url shortener web api with node.js, hapi.js and mongodb.
+* [KishCom/shorten-node](https://github.com/KishCom/shorten-node) - A Node.js powered URL Shortener web app with Heroku deploy instructions. [http://kish.cm](http://kish.cm/)
+* [KingPixil/snip](https://github.com/KingPixil/snip) - dead-simple URL shortener [http://snipit.ga](http://snipit.ga)
+* [What is the “__v” field in MongoDB](http://stackoverflow.com/a/31872302/2768802) - if you don't need version_key ...
+
+### NancyFx + AppHarbor
+[kingsor/ShortURL](https://github.com/kingsor/ShortURL) - A simple url shortener project created with NancyFx and MongoDB
+
+A small Nancy sample, showing a simplistic URL shortener done in Nancy, and hosted in a console app as well on ASP.NET.
+
+Based on [ShortURL](https://github.com/horsdal/ShortURL) project by [Christian Horsdal](https://github.com/horsdal) following his tutorial [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/11/frictionless-net-web-app-development.html)
+
+Front-end based on [Shortio](https://github.com/luishendrix92/shortio) project by [Luis Lopez](https://github.com/luishendrix92) following his tutorial [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/)
+
+
+
+
+
 ## Url Shortener (old links)
 * [Shrinkr](http://shrinkr.codeplex.com/) - Shrinkr is a Url Shortening Service which demonstrates some of the best practices in developing real life web applications. ASP.NET MVC 2, Entity Framework 4 (Code First).
 	* [Shrinkr - Url Shrinking Service Developed with Entity Framework 4.0, Unity, ASP.NET MVC And jQuery](http://weblogs.asp.net/rashid/archive/2009/09/10/shrinkr-url-shrinking-service-developed-with-entity-framework-4-0-unity-asp-net-mvc-and-jquery-part-1.aspx)
@@ -20,8 +45,6 @@ The idea started time ago but was awaked by this post [Frictionless .NET Web App
 	* [Part 3](http://weblogs.asp.net/rashid/archive/2009/09/15/shrinkr-url-shrinking-service-developed-with-entity-framework-4-0-unity-asp-net-mvc-and-jquery-part-3.aspx)
 * [miniurl](http://miniurl.codeplex.com/) - Sample ASP.NET MVC application to show how to create URL shrink/snippet/etc and handling of shorten URLs.
 * [Rick URL Shortening Service – an ASP.net MVC learning project](http://www.stum.de/2008/12/14/rick-url-shortening-service-an-aspnet-mvc-learning-project/)
-* [URL Shortener for ASP.NET](http://sourceforge.net/projects/shorturl-dotnet/)
-* [Open Directory Listing](http://www.dmoz.org/Computers/Internet/Web_Design_and_Development/Hosted_Components_and_Services/Redirects/)
 * [How to reverse engineer a shortened URL](http://blogs.msdn.com/b/amb/archive/2011/02/13/how-to-reverse-engineer-a-shortened-url.aspx)
 * [SHOV.IN – AN(OTHER) ASP.NET MVC URL SHORTENER](http://dochoffiday.com/Professional/shov-in-an-other-asp-net-mvc-url-shortener)
 * [TinyURL](http://tinyurl.com/) - Making over a billion long URLs usable! Serving billions of redirects per month.

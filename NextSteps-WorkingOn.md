@@ -3,18 +3,8 @@
 
 ## Doing
 
-### AppScale
-AppScale is open source Google App Engine and allows you to run your GAE applications on any infrastructure, anywhere that makes sense for your business. AppScale eliminates lock-in and makes your GAE application portable. This way you can choose which public or private cloud platform is the best fit for your business requirements. Because we are literally the GAE alternative, it is an easy migration from Google App Engine to AppScale. AppScale implements the Google App Engine API’s allowing users to move their App Engine applications to AppScale unmodified, while providing the same no-ops experience as Google App Engine. This way you can save time and money by choosing AppScale for your application. Check out our [case studies page](https://www.appscale.com/resources/use-cases/) and see why our customers are so happy.
-
-* [Try AppScale](https://www.appscale.com/try-appscale/) - AppScale can be deployed on a single node (usual case for Dev/Test), and on multiple nodes (production deployments with large datasets or CPU needs). It is possible to try AppScale on Vagrant.
-
 ### Url Shortener
-* [on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.
-* [KishCom/shorten-node](https://github.com/KishCom/shorten-node) - A Node.js powered URL Shortener web app with Heroku deploy instructions. [http://kish.cm](http://kish.cm/)
-* [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://codetuts.tech/build-a-url-shortener-node-hapi-js/) (Aug 6, 2016) - tutorial about creating a url shortener web api with node.js, hapi.js and mongodb.
-* [KingPixil/snip](https://github.com/KingPixil/snip) - dead-simple URL shortener [http://snipit.ga](http://snipit.ga)
-* [What is the “__v” field in MongoDB](http://stackoverflow.com/a/31872302/2768802) - if you don't need version_key ...
-* [kingsor/shortio-url-shortener](https://github.com/kingsor/shortio-url-shortener) - the repo of the project I created following the tutorial on CodeTuts.
+* [Url Shortener](UrlShortener.md)
 
 
 ### NancyFx
@@ -45,6 +35,11 @@ AppScale is open source Google App Engine and allows you to run your GAE applica
 
 
 ## ToDo
+
+### AppScale
+AppScale is open source Google App Engine and allows you to run your GAE applications on any infrastructure, anywhere that makes sense for your business. AppScale eliminates lock-in and makes your GAE application portable. This way you can choose which public or private cloud platform is the best fit for your business requirements. Because we are literally the GAE alternative, it is an easy migration from Google App Engine to AppScale. AppScale implements the Google App Engine API’s allowing users to move their App Engine applications to AppScale unmodified, while providing the same no-ops experience as Google App Engine. This way you can save time and money by choosing AppScale for your application. Check out our [case studies page](https://www.appscale.com/resources/use-cases/) and see why our customers are so happy.
+
+* [Try AppScale](https://www.appscale.com/try-appscale/) - AppScale can be deployed on a single node (usual case for Dev/Test), and on multiple nodes (production deployments with large datasets or CPU needs). It is possible to try AppScale on Vagrant.
 
 ### Bar Code Scanner
 * [dm77/barcodescanner](https://github.com/dm77/barcodescanner) - Android library projects that provides easy to use and extensible Barcode Scanner views based on ZXing and ZBar.
