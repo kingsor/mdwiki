@@ -12,14 +12,24 @@ I'd like to create a todo list / task list app.
 
 ## Samples
 * [Todo-Backend](http://www.todobackend.com/) - The Todo-Backend project helps showcase and compare different language and framework combinations for building web services. This website defines a simple web API in the form of a todo list and users can create their own identical APIs using various tech stacks. This website then provides a spec runner to verify that the user implementation is identical to the base implementation. The Todo-Backend project was inspired by the [TodoMVC project](http://todomvc.com/), and some code (specifically the todo client app) was borrowed directly from TodoMVC.
-	* [C# with NancyFx](http://todobackend.apphb.com/todo-backend) - implementation with Nancy Framework and NDatabase, an inmemory object database.
-		* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
-		* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
-* [Creating a Nancy web api to store data in MongoDB](https://suttoncodefield.wordpress.com/2015/09/24/creating-a-nancy-web-api-to-store-data-in-mongodb/) (Sep 24, 2015) - Today I’m going to describe a quick example of a web api for storing and retrieving data in a MongoDB.
+
+* [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://getstream.io/blog/depth-guide-building-rest-api-node-js-restify-mongodb/) - a todo list sample using Restify and MongoDB.
+* [Creating a Cloud Backend for Your Android App Using Firebase](https://www.sitepoint.com/creating-a-cloud-backend-for-your-android-app-using-firebase/) (Sep 7, 2016) - In this article, you’ll create a **simple To Do app** that will show how to save and retrieve data from Firebase, how to authenticate users, set read/write permissions on the data and validate the data on the server.
+
+### ToDo with NancyFx
+From the [Todo-Backend](http://www.todobackend.com/) project, here is a list of links about NancyFx use.
+* [C# with NancyFx](http://todobackend.apphb.com/todo-backend) - implementation with Nancy Framework and NDatabase, an inmemory object database.
+* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
+* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
+* [Creating a Nancy web api to store data in MongoDB](https://suttoncodefield.wordpress.com/2015/09/24/creating-a-nancy-web-api-to-store-data-in-mongodb/) 
+(Sep 24, 2015) - Today I’m going to describe a quick example of a web api for storing and retrieving data in a MongoDB.
+
+### Cheddar App
 * [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
 	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
 	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
-* [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://getstream.io/blog/depth-guide-building-rest-api-node-js-restify-mongodb/) - a todo list sample using Restify and MongoDB.
+* [Cheddar API](https://cheddarapp.com/developer) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
+* [aliHafizji/Cheddar-Android](https://github.com/aliHafizji/Cheddar-Android) - This is a universal Android app for Cheddar, a simple task manager.
 
 
 ## Execution

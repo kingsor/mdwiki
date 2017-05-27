@@ -16,9 +16,10 @@
   
 [Project Ideas]()
 
-  * [Task List](NextSteps-TaskList.md)
-  * [Webmarks](NextSteps-Webmarks.md)
-  * [Url Shortener](UrlShortener.md)
+  * [Url Shortener](NextSteps-Projects-UrlShortener.md)
+  * [Task List](NextSteps-Projects-TaskList.md)
+  * [Notes](NextSteps-Projects-Notes.md)
+  * [Webmarks](NextSteps-Projects-Webmarks.md)
 
 [Fitness]()
 

@@ -50,7 +50,7 @@ The aim of this talk is to showcase the importance of a well thought out softwar
 ## Apps Ideas
 
 ### Webmarks App Project
-[Webmarks](NextSteps-Webmarks.md)
+[Webmarks](NextStepsProjects-Webmarks.md)
 
 
 ### Working with Firebase
@@ -59,9 +59,6 @@ The aim of this talk is to showcase the importance of a well thought out softwar
 * [Android Getting Started with Firebase – Login and Registration Authentication](http://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/) (Jun 2016) - Firebase provides a full set of authentication options out-of-the-box. Firebase automatically stores your users’ credentials securely (using bcrypt) and redundantly (with replication and daily off-site backups). This separates sensitive user credentials from your application data, and lets you focus on the user interface and experience for your app.
 * [Android Login and Registration with PHP, MySQL and SQLite](http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/) (Jan 2012) - I like it for the Login and Register activities.
 * [Firebase Tutorial: Getting Started](https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2) (Sep 19, 2016) - in this Firebase tutorial, you’ll learn all the fundamentals of Firebase by making a collaborative grocery list app called Grocr. When items get added to the list they’ll appear instantly on any user’s devices, but you’re not going to stop there. You’ll tweak Grocr to work offline, so the list stays in sync even with a spotty grocery store data connection.
-* [Cheddar API](https://cheddarapp.com/developer) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
-* [aliHafizji/Cheddar-Android](https://github.com/aliHafizji/Cheddar-Android) - This is a universal Android app for Cheddar, a simple task manager.
-* [Creating a Cloud Backend for Your Android App Using Firebase](https://www.sitepoint.com/creating-a-cloud-backend-for-your-android-app-using-firebase/) (Sep 7, 2016) - In this article, you’ll create a simple To Do app that will show how to save and retrieve data from Firebase, how to authenticate users, set read/write permissions on the data and validate the data on the server.
 
 
 ### Notes App

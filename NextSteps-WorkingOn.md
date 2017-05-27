@@ -4,18 +4,10 @@
 ## Doing
 
 ### Url Shortener
-* [Url Shortener](UrlShortener.md)
+* [Url Shortener](NextSteps-Projects-UrlShortener.md)
 
-
-### NancyFx
-* [nerobianchi/visual_studio_gallery](https://github.com/nerobianchi/visual_studio_gallery) - nancy template for visual studio 2015
-* [Nancy: Serving static content (e.g. index.html) from “/”](http://stackoverflow.com/a/21477824/2768802) - this way I can configure a folder (usually "Content" folder) in order to contain all files for SPA web app.
-* [bojanv91/codecamp2013-speakersapp-demo](https://github.com/bojanv91/codecamp2013-speakersapp-demo) - The complete demo project from my CodeCamp's 2013 session "AngularJS + NancyFx + MongoDB = The best trio for ultimate SPA"
-* [Creating a Nancy web api to store data in MongoDB](https://suttoncodefield.wordpress.com/2015/09/24/creating-a-nancy-web-api-to-store-data-in-mongodb/) (Sep 24, 2015) - Today I’m going to describe a quick example of a web api for storing and retrieving data in a MongoDB. All the code you need is described in the article but a working example is available in [github](https://github.com/edtyl3r/NancyDemo).
-* [Todo-Backend](http://www.todobackend.com/) - The Todo-Backend project helps showcase and compare different language and framework combinations for building web services. This website defines a simple web API in the form of a todo list and users can create their own identical APIs using various tech stacks. This website then provides a spec runner to verify that the user implementation is identical to the base implementation. The Todo-Backend project was inspired by the [TodoMVC project](http://todomvc.com/), and some code (specifically the todo client app) was borrowed directly from TodoMVC.
-	* [C# with NancyFx](http://todobackend.apphb.com/todo-backend) - implementation with Nancy Framework and NDatabase, an inmemory object database.
-		* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
-		* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
+### WebMarks
+* [Webmarks and Web Parser](NextSteps-Projects-Webmarks.md) - project description.
 
 
 ### Retrofit and RecyclerView, working with
@@ -48,8 +40,7 @@ AppScale is open source Google App Engine and allows you to run your GAE applica
 * [Open Food Facts](https://it.openfoodfacts.org/) - Un database collaborativo, libero e aperto di prodotti alimentari provenienti da tutto il mondo.
 * [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp) - Native port of Open Food Facts on Android
 
-### WebMarks
-* [Webmarks and Web Parser](NextSteps-Webmarks.md) - project description.
+
 
 ### Cost Tracker
 [dmilicic/android-clean-sample-app](https://github.com/dmilicic/android-clean-sample-app) is a sample cost-tracker app that showcases [my Clean architecture approach](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029) to build Android applications.

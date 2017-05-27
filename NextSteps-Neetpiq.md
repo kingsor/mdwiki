@@ -130,7 +130,7 @@ Starting from this Meetup Group:
 * [Meetup - Android Engineer](https://www.meetup.com/jobs/android-engineer-572933/#job-title)
 
 
-## Commonsense
+### Commonsense
 [Commonsense - Lavora con noi](http://www.commonsense.cc/lavoro/)
 Cosa chiediamo, se hai già esperienza
 
@@ -141,7 +141,7 @@ Queste qualità, più degli anni di esperienza o di conoscenze tecniche approfon
 Ti offriamo di crescere professionalmente lavorando assieme a colleghi con esperienza e clienti esigenti.
 
 
-## Toptal
+### Toptal
 [Toptal](https://www.toptal.com/) is a global network of elite software engineers, designers, and finance experts. Toptal works with clients to understand their project/team needs and custom-match them with pre-screened designers, developers, and finance experts who join their teams on a full-time, part-time, or hourly basis.
 
 Toptal has worked with over 2,000 [clients](https://www.toptal.com/clients) to date. Toptal clients include Airbnb, J.P. Morgan, Zendesk, Artsy, IDEO, Pfizer, and many more.
@@ -150,7 +150,7 @@ The Toptal network includes thousands of designers, developers, and finance expe
 
 Toptal frequently publishes software engineering articles on the [Toptal Engineering Blog](https://www.toptal.com/blog) and design articles on the [Toptal Design Blog](https://www.toptal.com/designers/blog). The [Toptal community](https://www.toptal.com/community) is also extremely active  and leads the [Toptal Global Mentors Program](https://www.toptal.com/global-mentors), a large-scale initiative aimed at improving diversity in the tech industry.
 
-### Interesting Profiles
+#### Interesting Profiles
 * [Anna Chiara Bellini](https://www.toptal.com/resume/anna-chiara-bellini) - Bologna, Italy - Member since August 5, 2013
 	* [LinkedIn Profile](https://www.linkedin.com/in/annachiarabellini/)
 * [Filippo Conforti](https://www.toptal.com/resume/filippo-conforti) - Florence, Italy - Member since June 13, 2015
@@ -159,7 +159,7 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * [Mikhail Selivanov](https://www.toptal.com/resume/mikhail-selivanov) - Solna, Sweden - Member since December 19, 2012
 * [Evgeniy T.](https://www.upwork.com/freelancers/~01d95397aacaef6e88) - from Upwork
 
-### Working for and hiring process
+#### Working for and hiring process
 * [Review: Toptal hiring process](http://programmerbear.com/review-toptal-hiring-process/) (Nov 20, 2015) by [Programmer Bear](http://programmerbear.com/)
 	* [Codility lessons](https://codility.com/programmers/lessons/)
 	* [Codility Solutions](https://www.martinkysel.com/codility-solutions/) by [Martin Kysel](https://www.martinkysel.com/) - Based on the [Codility Terms of Service](https://codility.com/terms-of-service-for-programmers) it is allowed to share training solutions and solutions to past challenges.
@@ -171,7 +171,7 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 	* [TOPTAL - THE 2 YEAR UPDATE YOU HAVE BEEN WAITING FOR!](http://www.michaelhoughton.com/article/toptal-review-2-year-developer-update) (Jun 22, 2016)
 
 
-## Automattic
+### Automattic
 * [Remote @ Automattic](http://workdifferent.com/remote-automattic/) - The 10 year old company behind WordPress.com, Akismet, Jetpack and VaultPress, has a 100% distributed workforce of almost 400 people scattered across 37 countries, where all communication happens online, across different platforms, rapidly, often in acronyms, and entirely in public. There’s no email, no office, no set work hours, no vacation policy, and seemingly little in the way of structure.
 * [How To Go Remote](http://workdifferent.com/how-to-remote/) - Too often, the idea of running a distributed (remote) team is dismissed as only possible when the company is small. This week, Automattic showed us that it’s not only possible to have a fully distributed team at a large scale, but you become a billion dollar company doing it. In this HowToWD we are going to disassemble the learnings from Automattic into a format that can be easily implemented by any team.
 * [The New WordPress.com](https://developer.wordpress.com/calypso/) - A single interface to manage all your WordPress.com or Jetpack-enabled sites, built with the latest web technologies and used by millions of people - and now it's open source.
@@ -186,7 +186,7 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 
 
 
-## Java & C++
+### Java & C++
 [Sviluppatore Java Senior](https://www.infojobs.it/milano/sviluppatore-java-senior-rif.-0102/of-i9d25b3b79c47cfae6fa46947998cba&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i9d25b3b79c47cfae6fa46947998cba%5d-%5b1064067356%5d@1&navOrigen=e_push)
 
 * Java Standard Edition
@@ -202,7 +202,7 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 * Utilizzo di librerie boost e STL
 
 
-### About C++
+#### About C++
 * [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
 	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
 * [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.
