@@ -9,7 +9,7 @@
 
 
 ## Focus On
-* [Building a Bookmarking App with Electron, VueJs, and Firebase](https://coligo.io/bookmarking-app-electron-vuejs-firebase/) (Apr 1st, 2016) - In this tutorial we will be building a cross-platform, real-time Bookmarking Application using [Electron](http://electron.atom.io/), [Firebase](https://www.firebase.com/), and [VueJs](http://vuejs.org/). We will be covering everything from setting up your project structure and configuring Webpack to creating the Electron app and building the Vue components.
+
 * [Electron](http://electron.atom.io/) - Build cross platform desktop apps with JavaScript, HTML, and CSS. If you can build a website, you can build a desktop app. Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
 	* [Electron: Desktop Apps with Web Languages - GitHub Universe 2016](https://www.youtube.com/watch?v=FNHBfN8c32U) - In this session, hosted by Zeke Sikelianos, an Electron Developer at GitHub, we'll look at some of the amazing things you can create using features and tools Electron inherits from the Chromium browser, Node.js, and the vast ecosystem of npm modules.
 	* [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer
@@ -17,22 +17,11 @@
 * [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256) (Aug 8, 2016) - Why do products sometimes label things as my stuff, and sometimes label things as your stuff? As you tap around from app to app, you’ll see that there’s no standard way to refer to the things that belong to you within an interface. Some say it’s my stuff. Some say it’s your stuff.
 * [Hygieia](https://developer.capitalone.com/opensource-projects/hygieia) - One Dashboard for the Entire CI/CD Pipeline. A single, configurable, easy to use dashboard to visualize near real-time status of the entire software delivery pipeline.
 	* [capitalone/Hygieia](https://github.com/capitalone/Hygieia) - Hygieia℠ is a single, configurable, easy to use dashboard to visualize near real-time status of the entire delivery pipeline.
-* [Simplenote](https://simplenote.com/) - The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
-	* [Simplenote - iOS, Android, and macOS Apps Now Open Source](https://simplenote.com/2016/08/11/ios-android-and-macos-apps-now-open-source/)
-* [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
-	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
-	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
-* [Mercury](https://mercury.postlight.com/) - Mercury is a toolkit that lets you transform web pages into clean text. Publishers and programmers use it to make the web make sense. For free. Mercury is a product of [Postlight Labs](https://postlight.com/labs). [Mercury Toolkit](https://twitter.com/MercuryToolkit) on twitter.
-	* [Postlight](https://postlight.com/) - Postlight is a digital product studio in New York City. We build prototypes to prove out ideas—then build large, scalable digital platforms that support elegant consumer products.
-	* [Mercury Case Study](https://postlight.com/work/mercury/) - a post about the project.
-	* [Web Parser API](https://mercury.postlight.com/web-parser/) - With just one API request, Mercury takes any web article and returns only the relevant content — headline, author, body text, relevant images and more — free from any clutter. It’s reliable, easy-to-use and free.
-	* [AMP Converter](https://mercury.postlight.com/amp-converter/) - With just one line of code, Mercury AMP gets your publication ready for Google AMP. Get lightning-fast load times and boosted search results on mobile.
-		* [The Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) - it is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.
-		* [Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web](https://googleblog.blogspot.it/2015/10/introducing-accelerated-mobile-pages.html) (Oct 7, 2015) - Smartphones and tablets have revolutionized the way we access information, and today people consume a tremendous amount of news on their phones. Today, after discussions with publishers and technology companies around the world, we’re announcing a new open source initiative called Accelerated Mobile Pages, which aims to dramatically improve the performance of the mobile web. We want webpages with rich content like video, animations and graphics to work alongside smart ads, and to load instantaneously. We also want the same code to work across multiple platforms and devices so that content can appear everywhere in an instant—no matter what type of phone, tablet or mobile device you’re using.
+
 
 
 ## HTTP and REST Server prototype
-* [HTTP Server]() - 
+* [http-server](https://www.npmjs.com/package/http-server) - `http-server` is a simple, zero-configuration command-line http server. It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development, and learning.
 * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping powered by [JSON Server](https://github.com/typicode/json-server) and [lowdb](https://github.com/typicode/lowdb)
 * [Harp](https://harpjs.com/) - The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
