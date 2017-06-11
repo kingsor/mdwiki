@@ -20,13 +20,6 @@
 
 
 
-## HTTP and REST Server prototype
-* [http-server](https://www.npmjs.com/package/http-server) - `http-server` is a simple, zero-configuration command-line http server. It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development, and learning.
-* [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping powered by [JSON Server](https://github.com/typicode/json-server) and [lowdb](https://github.com/typicode/lowdb)
-* [Harp](https://harpjs.com/) - The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
-
-
 ## Slack Alternatives
 * [Five Open-Source Slack Alternatives](https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/) (Nov 2, 2015)
 * [Rocket.Chat](https://rocket.chat/) - [demo](https://demo.rocket.chat/)
@@ -44,27 +37,6 @@
 * [NullDesk/TicketDesk](https://github.com/NullDesk/TicketDesk) (ASP.NET MVC 5, Entity Framework 6, C#) - TicketDesk is an issue tracking system for IT Help Desks. TicketDesk is efficient and designed to do only one thing, facilitate communications between help desk staff and end users. The overriding design goal is to be as simple and frictionless for both users and help desk staff as is possible.
 * [Build A Support Ticket Application With Laravel – Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-laravel-part-2) (Aug 15, 2016) - Learn how to build a support ticket application with Laravel.
 
-### ToDo List or Task List
-* [Todo-Backend](http://www.todobackend.com/) - The Todo-Backend project helps showcase and compare different language and framework combinations for building web services. This website defines a simple web API in the form of a todo list and users can create their own identical APIs using various tech stacks. This website then provides a spec runner to verify that the user implementation is identical to the base implementation. The Todo-Backend project was inspired by the [TodoMVC project](http://todomvc.com/), and some code (specifically the todo client app) was borrowed directly from TodoMVC.
-	* [C# with NancyFx](http://todobackend.apphb.com/todo-backend) - implementation with Nancy Framework and NDatabase, an inmemory object database.
-		* [sriv/todo-backend-nancy](https://github.com/sriv/todo-backend-nancy) - An implementation of todo-backend using NancyFX
-		* Here is the [Demo Client](http://www.todobackend.com/client/index.html?https://todobackend.apphb.com/todo-backend)
-* [Creating a Nancy web api to store data in MongoDB](https://suttoncodefield.wordpress.com/2015/09/24/creating-a-nancy-web-api-to-store-data-in-mongodb/) (Sep 24, 2015) - Today I’m going to describe a quick example of a web api for storing and retrieving data in a MongoDB.
-* [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
-	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
-	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
-* [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://getstream.io/blog/depth-guide-building-rest-api-node-js-restify-mongodb/) - a todo list sample using Restify and MongoDB.
-
-#### Task List with Android Client
-* [Android Login and Registration with PHP, MySQL and SQLite](http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/) (Jan 31, 2012) - In this tutorial I am going to explain how to build complete login and registration system in android using PHP, MySQL and SQLite. Also this tutorial covers how to build simple API using PHP and MySQL.
-* [How to create REST API for Android app using PHP, Slim and MySQL – Day 1/2](http://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-app-using-php-slim-and-mysql-day-12-2/) ( Jan 19, 2014) - This tutorial gives enough knowledge about building a REST API for very beginners. As this tutorial seems lengthy, I had divided it into 2 parts. In the 1st part we learn fundamental concepts of REST and do the required setup. In the 2nd part building actual API (writing PHP & MySQL code) is covered.
-
-### Notes App
-* [NoteCloud API](https://github.com/itderrickh/NoteCloudApi) - The api for NoteCloud. Written with NancyFx and .NET utilities.
-
-
-
-
 
 ## Meteor
 * [An introduction to Meteor](https://www.youtube.com/watch?v=dOCMpoeuwTI)
@@ -77,6 +49,7 @@
 
 
 ## PHP
+* [PHP 6: Pissing in the Wind](https://philsturgeon.uk/php/2013/01/26/php-6-pissing-in-the-wind/)
 * [HOW GOOD IS PHP?](http://www.webiny.com/blog/2015/01/06/how-good-is-php/) (Jan 9, 2015) - PHP is still, mostly thanks to Wordpress, the most widely used server-side language on the Internet (source). It is used on more than 82% of all websites. But why, with all that “glory”, some developers say it's a really bad language? They often use terms like "spaghetti code”, slow or even evil. In order to understand the origin of these standings, I will briefly go over the history of PHP.
 * [PHP Releases](https://secure.php.net/releases/) - We have collected all the official information and code available for past PHP releases.
 

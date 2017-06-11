@@ -1,7 +1,8 @@
 # URL shortener
 
 ## The project
-* [on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.
+[on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.  
+Scott Hanselman shows how [This URL shortener situation is officially out of control](http://www.hanselman.com/blog/ThisURLShortenerSituationIsOfficiallyOutOfControl.aspx).
 
 The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to getting started with MongoDB and C#.
 
@@ -31,6 +32,10 @@ A small Nancy sample, showing a simplistic URL shortener done in Nancy, and host
 Based on [ShortURL](https://github.com/horsdal/ShortURL) project by [Christian Horsdal](https://github.com/horsdal) following his tutorial [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/11/frictionless-net-web-app-development.html)
 
 Front-end based on [Shortio](https://github.com/luishendrix92/shortio) project by [Luis Lopez](https://github.com/luishendrix92) following his tutorial [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/)
+
+I wrote a post about the deploy of this app on AppHarbor: [Deploy a side project on AppHarbor](https://kingsor.github.io/2017/05/16/deploy-a-side-project-to-appharbor/) (May 16, 2017)
+
+* [RequestHeaders.cs](https://github.com/NancyFx/Nancy/blob/master/src/Nancy/RequestHeaders.cs) in order to understand how to list every http header from "/{shorturl}" request.
 
 
 ### NancyFx

@@ -13,6 +13,20 @@ I want to create an app for android with the main feature to save a url of an ar
 * [Webmarks-Android]()
 
 
+## Inspirational Apps / Samples
+* [MarkSearch](https://darkle.github.io/MarkSearch/) - MarkSearch is a desktop bookmarking application. It allows you to save and search web pages. The desktop application runs in the background while you use your browser to access the main MarkSearch search page. MarkSearch is supposed to work kinda like google in that you don’t need to use tags or categories, you just do a full text search. You can save websites manually from the MarkSearch search page, or by using the browser extension to save a site. The browser extension also has the ability to show your MarkSearch bookmarks on google search pages, so you can see results for you search terms from Google and MarkSearch at the same time.
+* [Building a Bookmarking App with Electron, VueJs, and Firebase](https://coligo.io/bookmarking-app-electron-vuejs-firebase/) (Apr 1st, 2016) - In this tutorial we will be building a cross-platform, real-time Bookmarking Application using [Electron](http://electron.atom.io/), [Firebase](https://www.firebase.com/), and [VueJs](http://vuejs.org/). We will be covering everything from setting up your project structure and configuring Webpack to creating the Electron app and building the Vue components.
+* [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+* [Shaarli](http://sebsauvage.net/wiki/doku.php?id=php:shaarli) - You want to share the links you discover ? Shaarli is a minimalist delicious clone you can install on your own website. It is designed to be personal (single-user), fast and handy.
+
+### Libraries
+* [ceee/ReadSharp](https://github.com/ceee/ReadSharp) - Extract meaningful website contents using a port of NReadability. ReadSharp was previously PocketSharp.Reader and is now hosted without the PocketSharp dependency.
+* [wallabag/php-readability](https://libraries.io/github/wallabag/php-readability) - This is a PHP port of Arc90's original Javascript version of Readability.
+* [feelinglucky/php-readability](https://github.com/feelinglucky/php-readability) - Back the fun of reading - PHP Port of Arc90′s Readability
+* [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
+* [marek-stoj/NReadability](https://github.com/marek-stoj/NReadability) - NReadability is a tool for removing clutter from HTML pages so that they are more enjoyable to read.
+* [Nuget NReadability 1.4.9](https://www.nuget.org/packages/NReadability) - the nuget package.
+
 ## Ideas Backlog
 * when I have a big list of bookmarks I'd like to be able to organize them. There are a few ways to do that.
 	* Using tags - it's a way too flat if it is not possible to show articles for more than one tag a time - I'd like to use the delicious way (you can choose a tag and you can see the other tags associated with the resulting article) so you can create a hierarchy of tags
@@ -77,10 +91,6 @@ Something about Mercury and who is working on it.
 	* [AMP Converter](https://mercury.postlight.com/amp-converter/) - With just one line of code, Mercury AMP gets your publication ready for Google AMP. Get lightning-fast load times and boosted search results on mobile.
 		* [The Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) - it is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.
 		* [Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web](https://googleblog.blogspot.it/2015/10/introducing-accelerated-mobile-pages.html) (Oct 7, 2015) - Smartphones and tablets have revolutionized the way we access information, and today people consume a tremendous amount of news on their phones. Today, after discussions with publishers and technology companies around the world, we’re announcing a new open source initiative called Accelerated Mobile Pages, which aims to dramatically improve the performance of the mobile web. We want webpages with rich content like video, animations and graphics to work alongside smart ads, and to load instantaneously. We also want the same code to work across multiple platforms and devices so that content can appear everywhere in an instant—no matter what type of phone, tablet or mobile device you’re using.
-
-
-## Samples
-* [Building a Bookmarking App with Electron, VueJs, and Firebase](https://coligo.io/bookmarking-app-electron-vuejs-firebase/) (Apr 1st, 2016) - In this tutorial we will be building a cross-platform, real-time Bookmarking Application using [Electron](http://electron.atom.io/), [Firebase](https://www.firebase.com/), and [VueJs](http://vuejs.org/). We will be covering everything from setting up your project structure and configuring Webpack to creating the Electron app and building the Vue components.
 
 
 ## Libraries for Readability feature

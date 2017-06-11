@@ -12,6 +12,7 @@
   * [Android Certification](NextSteps-AndroidCertification.md)
   * [Neetpiq Channel](NextSteps-Neetpiq.md)
   * [Boostrapping](NextSteps-Bootstrapping.md)
+  * [Job Interview](NextSteps-JobInterviews.md)
   * [Quotes](NextSteps-Quotes.md)
   
 [Project Ideas]()

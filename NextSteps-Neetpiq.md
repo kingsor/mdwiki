@@ -6,6 +6,11 @@
 * [/notes](https://www.slashnotes.com/) - The easiest way to recall your notes. Without leaving Slack.
 * [Tomatobot](https://tomatobot.matthewhiggins.me/) - Hi, I'm Tomatobot. I'm a simple timer for short, distraction-free tasks, and I can join your team in Slack.
 
+## Inspiring sites
+* [Object.NET](http://object.net/) - Frameworks and Tools for .NET Developers - single page application, one more page for [Identity Guidelines](http://object.net/identity/), three main projects ([Ext.NET](http://ext.net/), [Bridge.NET](http://bridge.net/), [Deck.NET](http://deck.net/)), links on accounts: [twitter](http://twitter.com/objectdotnet/) and [github](https://github.com/objectdotnet/)
+* [Postlight](https://postlight.com/) - Postlight is a digital product studio in New York City. We build prototypes to prove out ideas—then build large, scalable digital platforms that support elegant consumer products.
+* [Jeroen Mols](http://jeroenmols.com/blog) - nice site with presentation page and blog page using Hyde Theme
+
 ## Coworking
 * [Il coworking di Open](http://www.openmilano.com/it/coworking/) (Zona Porta Romana) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
 * [YoRoom](http://www.yoroom.it/) (Quartiere Isola) - Yoroom è uno spazio di lavoro condiviso che ha l’ambizione di diventare una Comunità Socialmente Responsabile. Scoperto navigando sul sito di [NemboWeb](http://nemboweb.com/) Web Agency (by Marta Petrella).
