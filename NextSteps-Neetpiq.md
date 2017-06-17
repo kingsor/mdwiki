@@ -105,9 +105,6 @@ Starting from this Meetup Group:
 * [How to Find and Get Hired for a Remote Job](https://zapier.com/blog/remote-work-jobs/) (Jan 31, 2017) - For many people, remote work is the ideal way to work. You get the income stability and benefits of being an employee, plus the freedom to work wherever fits you best. You get to ditch the soul-crushing commute and, yes, work in your pajamas if you like. Before you throw out all your suits, though, you have to land the job. Here at Zapier, we're a 100% remote team and we get many applicants for our job openings. In our Customer Champion roles, for example, only 2% of applicants get a job fit interview and only 0.4% are hired. We're as picky as Yale–and so are other employers.
 
 
-
-
-
 ## Startup Europe
 * [EU-Startups](http://www.eu-startups.com/) - it is one of the leading startup blogs in Europe and was founded in October of 2010. We write about internet and tech startups out of Europe and provide our readers with data-driven analysis, interviews and startup-related news. In addition to our focus on young technology companies, we also publish other kinds of news out of the tech-space that has a commercial or cultural impact on startups in Europe.
 

@@ -1,6 +1,10 @@
 
 # Next steps - Ideas Bucket
 
+## About .NET past and future
+* [After all, it might not matter - A commentary on the status of .NET](https://byterot.blogspot.it/2016/06/after-all-it-might-not-matter-commentary-status-of-dotnet-dotnetcore-csharp-oss-fsharp-dnx.html?m=1) (Jun 14, 2016) - What is worse is that the data showing with the announcement of #vNext aka #DNX aka #dotnetcore there was a sharp decline in the new OSS C# projects - the community is in a limbo situation waiting for the release - people find it pointless to create OSS projects on the current platform and the future platform is so much in flux which is not stable enough for innovation. With the recent changes announced, practically it will take another 12-18 months for it to stabilise (some might argue 6-12 months, fair enough, take what you like). For me this is the most alarming of all.
+
+
 ## ToRead List
 * [moq/moq4](https://github.com/moq/moq4) - Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
 * [Using dependency injection in Java](http://www.vogella.com/tutorials/DependencyInjection/article.html) by [Lars Vogel](http://www.vogella.com/) - This article describes the concept of dependency injection from a Java perspective.
