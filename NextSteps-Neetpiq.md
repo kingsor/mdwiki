@@ -16,18 +16,6 @@
 * [YoRoom](http://www.yoroom.it/) (Quartiere Isola) - Yoroom è uno spazio di lavoro condiviso che ha l’ambizione di diventare una Comunità Socialmente Responsabile. Scoperto navigando sul sito di [NemboWeb](http://nemboweb.com/) Web Agency (by Marta Petrella).
 
 
-## Inspiration
-Following there are nice applications I'd like to work on - creating a copy, just to learn more.
-
-* [Cheddar App](https://cheddarapp.com/) - Tasks made simple. With Cheddar, your tasks are instantly everywhere. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync. It's really magical to create a task on your iPhone and have it instantly be on your computer without thinking about syncing.
-	* [Nothing Magical](http://nothingmagical.com/) - Nothing Magical is just a one man show. Sam designs and develops all of the Nothing Magical products.
-	* [Sam Soffes](https://soff.es/) - I am a [Swift and Ruby engineer](https://github.com/soffes), musician, wanna be designer, overly passionate motorcyclist, and burger connoisseur. I live in San Francisco with my beautiful wife.
-* [Mercury](https://mercury.postlight.com/) - Mercury is a toolkit that lets you transform web pages into clean text. Publishers and programmers use it to make the web make sense. For free. Mercury is a product of [Postlight Labs](https://postlight.com/labs). [Mercury Toolkit](https://twitter.com/MercuryToolkit) on twitter.
-	* [Postlight](https://postlight.com/) - Postlight is a digital product studio in New York City. We build prototypes to prove out ideas—then build large, scalable digital platforms that support elegant consumer products.
-	* [Mercury Case Study](https://postlight.com/work/mercury/) - a post about the project.
-	* [Web Parser API](https://mercury.postlight.com/web-parser/) - With just one API request, Mercury takes any web article and returns only the relevant content — headline, author, body text, relevant images and more — free from any clutter. It’s reliable, easy-to-use and free.
-
-
 ## From Inspiration to Action
 * [Nothing Magical](http://nothingmagical.com/) -> [Neetpiq](http://www.neetpiq.com) - main site of my label
 * [Sam Soffes](https://soff.es/) -> [Kingsor](http://kingsor.github.io/)
@@ -117,16 +105,6 @@ Starting from this Meetup Group:
 * [Json Resume](http://prat0318.github.io/json_resume/)
 
 
-## Interview Questions
-
-* [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e) (Nov 20, 2012) - If you are interviewing for a programming job it is almost inevitable that you will be asked to do some coding on a whiteboard. In this post I’m not commenting on the validity of this style of interview (though I do personally find whiteboard coding a useful way to see how candidates work through problems) but instead pointing out some common pitfalls that can be avoided, given that this is how tech companies interview.
-
-
-### Java
-* [20 Java Interview Questions from Investment Banks (Answered)](http://www.codeproject.com/Tips/1061616/Java-Interview-Questions-from-Investment-Banks-Ans) - Some core Java questions from Interviews from Investment banks, good for technical round.
-* [Java Questions and Answers](http://bit.ly/JavaInterviewApp) - This FREE app has core java interview questions for experienced developers as well as beginners. The questions and answers are based on 15+ years of java programming experience. Many questions are compiled from various sources including practical interviews, java websites and communities. 
-
-
 ## Job Search
 * [Synesthesia srl - Work with us](http://synesthesia.it/work-us) - Mobile App Developer
 * [Meetup - Android Engineer](https://www.meetup.com/jobs/android-engineer-572933/#job-title)
@@ -188,23 +166,7 @@ Toptal frequently publishes software engineering articles on the [Toptal Enginee
 
 
 
-### Java & C++
-[Sviluppatore Java Senior](https://www.infojobs.it/milano/sviluppatore-java-senior-rif.-0102/of-i9d25b3b79c47cfae6fa46947998cba&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i9d25b3b79c47cfae6fa46947998cba%5d-%5b1064067356%5d@1&navOrigen=e_push)
-
-* Java Standard Edition
-* Sviluppo di applicazioni multithreading
-* Ottimizzazione e conoscenza del garbage collector
-* Conoscenza approfondita della Virtual Machine di Java
-* Esperienza sull'ottimizzazione delle performance di Java (differenze tra StringBuffer e StringBuilder, ecc...)
-
-[Sviluppatore C++ Expert](https://www.infojobs.it/milano/sviluppatore-c-expert-rif.-0101/of-i4f0e8cf1b6419ca12d1f21781bfa49&applicationOrigin=IJ_PUSH%7Celement~1064067362%7Cversion~default.23.02&id_push=1064067362&utm_source=push&utm_medium=email&utm_campaign=ofertas_push&xtor=EPR-5-%5bdaily_push%5d-20170223-%5bpush_of_i4f0e8cf1b6419ca12d1f21781bfa49%5d-%5b1064067356%5d@1&navOrigen=e_push)
-
-* Conoscenza approfondita di C++
-* Gestione dei semafori per lo sviluppo multithreading con mutex
-* Utilizzo di librerie boost e STL
-
-
-#### About C++
+## About C++
 * [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
 	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
 * [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.

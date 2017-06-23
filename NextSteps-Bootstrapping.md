@@ -69,25 +69,6 @@ Ripeto: a meno che non ci sei già passato ed hai già dimostrato di saperlo far
 * [Signal v. Noise](https://signalvnoise.com/) - a publication [about](https://signalvnoise.com/writers/) the web by [Basecamp](https://basecamp.com/) since 1999.
 
 
-## Products - Case Studies
-
-### Basecamp
-[Basecamp](http://basecamp.com/)
-
-* About us: [basecamp.com/about](http://basecamp.com/about)
-* Meet our team: [basecamp.com/team](http://basecamp.com/team)
-* The inside story of why we built Basecamp: [basecamp.com/story](http://basecamp.com/story)
-* A few of the things people have made with Basecamp's help: [basecamp.com/made](http://basecamp.com/made)
-* The original blog post from February 5, 2004 that launched Basecamp: [Original launch post](https://signalvnoise.com/archives/000542.php)
-* The original 37signals site from 1999: [The 37signals Manifesto](https://37signals.com/manifesto)s
-
-### Product Hunt
-[Product Hunt](http://www.producthunt.com/) site. You can login with twitter account (like Medium) and you can see your following/followers that has an account on Product Hunt. This is [my account](http://www.producthunt.com/kingsor).
-
-* [The Origin of Product Hunt](https://medium.com/lets-make-things/the-origin-of-product-hunt-7acb09e2593a) - A story about building something cool over a weekend. On November 6th 2013, I got an email from my friend Ryan, asking if I wanted to contribute links to his new email list thingy called [Product Hunt](http://ryanhoover.me/post/66192199851/announcing-product-hunt)
-* [Can the democratic power of a platform like Hacker News be applied to products?](http://pando.com/2013/12/04/can-the-democratic-power-of-a-platform-like-hacker-news-be-applied-to-products/) - The latest is Product Hunt, a HN for startup products. Every day people link to their new favorite applications, games, software, or services, and others can up-vote the selection. Ryan Hoover, the founder and former Director of Product at startup PlayHaven, geeks out on products. He wanted a place to share cool stuff with others who feel the same. He reached out to his friend, General Assembly product manager Nathan Bashaw, who built the first version over the Thanksgiving break.
-* [Visual Hunt](http://www.visualhunt.in/) - The Product Hunt client you always wished you had!
-
 
 ## Product design
 * [Principles of Product Design](http://bokardo.com/principles-of-product-design/) on [Bokardo](http://bokardo.com/) by [Joshua Porter](http://bokardo.com/about/)
@@ -149,16 +130,6 @@ Dr. Jesse Schell, of Carnegie Mellon’s Entertainment Technology Center, studie
 
 * [11 Tools That Allow us to Work from Anywhere on Earth as a Distributed Company](http://blog.ghost.org/distributed-team-tools/) - Open source, not-for-profit, and distributed. Sometimes I think we really are the black sheep of startups. As is becoming more and more common these days, Ghost is a fully distributed team. We have no office, no headquarters, and no fixed working hours. Our registered business address is a virtual office in central London. Nobody works there. Instead: We're all over the world.
 * [The most valuable lessons I learned from managing a virtual team](http://thenextweb.com/entrepreneur/2013/12/04/valuable-lessons-learned-managing-virtual-team/)
-
-
-## Inspiring Products
-
-* [Words](http://newnet-soft.com/words/) by [NewNet-Soft](http://newnet-soft.com/) - We take all your long-form articles from Instapaper, Readability & Pocket. And everything ends up in one inbox. And we sync every article down on your desktop computer & make them available offline. And you can search them too.
-* [Muzei](https://github.com/romannurik/muzei/) by [Roman Nurik](https://twitter.com/romannurik) - Muzei is a live wallpaper that gently refreshes your home screen each day with famous works of art. It also recedes into the background, blurring and dimming artwork to keep your icons and widgets in the spotlight. Simply double touch the wallpaper or open the Muzei app to enjoy and explore the artwork in its full glory. Muzei offers a simple API that allows you to build your own wallpaper source. Read the [API docs](https://github.com/romannurik/muzei/wiki/API). Check out the [500px example source](https://github.com/romannurik/muzei/tree/master/example-source-500px).
-* [dweet.io](https://dweet.io/) - Share your thing - like it ain't no thang.
-* [Card](http://jessepollak.github.io/card/) - Make your credit card form better in one line of code.
-* [Any.do](http://www.any.do/anydo) - Task list app with different clients (android, iOS, web, chrome) with a premium version with more features and more cloud space available.
-* [MarkdownPad](http://markdownpad.com/) - The Markdown Editor for Windows. Nice example of desktop product (pragmatic site, automatic update, freemium business model (free download and use, pay for more features).
 
 
 ## Organizzazione Giuridica e Fiscale

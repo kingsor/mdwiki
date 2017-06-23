@@ -1,5 +1,44 @@
 # NextSteps TechBlog
 
+## Jun 19, 2017
+In trouble with async/await with ShortURL project.
+I found the right solution in this Stackoverflow answer ([Calling an async method from a non-async method](https://stackoverflow.com/questions/8438786/calling-an-async-method-from-a-non-async-method)).
+
+But I was able to understand a little bit more about the cause from these links:
+
+* [Synchronously waiting for an async operation, and why does Wait() freeze the program here](https://stackoverflow.com/questions/14485115/synchronously-waiting-for-an-async-operation-and-why-does-wait-freeze-the-pro)
+* [Don't Block on Async Code](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
+* [Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
+
+## Jun 18, 2017
+Starting from here: [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) by [Vinay Sahni](https://twitter.com/veesahni)
+
+[Enchant](https://www.enchant.com/) - Make customers happy with awesome support / Our software helps teams scale customer service  
+Our mission is to help growing companies deliver exceptional support to each and every customer. Traditional help desks are way too complicated. We are fixing that, once and for all.
+
+Nice site and nice service.
+
+* [Blog](https://www.enchant.com/blog)
+* [Developers](http://dev.enchant.com/)
+* [How We Chose Our New Help Desk Software](https://medium.com/@ngrilly/how-we-chose-our-new-helpdesk-software-faaa6e4d25ef)
+* [How to make your app lovable](https://www.enchant.com/blog/app-clarity)
+
+From the twitter account I found that:
+
+[Papertrail](https://papertrailapp.com/) - Frustration-free log management. Get started in seconds. Instantly manage logs from 2 servers... or 2,000.
+
+Instant log visibility. Use Papertrail's time-saving log tools, flexible system groups, team-wide access, long-term archives, charts and analytics exports, monitoring webhooks, and 45-second setup.
+
+Realize value from logs you already collect. Track down customer problems, error messages, app requests, slow DB queries, firewall policy decisions, config changes.
+
+From the addons available on AppHarbor I found:
+
+[Log Entries](https://logentries.com/) - The Fastest Way to Analyze Your Log Data. Live Log Management and Analytics
+
+### Event Management App
+* []
+
+
 ## Jun 8, 2017
 
 [Replacing Fireworks With 500 Drones Is Brilliant and Very Annoying](http://gizmodo.com/replacing-fireworks-with-500-drones-is-brilliant-and-ve-1788615129) (Nov 5, 2016)

@@ -6,9 +6,44 @@ Or what you need to know to be a good developer.
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance.
 * [The Joel Test For Programmers (The Simple Programmer Test)](https://simpleprogrammer.com/2015/02/16/joel-test-programmers-simple-programmer-test/) (Feb 16, 2015) - The Joel Test is great for software development shops and for programmers that are interested in quickly evaluating a company's software development environment, but what about a Joel Test for actual programmers? Several people have asked me lately if I had an idea for a Joel Test to evaluate an actual programmer, rather than a software development organization, so I've decided to put together a list of what I think might be a good equivalent of the Joel Test for evaluating the skills of an actual software developer.
 
+
+## Java
+* [Top 20 Core Java Interview Questions and Answers from Investment Banks](https://www.javacodegeeks.com/2015/11/top-20-core-java-interview-questions-and-answers-from-investment-banks.html) (Nov 7, 2015) by [Javin Paul](https://twitter.com/javinpaul) - This is a new series of sharing core Java interview questions and answers on the Finance domain and mostly on big Investment banks. 
+* [Java Interview Questions](https://www.toptal.com/java/interview-questions) by [Toptal](https://www.toptal.com/)
+* [Top 10 Free Java Programming Books, EBooks and PDF download](http://javarevisited.blogspot.it/2017/05/top-10-free-java-programming-books-ebooks-pdf.html) (May 2017) - The search goes on and while browsing the net a couple of days back I hit the Jackpot when I found these free Java books from Oreilly. Unlike most of the books, these free Java books are good, up-to-date and cover latest technologies like Java 8, MicroServices, Docker, Java EE, Functional Programming and Core Java.
+* [Java67](http://www.java67.com/) by [Javin Paul](https://twitter.com/javinpaul) - Java Programming tutorials and Interview Questions
+* [CodeAhoy - Posts](https://codeahoy.com/posts/) by [Umer Mansoor]
+* [Concurrent Programming posts](https://10kloc.wordpress.com/category/concurrent-programming/) at [10K-LOC](https://10kloc.wordpress.com/)
+
+### Java versions cronology
+* [Java Platform, Enterprise Edition](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) - Version History, APIs, Certified Applicantion Servers.
+* [Java EE version history](https://en.wikipedia.org/wiki/Java_EE_version_history)
+
+### Microservices
+* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) (free book) - A Hands-On Introduction to Frameworks and Containers.
+
+### Topics
+* [Java Threads in 60 Seconds](https://in60secondsblog.wordpress.com/2015/12/13/java-threads-in-60-seconds/) (Dec 13, 2015)
+* [Microservices in 60 Seconds](https://in60secondsblog.wordpress.com/2015/12/12/microservices-in-60-seconds/) (Dec 12, 2015)
+* [Buggy Java Code: The Top 10 Most Common Mistakes That Java Developers Make](https://www.toptal.com/java/top-10-most-common-java-development-mistakes)
+* [Skeletal Implementations in Java Explained - Abstract Interfaces](https://10kloc.wordpress.com/2012/12/03/abstract-interfaces-the-mystery-revealed/) (Dec 3, 2012) - Using Interfaces, as a general contract, has many benefits over Inheritance. Inheritance, however has its own place in programming, and often times is a necessary evil. In this post, we explored Abstract Interfaces which combine the power of Interfaces with Inheritance. Abstract Interface is a term for Abstract Class, which implements all the functionality of an Interface. Abstract Interfaces always go with the Interfaces they are supporting.
+
+
 ## Android
 * [Interviewing Android Developers](https://android.jlelse.eu/interviewing-android-developers-435ce69b06fa) (Apr 12, 2017)
 * [Top traits of a great mobile developer](http://blog.duckma.com/2016/02/top-traits-of-great-mobile-developer.html)
+
+
+## SQL
+* [Fundamentals of Relational Database Design](http://r937.com/relational.html)
+* [SQL Server T-SQL Recipes, 4th Edition](http://it-ebooks.info/book/6540/) (2015) - SQL Server T-SQL Recipes is an example-based guide to the Transact-SQL language that is at the core of SQL Server. This edition has been lightly updated for SQL Server 2014 and provides ready-to-implement solutions to common programming and database administration tasks. Learn to create databases, create in-memory tables and stored procedures, insert and update data, generate reports, secure your data, and more. Tasks and their solutions are broken down into a problem/solution format that is quick and easy to read so that you can get the job done fast when the pressure is on. Solutions in this book are divided into chapters by problem domain. Each chapter is a collection of solutions around a single facet of the language such as writing queries, managing indexes, error handling, and query performance. Each solution is presented code-first, giving you a working code example to copy from and implement immediately in your own environment. Following each example is an in-depth description of how and why the given solution works. Tradeoffs and alternative approaches are also discussed.
+	* [AdventureWorks Databases – 2012, 2008R2 and 2008](http://msftdbprodsamples.codeplex.com/releases/view/93587) - This release consolidates AdventureWorks databases for SQL Server 2012, 2008R2 and 2008 versions to one page. Each zip file contains an mdf database file and ldf log file. This should make it easier to find and download AdventureWorks databases since all OLTP versions are on one page. There are no database schema changes.
+* [SQL and Relational Theory, 3rd Edition](http://it-ebooks.info/book/6450/) (2015) - SQL is full of difficulties and traps for the unwary. You can avoid them if you understand relational theory, but only if you know how to put that theory into practice. In this book, Chris Date explains relational theory in depth, and demonstrates through numerous examples and exercises how you can apply it to your use of SQL. This third edition has been revised, extended, and improved throughout. Topics whose treatment has been expanded include data types and domains, table comparisons, image relations, aggregate operators and summarization, view updating, and subqueries. A special feature of this edition is a new appendix on NoSQL and relational theory.
+
+#### SQL Exercises
+* [Where are some useful SQL puzzles to teach SQL in a workplace?](http://dba.stackexchange.com/questions/29/where-are-some-useful-sql-puzzles-to-teach-sql-in-a-workplace) - I'm looking for beginner and intermediate level SQL puzzles, that I can point trainees at for practice. I'm aware of http://sqlzoo.net/ which is a great resource - is there anything else out there that you could suggest?
+	* [SQLZOO](http://sqlzoo.net/) - SQLZoo includes tutorials and reference to support people learning SQL.
+* [SQL exercises](http://www.sql-ex.ru/) - This site will help everyone to gain or improve skills in building SQL Data Manipulation Language statements. To train You will have to build yourself the SQL statements for retrieval or modification of specific data required in the exercises.
 
 ## CSharp
 * [CSharp Language Version History](https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md) - Features Added in CSharp Language Versions
@@ -58,22 +93,5 @@ As an alternative to singletons, we can pass the instance as an explicit depende
 * [What does “where T : class, new()” mean?](http://stackoverflow.com/questions/4737970/what-does-where-t-class-new-mean)
 * [Building C# objects dynamically](https://www.oreilly.com/learning/building-c-objects-dynamically) (July 29, 2015) - Use ExpandoObject to create objects that can be enhanced with properties, methods, and events.
 
-### SQL
-* [Fundamentals of Relational Database Design](http://r937.com/relational.html)
-* [SQL Server T-SQL Recipes, 4th Edition](http://it-ebooks.info/book/6540/) (2015) - SQL Server T-SQL Recipes is an example-based guide to the Transact-SQL language that is at the core of SQL Server. This edition has been lightly updated for SQL Server 2014 and provides ready-to-implement solutions to common programming and database administration tasks. Learn to create databases, create in-memory tables and stored procedures, insert and update data, generate reports, secure your data, and more. Tasks and their solutions are broken down into a problem/solution format that is quick and easy to read so that you can get the job done fast when the pressure is on. Solutions in this book are divided into chapters by problem domain. Each chapter is a collection of solutions around a single facet of the language such as writing queries, managing indexes, error handling, and query performance. Each solution is presented code-first, giving you a working code example to copy from and implement immediately in your own environment. Following each example is an in-depth description of how and why the given solution works. Tradeoffs and alternative approaches are also discussed.
-	* [AdventureWorks Databases – 2012, 2008R2 and 2008](http://msftdbprodsamples.codeplex.com/releases/view/93587) - This release consolidates AdventureWorks databases for SQL Server 2012, 2008R2 and 2008 versions to one page. Each zip file contains an mdf database file and ldf log file. This should make it easier to find and download AdventureWorks databases since all OLTP versions are on one page. There are no database schema changes.
-* [SQL and Relational Theory, 3rd Edition](http://it-ebooks.info/book/6450/) (2015) - SQL is full of difficulties and traps for the unwary. You can avoid them if you understand relational theory, but only if you know how to put that theory into practice. In this book, Chris Date explains relational theory in depth, and demonstrates through numerous examples and exercises how you can apply it to your use of SQL. This third edition has been revised, extended, and improved throughout. Topics whose treatment has been expanded include data types and domains, table comparisons, image relations, aggregate operators and summarization, view updating, and subqueries. A special feature of this edition is a new appendix on NoSQL and relational theory.
 
-#### SQL Exercises
-* [Where are some useful SQL puzzles to teach SQL in a workplace?](http://dba.stackexchange.com/questions/29/where-are-some-useful-sql-puzzles-to-teach-sql-in-a-workplace) - I'm looking for beginner and intermediate level SQL puzzles, that I can point trainees at for practice. I'm aware of http://sqlzoo.net/ which is a great resource - is there anything else out there that you could suggest?
-	* [SQLZOO](http://sqlzoo.net/) - SQLZoo includes tutorials and reference to support people learning SQL.
-* [SQL exercises](http://www.sql-ex.ru/) - This site will help everyone to gain or improve skills in building SQL Data Manipulation Language statements. To train You will have to build yourself the SQL statements for retrieval or modification of specific data required in the exercises.
 
-## Java
-* [Java Platform, Enterprise Edition](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) - Version History, APIs, Certified Applicantion Servers.
-* [Java EE version history](https://en.wikipedia.org/wiki/Java_EE_version_history)
-* [20 Java Interview Questions from Investment Banks (Answered)](http://www.codeproject.com/Tips/1061616/Java-Interview-Questions-from-Investment-Banks-Ans) - Some core Java questions from Interviews from Investment banks, good for technical round.
-* [Java Questions and Answers](http://bit.ly/JavaInterviewApp) - This FREE app has core java interview questions for experienced developers as well as beginners. The questions and answers are based on 15+ years of java programming experience. Many questions are compiled from various sources including practical interviews, java websites and communities. 
-* [Buggy Java Code: The Top 10 Most Common Mistakes That Java Developers Make](https://www.toptal.com/java/top-10-most-common-java-development-mistakes)
-* [Java Interview Questions](https://www.toptal.com/java/interview-questions)
-* [Skeletal Implementations in Java Explained - Abstract Interfaces](https://10kloc.wordpress.com/2012/12/03/abstract-interfaces-the-mystery-revealed/) (Dec 3, 2012) - Using Interfaces, as a general contract, has many benefits over Inheritance. Inheritance, however has its own place in programming, and often times is a necessary evil. In this post, we explored Abstract Interfaces which combine the power of Interfaces with Inheritance. Abstract Interface is a term for Abstract Class, which implements all the functionality of an Interface. Abstract Interfaces always go with the Interfaces they are supporting.

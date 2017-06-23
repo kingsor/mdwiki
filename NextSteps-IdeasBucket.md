@@ -5,6 +5,33 @@
 * [After all, it might not matter - A commentary on the status of .NET](https://byterot.blogspot.it/2016/06/after-all-it-might-not-matter-commentary-status-of-dotnet-dotnetcore-csharp-oss-fsharp-dnx.html?m=1) (Jun 14, 2016) - What is worse is that the data showing with the announcement of #vNext aka #DNX aka #dotnetcore there was a sharp decline in the new OSS C# projects - the community is in a limbo situation waiting for the release - people find it pointless to create OSS projects on the current platform and the future platform is so much in flux which is not stable enough for innovation. With the recent changes announced, practically it will take another 12-18 months for it to stabilise (some might argue 6-12 months, fair enough, take what you like). For me this is the most alarming of all.
 
 
+## REST Api Architecture
+* [The Importance of Serializing API Output](https://philsturgeon.uk/api/2015/05/30/serializing-api-output/) (May 30 2015)  
+when I talk about serialization, which I refer to as "adding a presentation layer to your data".
+* [Building a Decent API](https://philsturgeon.uk/api/2013/07/12/building-a-decent-api/) (Jul 12 2013)  
+PHP developers are increasingly moving over to API development, as are a lot of server-side developers. It's a trend that's been happening for the last few years and it's getting to the point where everyone and their dog are putting articles showing off how to build "awesome" API's. Unfortunately most of these are either woefully inadequate or are promoting bad practices. I'm not going to link to any bad examples because that's just rude, but here are some golden rules that I stick to when building out API's.
+* [HTTP API Design Guide](https://github.com/interagent/http-api-design) (Jul 5, 2016)  
+HTTP API design guide extracted from work on the [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference).
+* [The Web API checklist - 43 things to think about](https://mathieu.fenniak.net/the-api-checklist/) (Apr 15, 2014)  
+When you’re designing, testing, or releasing a new Web API, you’re building a new system on top of an existing complex and sophisticated system. At a minimum, you’re building upon HTTP, which is built upon TCP/IP, which is built upon a series of tubes. You’re also building upon a web server, an application framework, and maybe an API framework.  
+Most people, myself included, are not aware of all the intricacies and nuances of every component they’re building upon. Even if you deeply understand each component, it’s probably going to be too much information to hold in your head at one time.
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) (Last updated Aug 12, 2015) - Your data model has started to stabilize and you're in a position to create a public API for your web app. You realize it's hard to make significant changes to your API once it's released and want to get as much right as possible up front. Now, the internet has no shortage on opinions on API design. But, since there's no one widely adopted standard that works in all cases, you're left with a bunch of choices: What formats should you accept? How should you authenticate? Should your API be versioned? In designing an API for [Enchant](http://www.enchant.com/) (a [Zendesk Alternative](http://www.enchant.com/zendesk-alternative)), I've tried to come up with pragmatic answers to these questions. My goal is for the [Enchant API](http://dev.enchant.com/api/v1) to be easy to use, easy to adopt and flexible enough to [dogfood](http://en.wikipedia.org/wiki/Eating_your_own_dog_food) for our own user interfaces.
+* [Swagger](http://swagger.io/) - Swagger is a simple yet powerful representation of your RESTful API. With the largest ecosystem of API tooling on the planet, thousands of developers are supporting Swagger in almost every modern programming language and deployment environment. With a Swagger-enabled API, you get interactive documentation, client SDK generation and discoverability. We created Swagger to help fulfill the promise of APIs. Swagger helps companies like Apigee, Getty Images, Intuit, LivingSocial, McKesson, Microsoft, Morningstar, and PayPal build the best possible services with RESTful APIs. Now in version 2.0, Swagger is more enabling than ever. And it's 100% open source software.
+	* [Swagger Editor](http://editor.swagger.io/) - An editor for designing Swagger specifications from scratch, using a simple YAML structure. [Source](https://github.com/swagger-api/swagger-editor)
+	* [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - Turn an API spec into client SDKs or server-side code. You can also generate API client or server using the online generator (https://generator.swagger.io).
+* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The goal of The OpenAPI Specification is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interfaces have done for lower-level programming, OpenAPI removes the guesswork in calling the service.
+
+
+## Web APIs, Building
+- [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by [Phil Sturgeon](https://leanpub.com/u/philsturgeon)
+- [Matthias Biehl](https://twitter.com/mattbiehl) - API Integration Architect | Innovation Catalyst | Digital Transformer | Author and Advisor [@API_University](https://twitter.com/API_University) - Zürich, CH - Stockholm, SE
+- Working with Vagrant
+- Creating REST Web API
+	- with Nancy (ASP.NET)
+	- with Node (Javascript)
+	- with Laravel (PHP)
+
+
 ## ToRead List
 * [moq/moq4](https://github.com/moq/moq4) - Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
 * [Using dependency injection in Java](http://www.vogella.com/tutorials/DependencyInjection/article.html) by [Lars Vogel](http://www.vogella.com/) - This article describes the concept of dependency injection from a Java perspective.
@@ -21,7 +48,6 @@
 * [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256) (Aug 8, 2016) - Why do products sometimes label things as my stuff, and sometimes label things as your stuff? As you tap around from app to app, you’ll see that there’s no standard way to refer to the things that belong to you within an interface. Some say it’s my stuff. Some say it’s your stuff.
 * [Hygieia](https://developer.capitalone.com/opensource-projects/hygieia) - One Dashboard for the Entire CI/CD Pipeline. A single, configurable, easy to use dashboard to visualize near real-time status of the entire software delivery pipeline.
 	* [capitalone/Hygieia](https://github.com/capitalone/Hygieia) - Hygieia℠ is a single, configurable, easy to use dashboard to visualize near real-time status of the entire delivery pipeline.
-
 
 
 ## Slack Alternatives
@@ -92,28 +118,7 @@
 * [Getting Started on Heroku with Go](https://devcenter.heroku.com/articles/getting-started-with-go#set-up)
 
 
-## REST Api Architecture
-* [The Importance of Serializing API Output](https://philsturgeon.uk/api/2015/05/30/serializing-api-output/) (May 30 2015) - when I talk about serialization, which I refer to as "adding a presentation layer to your data".
-* [Building a Decent API](https://philsturgeon.uk/api/2013/07/12/building-a-decent-api/) (Jul 12 2013) - PHP developers are increasingly moving over to API development, as are a lot of server-side developers. It's a trend that's been happening for the last few years and it's getting to the point where everyone and their dog are putting articles showing off how to build "awesome" API's. Unfortunately most of these are either woefully inadequate or are promoting bad practices. I'm not going to link to any bad examples because that's just rude, but here are some golden rules that I stick to when building out API's.
-* [HTTP API Design Guide](https://github.com/interagent/http-api-design) (Jul 5, 2016) - HTTP API design guide extracted from work on the [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference).
-* [The Web API checklist - 43 things to think about](https://mathieu.fenniak.net/the-api-checklist/) (Apr 15, 2014)  
-When you’re designing, testing, or releasing a new Web API, you’re building a new system on top of an existing complex and sophisticated system. At a minimum, you’re building upon HTTP, which is built upon TCP/IP, which is built upon a series of tubes. You’re also building upon a web server, an application framework, and maybe an API framework.  
-Most people, myself included, are not aware of all the intricacies and nuances of every component they’re building upon. Even if you deeply understand each component, it’s probably going to be too much information to hold in your head at one time.
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) (Last updated Aug 12, 2015) - Your data model has started to stabilize and you're in a position to create a public API for your web app. You realize it's hard to make significant changes to your API once it's released and want to get as much right as possible up front. Now, the internet has no shortage on opinions on API design. But, since there's no one widely adopted standard that works in all cases, you're left with a bunch of choices: What formats should you accept? How should you authenticate? Should your API be versioned? In designing an API for [Enchant](http://www.enchant.com/) (a [Zendesk Alternative](http://www.enchant.com/zendesk-alternative)), I've tried to come up with pragmatic answers to these questions. My goal is for the [Enchant API](http://dev.enchant.com/api/v1) to be easy to use, easy to adopt and flexible enough to [dogfood](http://en.wikipedia.org/wiki/Eating_your_own_dog_food) for our own user interfaces.
-* [Swagger](http://swagger.io/) - Swagger is a simple yet powerful representation of your RESTful API. With the largest ecosystem of API tooling on the planet, thousands of developers are supporting Swagger in almost every modern programming language and deployment environment. With a Swagger-enabled API, you get interactive documentation, client SDK generation and discoverability. We created Swagger to help fulfill the promise of APIs. Swagger helps companies like Apigee, Getty Images, Intuit, LivingSocial, McKesson, Microsoft, Morningstar, and PayPal build the best possible services with RESTful APIs. Now in version 2.0, Swagger is more enabling than ever. And it's 100% open source software.
-	* [Swagger Editor](http://editor.swagger.io/) - An editor for designing Swagger specifications from scratch, using a simple YAML structure. [Source](https://github.com/swagger-api/swagger-editor)
-	* [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - Turn an API spec into client SDKs or server-side code. You can also generate API client or server using the online generator (https://generator.swagger.io).
-* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The goal of The OpenAPI Specification is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interfaces have done for lower-level programming, OpenAPI removes the guesswork in calling the service.
 
-
-## Web APIs, Building
-- [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by [Phil Sturgeon](https://leanpub.com/u/philsturgeon)
-- [Matthias Biehl](https://twitter.com/mattbiehl) - API Integration Architect | Innovation Catalyst | Digital Transformer | Author and Advisor [@API_University](https://twitter.com/API_University) - Zürich, CH - Stockholm, SE
-- Working with Vagrant
-- Creating REST Web API
-	- with Nancy (ASP.NET)
-	- with Node (Javascript)
-	- with Laravel (PHP)
 
 
 ## Backend Architectures

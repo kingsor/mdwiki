@@ -13,6 +13,8 @@
   * [Neetpiq Channel](NextSteps-Neetpiq.md)
   * [Tech Blog](NextSteps-TechBlog.md)
   * [Boostrapping](NextSteps-Bootstrapping.md)
+  * [Peopleware](NextSteps-Peopleware.md)
+  * [Products Case Studies](NextSteps-Products-CaseStudies.md)
   * [Job Interview](NextSteps-JobInterviews.md)
   * [Quotes](NextSteps-Quotes.md)
   
