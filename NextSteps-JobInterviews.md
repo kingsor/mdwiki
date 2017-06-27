@@ -5,13 +5,86 @@ Or what you need to know to be a good developer.
 * [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e) (Nov 20, 2012) - If you are interviewing for a programming job it is almost inevitable that you will be asked to do some coding on a whiteboard. In this post I’m not commenting on the validity of this style of interview (though I do personally find whiteboard coding a useful way to see how candidates work through problems) but instead pointing out some common pitfalls that can be avoided, given that this is how tech companies interview.
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance.
 * [The Joel Test For Programmers (The Simple Programmer Test)](https://simpleprogrammer.com/2015/02/16/joel-test-programmers-simple-programmer-test/) (Feb 16, 2015) - The Joel Test is great for software development shops and for programmers that are interested in quickly evaluating a company's software development environment, but what about a Joel Test for actual programmers? Several people have asked me lately if I had an idea for a Joel Test to evaluate an actual programmer, rather than a software development organization, so I've decided to put together a list of what I think might be a good equivalent of the Joel Test for evaluating the skills of an actual software developer.
+* [Interview Questions & Answers](https://biginterview.com/blog/interview-questions-answers) - Knowing how to put together a strong answer to the most common interview questions is obviously key to landing a job. The art and science of creating great answers involves being strategic in crafting your responses as well as practicing till you’re as strong a possible. The best job candidates are not lucky. They spend a ton of time both on preparation because they know how important that 30-60 minute interview can be to their entire career. If you’d prefer to get started with a free resource before paying for a coach or a program, this tutorial is designed to get you up and running with the basics for acing your next interview (in ten easy lessons).
+* [HOW TO ANSWER: Tell Me About Yourself](https://biginterview.com/blog/2011/09/tell-me-about-yourself.html) (Sep, 2011) - There are some job interview questions that are guaranteed to come up in most (if not all) of your job interviews — regardless of your industry, your experience level, and job type. At the top of this list is the universal and much-dreaded classic: “Tell me about yourself.” This question (or a variation like “Walk me through your background”) comes up in just about every job interview and many job searchers hate it. This question is an opportunity — an opening for you to set the tone of the job interview and emphasize the points that you most want this potential employer to know about you.
+* [Answering Behavioral Interview Questions: Your Greatest Accomplishments](https://biginterview.com/blog/2017/04/greatest-accomplishment-question.html) - If your interviewer asks you this question, consider yourself lucky. It’s the perfect opportunity to talk about your most impressive experience. Unfortunately, most candidates waste this wonderful opportunity because they aren’t prepared and/or don’t feel comfortable “bragging.”
+
+## Object Oriented Design Principles
+* [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [10 Object Oriented Design Principles Java Programmer should know](http://javarevisited.blogspot.de/2012/03/10-object-oriented-design-principles.html)
+* [Introduction to Object Oriented Programming Concepts (OOP) and More](http://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
+* [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [JavaBeat Design Patterns Articles](http://www.javabeat.net/tag/design-patterns/)
+* [Design Patterns Interview Questions](http://www.javabeat.net/design-patterns-interview-questions/)
+
+### SOLID
+S.O.L.I.D. is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, popularly known as Uncle Bob.
+These principles, when combined together, make it easy for a programmer to develop software that are easy to maintain and extend. They also make it easy for developers to avoid code smells, easily refactor code, and are also a part of the agile or adaptive software development.
+
+#### Single-responsibility Principle (SRP)
+> A class should have one and only one reason to change, meaning that a class should have only one job.
+
+#### Open-closed Principle (OCP)
+> Objects or entities should be open for extension, but closed for modification.
+
+#### Liskov substitution principle (LSP)
+> Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
+
+#### Interface segregation principle (ISP)
+> A client should never be forced to implement an interface that it doesn’t use or clients shouldn’t be forced to depend on methods they do not use.
+
+#### Dependency Inversion principle (DIP)
+>Entities must depend on abstractions not on concretions. It states that the high level module must not depend on the low level module, but they should depend on abstractions.
+
+* [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [The SOLID Principles](http://code.tutsplus.com/series/the-solid-principles--cms-634) - Four posts about five agile principles that should guide you every time you write code.
+* [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+
+
+
+## Design Patterns
+
+* Creational patterns (5)
+	* Factory method pattern
+	* Abstract factory pattern
+	* Singleton pattern
+		* [Avoid Singletons to Write Testable Code](https://codeahoy.com/2016/05/27/avoid-singletons-to-write-testable-code/) (May 27, 2016) - Often times there is a need to share a single object of a class throughout the code base. This is a valid and a very common requirement but is often equated and related to a design pattern called Singleton. While they provide a quick and easy solution, singletons are considered bad because they make unit testing and debugging difficult.
+	* Builder pattern
+	* Prototype pattern
+* Structural patterns (7)
+	* Adapter pattern
+	* Bridge pattern
+	* Composite pattern
+	* Decorator pattern
+	* Facade pattern
+	* Flyweight pattern
+	* Proxy pattern
+* Behavioral patterns (11)
+	* Chain-of-responsibility pattern
+	* Command pattern
+	* Interpreter pattern
+	* Iterator pattern
+	* Mediator pattern
+	* Memento pattern
+	* Observer pattern
+	* State pattern
+	* Strategy pattern
+	* Template method pattern
+	* Visitor pattern
+
+* [Design patterns implemented in Java](http://java-design-patterns.com/) - usefull collection of 93 patterns ([source code on GitHub](https://github.com/iluwatar/java-design-patterns))
 
 
 ## Java
+* [115 Java Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) - In this tutorial we will discuss about different types of questions that can be used in a Java interview, in order for the employer to test your skills in Java and object-oriented programming in general. In the following sections we will discuss about object-oriented programming and its characteristics, general questions regarding Java and its functionality, collections in Java, garbage collectors, exception handling, Java applets, Swing, JDBC, Remote Method Invocation (RMI), Servlets and JSP.
 * [Top 20 Core Java Interview Questions and Answers from Investment Banks](https://www.javacodegeeks.com/2015/11/top-20-core-java-interview-questions-and-answers-from-investment-banks.html) (Nov 7, 2015) by [Javin Paul](https://twitter.com/javinpaul) - This is a new series of sharing core Java interview questions and answers on the Finance domain and mostly on big Investment banks.
-* [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/) (Oct 3, 2015) - The typical company hiring a Java programmer is looking for someone who can program well beyond the level taught in an introductory Java class. Interviewers ask questions that aren’t necessarily stumpers, but are meant to elicit a candidate’s deeper knowledge of the subject matter. This article will give you a special sneak peek into the Top 15 Java Interview Questions that one might confront during a job interview.
+* [Top 10 Tricky Java interview questions and Answers](http://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html) (Sep, 2012) - What is a tricky question? Well, tricky Java interview questions are those questions which have some surprise element on it. If you try to answer a tricky question with common sense, you will most likely fail because they require some specific knowledge. Most of the tricky Java questions comes from confusing concepts like function overloading and overriding, Multi-threading which is really tricky to master, character encoding, checked vs unchecked exceptions and subtle Java programming details like Integer overflow. Most important thing to answer a tricky Java question is attitude and analytical thinking, which helps even if you don't know the answer. Anyway in this Java article we will see 10 Java questions which are real tricky and requires more than average knowledge of Java programming language to answer them correctly. As per my experience, there is always one or two tricky or tough Java interview question on any core Java or J2EE interviews, so it's good to prepare tricky questions from Java in advance.
+* [Clean and SOLID Java EE code in practice](http://www.codebulb.ch/2015/06/clean-and-solid-java-ee-code-in-practice-part-1.html) (Jun 14, 2015) - Writing software to deliver functionality is not enough in the real world. Software has to be maintainable right after its initial programming, and typically for many years after its release. Luckily, there are some well-established design patterns and best practices which help us achieve high software quality. Rather than publishing another article about how things are done in the perfect world, I will here present some real-world examples of violated or misinterpreted design patterns I found throughout my career – and how to fix them.
+* [Essential Java Interview Questions](https://www.toptal.com/java/interview-questions) by [Toptal](https://www.toptal.com/)
+* [The Vital Guide to Java Interviewing](https://www.toptal.com/java#hiring-guide) by [Toptal](https://www.toptal.com/)
+* [20 Things Every Experienced Java Developer Must Know](http://www.fromdev.com/2009/05/as-java-developer-what-should-i-be.html) (May 1st, 2009) -We have short listed some of the highly recommended concepts and components of Java language for beginners and senior programmers. These things to learn in java may help you get the best Java developer job you deserve.
 * [How To Be Well Prepared For a Java Programmer Interview](http://www.itavalon.com/well-prepared-java-programmer-interview/) (Feb 19, 2015) - The resume worked, you got an interview set for a Java Programmer position. That’s the first step and clearly you are on the right path, now you need to wow them in person and that takes some time and preparation. Don’t wing it, you will fail and lose this opportunity. This is test time, just like school all over again. You know the material, however, you need to prepare to sell not only your knowledge, but you as a viable candidate. Here are some sites that have great tips on how to prepare and what you should be ready to answer.
-* [Java Interview Questions](https://www.toptal.com/java/interview-questions) by [Toptal](https://www.toptal.com/)
+* [133 Java Interview Questions Answers From Last 5 Years - The MEGA List](http://javarevisited.blogspot.sg/2015/10/133-java-interview-questions-answers-from-last-5-years.html) - Since I like to explore interview questions, I have got this huge list of questions with me, which contains lots and lots of questions from different topics. I have been preparing this MEGA list from quite sometime and now It's ready to share with you guys. It contains interview questions not only from classic topics like threads, collections, equals and hashcode, sockets, but also from NIO, array, string, java 8 and many more.
 * [Top 10 Free Java Programming Books, EBooks and PDF download](http://javarevisited.blogspot.it/2017/05/top-10-free-java-programming-books-ebooks-pdf.html) (May 2017) - The search goes on and while browsing the net a couple of days back I hit the Jackpot when I found these free Java books from Oreilly. Unlike most of the books, these free Java books are good, up-to-date and cover latest technologies like Java 8, MicroServices, Docker, Java EE, Functional Programming and Core Java.
 * [Java67](http://www.java67.com/) by [Javin Paul](https://twitter.com/javinpaul) - Java Programming tutorials and Interview Questions
 * [CodeAhoy - Posts](https://codeahoy.com/posts/) by [Umer Mansoor]
@@ -19,14 +92,19 @@ Or what you need to know to be a good developer.
 
 ### Microservices
 * [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) (free book) - A Hands-On Introduction to Frameworks and Containers.
+* [Microservices Architecture Guide](https://www.datawire.io/guide) - This Guide provides detailed background and an opinionated reference architecture built around Kubernetes, Docker, and Envoy. We hope you'll find everything you need to set up your infrastructure to support microservices.
+* [Microservices Stories](https://www.datawire.io/microservices-stories/) - We’ve collected the stories of how companies have implemented microservices at scale. Posts can be filtered according to the different challenges of adopting microservices, and different company sizes.
 
 ### Topics
 * [Java Threads in 60 Seconds](https://in60secondsblog.wordpress.com/2015/12/13/java-threads-in-60-seconds/) (Dec 13, 2015)
 * [Microservices in 60 Seconds](https://in60secondsblog.wordpress.com/2015/12/12/microservices-in-60-seconds/) (Dec 12, 2015)
 * [Buggy Java Code: The Top 10 Most Common Mistakes That Java Developers Make](https://www.toptal.com/java/top-10-most-common-java-development-mistakes)
+* [Automated Tests Help Developers Sleep Better](https://codeahoy.com/2016/11/12/automated-tests-help-developers-sleep-better/) (Nov 12, 2016) - Most developers hate testing. They tend to test gently, subconsciously knowing where the code will break and avoiding the weak spots. Pragmatic Programmers are different. We are driven to find our bugs now, so we don’t have to endure the shame of others finding our bugs later.
 * [Command Line Flags for the JVM](https://10kloc.wordpress.com/2013/05/10/command-line-options-in-java-virtual-machine/) (May 10, 2013) - This post attempts to demystify command-line options of the Java Virtual Machine (JVM). I’m talking about those strange characters you often have to type when starting Java to run a program. The options are often used to specify environment variables (class path), configure  performance characteristics of the JVM (garbage collection frequency), amongst many other things.
 * [Things every Java developer must know about Exception handling](https://10kloc.wordpress.com/2013/03/09/runtimeexceptions-try-catch-or-not-to-catch/) (Mar 9, 2013) - Exceptions are one of the most misunderstood (and misused) features of the Java programming language. This article describes the absolute minimum every Java developer must know about exceptions. It assumes that the reader is somewhat familiar with Java.
 * [Skeletal Implementations in Java Explained - Abstract Interfaces](https://10kloc.wordpress.com/2012/12/03/abstract-interfaces-the-mystery-revealed/) (Dec 3, 2012) - Using Interfaces, as a general contract, has many benefits over Inheritance. Inheritance, however has its own place in programming, and often times is a necessary evil. In this post, we explored Abstract Interfaces which combine the power of Interfaces with Inheritance. Abstract Interface is a term for Abstract Class, which implements all the functionality of an Interface. Abstract Interfaces always go with the Interfaces they are supporting.
+* [Difference between Inheritance and Composition in Java OOP](http://javarevisited.blogspot.sg/2015/06/difference-between-inheritance-and-Composition-in-Java-OOP.html)
+* [What is final in Java? Final variable, Method and Class Example](http://javarevisited.blogspot.it/2011/12/final-variable-method-class-java.html)
 
 ### Java versions cronology
 * [The Java Programming Language](https://en.wikipedia.org/wiki/Java_(programming_language)) - Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented,[14] and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture. As of 2016, Java is one of the most popular programming languages in use, particularly for client-server web applications, with a reported 9 million developers. Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.
