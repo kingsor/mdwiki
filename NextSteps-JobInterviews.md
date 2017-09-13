@@ -63,13 +63,13 @@ Design patterns capture solutions that have evolved over time as developers stri
 	* [Singleton](http://java-design-patterns.com/patterns/singleton/)
 		* [Avoid Singletons to Write Testable Code](https://codeahoy.com/2016/05/27/avoid-singletons-to-write-testable-code/) (May 27, 2016) - Often times there is a need to share a single object of a class throughout the code base. This is a valid and a very common requirement but is often equated and related to a design pattern called Singleton. While they provide a quick and easy solution, singletons are considered bad because they make unit testing and debugging difficult.
 * Structural patterns (7)
-	* Adapter pattern
-	* Bridge pattern
-	* Composite pattern
-	* Decorator pattern
-	* Facade pattern
-	* Flyweight pattern
-	* Proxy pattern
+	* Adapter
+	* Bridge
+	* Composite
+	* Decorator
+	* Facade
+	* Flyweight
+	* Proxy
 * Behavioral patterns (11)
 	* Chain-of-responsibility pattern
 	* Command pattern
