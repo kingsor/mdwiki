@@ -35,8 +35,17 @@ From the addons available on AppHarbor I found:
 
 [Log Entries](https://logentries.com/) - The Fastest Way to Analyze Your Log Data. Live Log Management and Analytics
 
-### Event Management App
-* []
+### Fitness Center Management App
+* [Building ASP.NET Web API RESTful Service – Part 1](https://www.codeproject.com/Articles/687646/Building-ASP-NET-Web-API-RESTful-Service-Part-1)
+
+#### Db Model
+
+* Courses (one or more teachers)
+* Teachers
+* Subjects (Topics)
+* Members (Students)
+* Enrollments
+* Calendar (more analysis)
 
 
 ## Jun 8, 2017
