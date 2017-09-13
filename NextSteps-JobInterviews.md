@@ -54,6 +54,7 @@ A design pattern is a solution to a general software problem within a particular
 
 Design patterns capture solutions that have evolved over time as developers strive for greater flexibility in their software. Whereas class libraries are reusable source code, and components are reusable packaged objects, patterns are generic, reusable design descriptions that are customized to solve a specific problem. The study of design patterns provides a common vocabulary for communication and documentation, and it provides a framework for evolution and improvement of existing patterns.
 
+
 * Creational patterns (5)
 	* [Abstract factory](http://java-design-patterns.com/patterns/abstract-factory/)
 	* [Builder](http://java-design-patterns.com/patterns/builder/)
