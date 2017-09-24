@@ -9,14 +9,24 @@
 
 [Neetpiq]()
 
-  * [Android Certification](NextSteps-AndroidCertification.md)
-  * [Neetpiq Channel](NextSteps-Neetpiq.md)
   * [Tech Blog](NextSteps-TechBlog.md)
-  * [Boostrapping](NextSteps-Bootstrapping.md)
   * [Peopleware](NextSteps-Peopleware.md)
-  * [Products Case Studies](NextSteps-Products-CaseStudies.md)
-  * [Job Interview](NextSteps-JobInterviews.md)
   * [Quotes](NextSteps-Quotes.md)
+  ----
+  * # Neetpiq Channel
+  * [About Neetpiq](NextSteps-Neetpiq.md)
+  * [Freelancing](NextSteps-Freelancing.md)
+  * [Products Case Studies](NextSteps-Products-CaseStudies.md)
+  * [Boostrapping](NextSteps-Bootstrapping.md)
+  * [Android Certification](NextSteps-AndroidCertification.md)
+  ----
+  * # Job Interview
+  * [FinLeap](NextSteps-Job-FinLeap.md)
+  * [Principles](NextSteps-JobInterviews-Principles.md)
+  * [Java](NextSteps-JobInterviews.md)
+  * [CSharp](NextSteps-JobInterviews-CSharp.md)
+  * [SQL Language](NextSteps-JobInterviews-SQL.md)
+ 
   
 [Project Ideas]()
 
