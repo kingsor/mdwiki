@@ -1,5 +1,68 @@
 # NextSteps TechBlog
 
+### Sep 23, 2017
+#### Vue.js
+Vue is a progressive JavaScript framework that focuses on building user interfaces. As it only works in the “view layer” it makes no assumption of middleware and backend and therefore can be integrated easily into other projects and libraries. Vue.js offers a lot of functionality for the view layer and can be used for building powerful single-page webapps. In the following you can find a list of features:
+
+* Reactive Interfaces
+* Declarative Rendering
+* Data Binding
+* Directives
+* Template Logic
+* Components
+* Event Handling
+* Computed Properties
+* CSS Transitions and Animations
+* Filters
+
+The Vue.js 2 core library is very small in size (only 17 kB). This ensures that the overhead which is added to your project by using Vue.js is minimal and your website is loading fast. 
+
+* [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+* [Vue.js 2 Quickstart Tutorial 2017](https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-246195cfbdd2) (Jan 7, 2017) - a very simple quickstart tutorial about Vue.js 2
+* [Vue.js 2 & Vue-Resource – Real-World Vue Application With External API Access](http://codingthesmartway.com/vue-js-2-vue-resource-real-world-vue-application-with-external-api-access/) (Feb 3, 2017) - Vue.js 2 is great for building powerful single-page web applications. In the following we’re going to build a real-world Vue.js 2 application which makes use of an external REST API from Newsapi.org. By using this free API we’re able to retrieve latest news articles from popular news sources and blogs. To access this external API we’re going to use the vue-resource packages which provides a service for making web requests and handle responses.
+* [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome ([demo](https://apps.dyuproject.com/bookmarks/)).
+* [devfake/flox](xxx) - Flox is a self hosted Movie, Series and Animes watch list. It's build on top of Laravel and Vue.js and uses [The Movie Database](https://www.themoviedb.org/) API.  [Live demo](http://80.240.132.120/flox-demo/public/) and login with `demo / demo` to add new movies or change ratings.
+* [alpixel/bitly-vuejs](https://github.com/alpixel/bitly-vuejs) - An URL shortener made with Bitly API, VueJS and ChuckCSS - [demo](https://alpixel.github.io/bitly-vuejs/). Build with [Bitly API](https://dev.bitly.com/).
+
+### Sep 22, 2017
+
+#### About JWT 
+
+* [Stateless authentication with NancyFx](https://github.com/NancyFx/Nancy/wiki/Stateless-authentication) - This document provides an overview on how to enable stateless authentication in your Nancy application. Stateless authentication enables you to inspect each incoming request and, based on information about that request, decide if it should be treated as an authenticated request or not.
+* [Create a RESTful API with authentication using Web API and Jwt](http://www.developerhandbook.com/c-sharp/create-restful-api-authentication-using-web-api-jwt/) (Mar 15, 2016) - The purpose of this tutorial is to develop the beginnings of a Book Store API, using Microsoft Web API with (C#), which authenticates and authorizes each requests, exposes OAuth2 endpoints, and returns data about books and reviews for consumption by the caller. The caller in this case will be Postman, a useful utility for querying API’s.
+* [A Beginner’s Guide to JWTs in Java](https://stormpath.com/blog/beginners-guide-jwts-in-java) (Jun 21, 2016) - New to token authentication, OAuth, or JSON Web Tokens? This is a great place to start!
+* [Why JWTs Suck as Session Tokens](https://scotch.io/bar-talk/why-jwts-suck-as-session-tokens) (July 11, 2017) - Today I’m here to talk with you about the downsides of using JWTs. Specifically, why it’s a bad idea to use JWTs as session tokens for most people.
+
+### Sep 21, 2017
+
+#### About Upwork
+[Upwork](https://www.upwork.com/)
+
+* [The Non-Scuzzy and Totally True Story of How I Earned 6 Figures in 12 Months by Mastering the “Hidden Upwork Economy”](https://copyhackers.com/2014/12/how-to-earn-on-elance/)
+* [Upwork Review: Why It’s a Battle YOU Won’t Win](http://launchastartup.com/odesk-vs-elance/) (Aug 13, 2017) - On the surface, Freelancer.com and Upwork look like they’re great places for quality contractors to make money. They also seem like they’re great places for businesses to save money and get the services that they need.  Yet there are a lot of horror stories out there about these sites. In many cases, each party is having to accept “good enough” because of business necessity.  While there are quality contractors on Freelancer and Upwork, a lot of that is attributed to the fact that they are the biggest players in the freelance market. While comparisons of Upwork vs Elance vs Freelancer vs Guru continue to grow as the online job market has skyrocketed, we’ll delve into a couple of problems of the current freelance model and potential solutions.
+* [50 Freelance Websites to Hire Freelancers or Find Online Jobs](http://launchastartup.com/50-freelance-websites-to-hire-freelancers-or-find-online-jobs/) (Jun 12, 2017) - Below we’re just going to briefly talk about 50 of the best websites for online jobs, it’s up to you to delve into case studies and other reviews to see how effective it is for you.
+* [Fatturazione su UpWork: Come Funziona?](http://www.nomadidigitali.it/amministrazione-fisco-e-finanze/fatturazione-su-upwork-come-funziona/) (Sep 26, 2017) - Sei un professionista presente su UpWork ma non hai capito come gestire le tue fatture? Conosci quali sono gli adempimenti fiscali utili per regolarizzare i tuoi compensi su questa piattaforma? UpWork trattiene una commissione sui tuoi lavori, sai come ti viene fatturata dalla compagnia americana? Questa che leggerai a breve è realmente la prima guida fiscale su UpWork esistente online, centrata sulla corretta fatturazione dei guadagni derivanti dall’intermediazione di questa famosa piattaforma americana. E’ scritta appositamente per Nomadi Digitali e per essere fruibile da tutti i freelancer che utilizzano UpWork per il loro lavoro online.
+* [Upwork Forum: Fatturazione Italia](https://community.upwork.com/t5/Freelancers/Fatturazione-Italia/td-p/142719)
+
+
+### Jul 7, 2017
+Planning about Webmarks-Android project update:
+
+* updating [ShortURL](xxx) project with a new route for listing all URLs stored.
+* updating project structure following the [ribot](http://ribot.co.uk/) [Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) and visible on [Android boilerplate](https://github.com/ribot/android-boilerplate) project
+* updating the add new item to call the http endpoint and to save on local db if no network is available or there is an error. Every new item added will be reloaded when the user go to the main list (reload from http endpoint and refresh of local db)
+* updating the list items to call the http endpoint and to refresh the local db
+* updating list view items following these posts
+	* [Android Creating Gmail Like Inbox using RecyclerView](http://www.androidhive.info/2017/02/android-creating-gmail-like-inbox-using-recyclerview/)
+	* [Android Working with Recycler View](https://www.androidhive.info/2016/01/android-working-with-recycler-view/)
+* updating detail view following this post:
+	* [Android Working with WebView – Building a Simple In-App Browser](https://www.androidhive.info/2016/12/android-working-with-webview-building-a-simple-in-app-browser/)
+
+**Update** (Sep 2, 2017) - this list is frozen from july, when I wrote it. OMG!
+
+### Jun 27, 2017
+Published on GitHub a sample project about a simple web app ([first-spark-app](https://github.com/kingsor/first-spark-app)) using [Spark Framework](http://sparkjava.com/) following this tutorial: [Setting up Spark with Maven](https://sparktutorials.github.io/2015/04/02/setting-up-a-spark-project-with-maven.html).
+
 ## Jun 19, 2017
 In trouble with async/await with ShortURL project.
 I found the right solution in this Stackoverflow answer ([Calling an async method from a non-async method](https://stackoverflow.com/questions/8438786/calling-an-async-method-from-a-non-async-method)).
