@@ -1,5 +1,25 @@
 # NextSteps TechBlog
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+```javascript
+var hello = function () {
+    // say hello
+    alert('Hello world!');
+}
+```
+
+
+### Sep 29, 2017
+
+Learning how to deploy my first-spark-app on heroku.
+
 ### Sep 23, 2017
 #### Vue.js
 Vue is a progressive JavaScript framework that focuses on building user interfaces. As it only works in the “view layer” it makes no assumption of middleware and backend and therefore can be integrated easily into other projects and libraries. Vue.js offers a lot of functionality for the view layer and can be used for building powerful single-page webapps. In the following you can find a list of features:
@@ -31,7 +51,9 @@ The Vue.js 2 core library is very small in size (only 17 kB). This ensures that 
 * [Stateless authentication with NancyFx](https://github.com/NancyFx/Nancy/wiki/Stateless-authentication) - This document provides an overview on how to enable stateless authentication in your Nancy application. Stateless authentication enables you to inspect each incoming request and, based on information about that request, decide if it should be treated as an authenticated request or not.
 * [Create a RESTful API with authentication using Web API and Jwt](http://www.developerhandbook.com/c-sharp/create-restful-api-authentication-using-web-api-jwt/) (Mar 15, 2016) - The purpose of this tutorial is to develop the beginnings of a Book Store API, using Microsoft Web API with (C#), which authenticates and authorizes each requests, exposes OAuth2 endpoints, and returns data about books and reviews for consumption by the caller. The caller in this case will be Postman, a useful utility for querying API’s.
 * [A Beginner’s Guide to JWTs in Java](https://stormpath.com/blog/beginners-guide-jwts-in-java) (Jun 21, 2016) - New to token authentication, OAuth, or JSON Web Tokens? This is a great place to start!
+* [How to Create and verify JWTs in Java](https://stormpath.com/blog/jwt-java-create-verify) (Apr 12, 2015) - We recently released an open-source library for JWTs in Java. [JJWT](https://github.com/jwtk/jjwt) aims to be the easiest to use and understand library for creating and verifying JSON Web Tokens (JWTs) on the JVM. This post will show you how to use it, so any java app can generate, encrypt and decrypt JWTs without much hassle.
 * [Why JWTs Suck as Session Tokens](https://scotch.io/bar-talk/why-jwts-suck-as-session-tokens) (July 11, 2017) - Today I’m here to talk with you about the downsides of using JWTs. Specifically, why it’s a bad idea to use JWTs as session tokens for most people.
+
 
 ### Sep 21, 2017
 
@@ -46,9 +68,18 @@ The Vue.js 2 core library is very small in size (only 17 kB). This ensures that 
 
 
 ### Jul 7, 2017
+
+**Update** (Oct 2, 2017) - still frozen. OMG! OMG!
+**Update** (Sep 2, 2017) - this list is frozen from july, when I wrote it. OMG!
+
 Planning about Webmarks-Android project update:
 
-* updating [ShortURL](xxx) project with a new route for listing all URLs stored.
+### Web app
+* updating [ShortURL](https://github.com/kingsor/ShortURL) project with a new route for listing all URLs stored.
+* adding user management
+* adding web UI
+
+### Android app
 * updating project structure following the [ribot](http://ribot.co.uk/) [Architecture Guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md) and visible on [Android boilerplate](https://github.com/ribot/android-boilerplate) project
 * updating the add new item to call the http endpoint and to save on local db if no network is available or there is an error. Every new item added will be reloaded when the user go to the main list (reload from http endpoint and refresh of local db)
 * updating the list items to call the http endpoint and to refresh the local db
@@ -58,10 +89,6 @@ Planning about Webmarks-Android project update:
 * updating detail view following this post:
 	* [Android Working with WebView – Building a Simple In-App Browser](https://www.androidhive.info/2016/12/android-working-with-webview-building-a-simple-in-app-browser/)
 
-**Update** (Sep 2, 2017) - this list is frozen from july, when I wrote it. OMG!
-
-### Jun 27, 2017
-Published on GitHub a sample project about a simple web app ([first-spark-app](https://github.com/kingsor/first-spark-app)) using [Spark Framework](http://sparkjava.com/) following this tutorial: [Setting up Spark with Maven](https://sparktutorials.github.io/2015/04/02/setting-up-a-spark-project-with-maven.html).
 
 ## Jun 19, 2017
 In trouble with async/await with ShortURL project.
@@ -143,8 +170,6 @@ Message queues are a very critical component to our platform at Stackify. We que
 
 It can be a lot of work to stand up RabbitMQ, MSMQ or some other message queuing service. Although, Azure and AWS make it easier with their hosted offerings. We use Azure Service Bus ourselves and it has worked well for us.
 
-
-
 ### Amazon AWS
 Subscribed the 12 months free access to AWS.
 
@@ -205,8 +230,6 @@ As an alternative to singletons, we can pass the instance as an explicit depende
 * [Skeletal Implementations in Java Explained - Abstract Interfaces](https://10kloc.wordpress.com/2012/12/03/abstract-interfaces-the-mystery-revealed/) (Dec 3, 2012) - Using Interfaces, as a general contract, has many benefits over Inheritance. Inheritance, however has its own place in programming, and often times is a necessary evil. In this post, we explored Abstract Interfaces which combine the power of Interfaces with Inheritance. Abstract Interface is a term for Abstract Class, which implements all the functionality of an Interface. Abstract Interfaces always go with the Interfaces they are supporting.
 
 
-
-
 ## May 23, 2017
 ### PostgreSql on docker
 * [STOP INSTALLING POSTGRES ON YOUR LAPTOP : USE DOCKER INSTEAD](https://blog.dahanne.net/2015/01/19/stop-installing-postgres-on-your-laptop-use-docker-instead/)
@@ -237,8 +260,6 @@ The keynote in an image by [Chiu-Ki Chan](https://twitter.com/chiuki)
  Here is her skecthnote about the keynote
 
 ![enter image description here](https://pbs.twimg.com/media/DAP4JogV0AApH6V.jpg)
-
-
 
 
 ## May 16, 2017

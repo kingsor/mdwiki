@@ -49,8 +49,6 @@ var hello = function () {
 * [Top 10 tough core Java interview questions answers programming](http://www.java67.com/2012/09/top-10-tough-core-java-interview-questions-answers.html) - In this article, I am going to share you with my Top 10 tough core Java interview questions and answers, which may help you in Java interview.
 * [Top 10 Tricky Java interview questions and Answers](http://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html) - In this Java article we will see 10 Java questions which are real tricky and requires more than average knowledge of Java programming language to answer them correctly. As per my experience, there is always one or two tricky or tough Java interview question on any core Java or J2EE interviews, so it's good to prepare tricky questions from Java in advance.
 
-Read more: http://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html#ixzz4tKQ5cy2m
-
 ### Java Unit Testing
 * [JUnit Tutorial for Unit Testing – The ULTIMATE Guide](https://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html) - A unit can be a function, a class, a package, or a subsystem. So, the term unit testing refers to the practice of testing such small units of your code, so as to ensure that they work as expected. For example, we can test whether an output is what we expected to see given some inputs or if a condition is true or false.
 
