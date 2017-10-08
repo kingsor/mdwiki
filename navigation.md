@@ -10,6 +10,7 @@
 [Neetpiq]()
 
   * [Tech Blog](NextSteps-TechBlog.md)
+  * [Opened Tabs](NextSteps-OpenedTabs-md)
   * [Peopleware](NextSteps-Peopleware.md)
   * [Quotes](NextSteps-Quotes.md)
   ----

@@ -1,21 +1,18 @@
 # NextSteps - Neetpiq Freelancing
 
-## Coworking
-* [Il coworking di Open](http://www.openmilano.com/it/coworking/) (Zona Porta Romana) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
-* [YoRoom](http://www.yoroom.it/) (Quartiere Isola) - Yoroom è uno spazio di lavoro condiviso che ha l’ambizione di diventare una Comunità Socialmente Responsabile. Scoperto navigando sul sito di [NemboWeb](http://nemboweb.com/) Web Agency (by Marta Petrella).
-
-
-## Job Search
-* [Java BackEnd Developer (m/f) for FinLeap Italy](Jobs-java-backend-developer-m-f-for-finleap-italy.md)
-* [Backend Developer at Subito.it](Jobs-backend-developer-at-subito.md)
-* [Sviluppatore J2EE Middle (2708)](Jobs-sviluppatore-j2ee-middle-2708.md)
-
-
-
-## Freelancing
+## HowTo
 * [How i freelance? attributes required for full time freelancing](http://www.michaelhoughton.com/article/how-i-freelance-attributes-required-for-full-time-freelancing) (Nov 10, 2016) - After 6 months on the Toptal core team, I recently went back into full time freelancing - doing PHP development. My experience on the Toptal core team was amazing, however I missed the freelancing lifestyle and found working around meetings and schedules at times very stressful. While being a freelancer does comes with risks and certainly isn't for everyone - I would love to take the time to highlight what I love about freelancing and how I like to work!
 * [How to move from full time employment to full time freelancing?](http://www.michaelhoughton.com/article/how-to-move-from-full-time-employment-to-full-time-freelancing) (Dec 12, 2016) - I have been freelancing full time for the majority of my 12 year career. Freelancing was something I had always dreamt about doing - I wanted to be my own boss and run my own business - and freelancing has allowed me to do just that! More importantly it gives me the freedom to choose the types of projects to work on and be selective about the clients I work with. The aim of this article is to help clarify the steps which a Developer needs to take to break into freelancing.
 
+
+## Where
+### Coworking
+* [Coworking Project](http://www.coworkingproject.com/) - Cowo®, la Rete dei Coworking Indipendenti.
+	* [Cowo - Coworking Milano](http://www.coworkingproject.com/coworking-milano-citta-by-cowo/)
+* [Rete COWO - WORK ON – VIA LAMBRATE 11 (CASORETTO)](http://www.coworkingproject.com/coworking-network/milano-workon/) - Uno spazio ampio e generoso, di 200 metri quadrati, già sede operativa di architetti, designer, grafici e mediatori civili, organizzato per ospitare ben 25 postazioni di coworking.
+* [Coworking Login](http://www.coworkinglogin.it/milano/) (Metro M1 - vicino alla fermata Gorla) - Login Milano è il più grande coworking tecnologico della città: 1.450 mq all’interno di una fonderia artistica, con accesso ai servizi di un Internet Service Provider.
+* [Il coworking di Open](http://www.openmilano.com/it/coworking/) (Zona Porta Romana) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
+* [YoRoom](http://www.yoroom.it/) (Quartiere Isola) - Yoroom è uno spazio di lavoro condiviso che ha l’ambizione di diventare una Comunità Socialmente Responsabile. Scoperto navigando sul sito di [NemboWeb](http://nemboweb.com/) Web Agency (by Marta Petrella).
 
 
 ## Working remotely
@@ -33,6 +30,10 @@
 * [Example CV JSON](https://gist.github.com/mcrider/3925110)
 * [Json Resume](http://prat0318.github.io/json_resume/)
 
+## Job Search
+* [Java BackEnd Developer (m/f) for FinLeap Italy](Jobs-java-backend-developer-m-f-for-finleap-italy.md)
+* [Backend Developer at Subito.it](Jobs-backend-developer-at-subito.md)
+* [Sviluppatore J2EE Middle (2708)](Jobs-sviluppatore-j2ee-middle-2708.md)
 
 ## Commonsense
 [Commonsense - Lavora con noi](http://www.commonsense.cc/lavoro/)

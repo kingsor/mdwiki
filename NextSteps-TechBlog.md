@@ -16,12 +16,12 @@ var hello = function () {
 ```
 
 
-### Sep 29, 2017
+## Sep 29, 2017
 
 Learning how to deploy my first-spark-app on heroku.
 
-### Sep 23, 2017
-#### Vue.js
+## Sep 23, 2017
+### Vue.js
 Vue is a progressive JavaScript framework that focuses on building user interfaces. As it only works in the “view layer” it makes no assumption of middleware and backend and therefore can be integrated easily into other projects and libraries. Vue.js offers a lot of functionality for the view layer and can be used for building powerful single-page webapps. In the following you can find a list of features:
 
 * Reactive Interfaces
@@ -44,9 +44,9 @@ The Vue.js 2 core library is very small in size (only 17 kB). This ensures that 
 * [devfake/flox](xxx) - Flox is a self hosted Movie, Series and Animes watch list. It's build on top of Laravel and Vue.js and uses [The Movie Database](https://www.themoviedb.org/) API.  [Live demo](http://80.240.132.120/flox-demo/public/) and login with `demo / demo` to add new movies or change ratings.
 * [alpixel/bitly-vuejs](https://github.com/alpixel/bitly-vuejs) - An URL shortener made with Bitly API, VueJS and ChuckCSS - [demo](https://alpixel.github.io/bitly-vuejs/). Build with [Bitly API](https://dev.bitly.com/).
 
-### Sep 22, 2017
+## Sep 22, 2017
 
-#### About JWT 
+### About JWT 
 
 * [Stateless authentication with NancyFx](https://github.com/NancyFx/Nancy/wiki/Stateless-authentication) - This document provides an overview on how to enable stateless authentication in your Nancy application. Stateless authentication enables you to inspect each incoming request and, based on information about that request, decide if it should be treated as an authenticated request or not.
 * [Create a RESTful API with authentication using Web API and Jwt](http://www.developerhandbook.com/c-sharp/create-restful-api-authentication-using-web-api-jwt/) (Mar 15, 2016) - The purpose of this tutorial is to develop the beginnings of a Book Store API, using Microsoft Web API with (C#), which authenticates and authorizes each requests, exposes OAuth2 endpoints, and returns data about books and reviews for consumption by the caller. The caller in this case will be Postman, a useful utility for querying API’s.
@@ -55,9 +55,9 @@ The Vue.js 2 core library is very small in size (only 17 kB). This ensures that 
 * [Why JWTs Suck as Session Tokens](https://scotch.io/bar-talk/why-jwts-suck-as-session-tokens) (July 11, 2017) - Today I’m here to talk with you about the downsides of using JWTs. Specifically, why it’s a bad idea to use JWTs as session tokens for most people.
 
 
-### Sep 21, 2017
+## Sep 21, 2017
 
-#### About Upwork
+### About Upwork
 [Upwork](https://www.upwork.com/)
 
 * [The Non-Scuzzy and Totally True Story of How I Earned 6 Figures in 12 Months by Mastering the “Hidden Upwork Economy”](https://copyhackers.com/2014/12/how-to-earn-on-elance/)
@@ -67,7 +67,7 @@ The Vue.js 2 core library is very small in size (only 17 kB). This ensures that 
 * [Upwork Forum: Fatturazione Italia](https://community.upwork.com/t5/Freelancers/Fatturazione-Italia/td-p/142719)
 
 
-### Jul 7, 2017
+## Jul 7, 2017
 
 **Update** (Oct 2, 2017) - still frozen. OMG! OMG!
 **Update** (Sep 2, 2017) - this list is frozen from july, when I wrote it. OMG!
