@@ -18,7 +18,7 @@ var hello = function () {
 
 ## Sep 29, 2017
 
-Learning how to deploy my first-spark-app on heroku.
+Learning how to deploy my first-spark-app on heroku. I'd like to publish a post about that.
 
 ## Sep 23, 2017
 ### Vue.js

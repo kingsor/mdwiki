@@ -3,6 +3,7 @@
 ## HowTo
 * [How i freelance? attributes required for full time freelancing](http://www.michaelhoughton.com/article/how-i-freelance-attributes-required-for-full-time-freelancing) (Nov 10, 2016) - After 6 months on the Toptal core team, I recently went back into full time freelancing - doing PHP development. My experience on the Toptal core team was amazing, however I missed the freelancing lifestyle and found working around meetings and schedules at times very stressful. While being a freelancer does comes with risks and certainly isn't for everyone - I would love to take the time to highlight what I love about freelancing and how I like to work!
 * [How to move from full time employment to full time freelancing?](http://www.michaelhoughton.com/article/how-to-move-from-full-time-employment-to-full-time-freelancing) (Dec 12, 2016) - I have been freelancing full time for the majority of my 12 year career. Freelancing was something I had always dreamt about doing - I wanted to be my own boss and run my own business - and freelancing has allowed me to do just that! More importantly it gives me the freedom to choose the types of projects to work on and be selective about the clients I work with. The aim of this article is to help clarify the steps which a Developer needs to take to break into freelancing.
+* [Come lasciare il lavoro che non sopporti e metterti in proprio](https://www.spreaker.com/user/9656752/come-lasciare-il-lavoro-che-non-sopporti) - Bel podcast di Marco Montemagno.
 
 
 ## Where
