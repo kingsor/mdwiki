@@ -4,8 +4,23 @@
 [on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.  
 Scott Hanselman shows how [This URL shortener situation is officially out of control](http://www.hanselman.com/blog/ThisURLShortenerSituationIsOfficiallyOutOfControl.aspx).
 
-The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to getting started with MongoDB and C#.
+The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to get started with MongoDB and C#.
 
+* [The ultimate list of the 11 best url shortener services](https://www.intelligenteconomist.com/url-shortener-services/)
+    * [Google Url Shortener](https://goo.gl/)
+    * [Bitly](https://bitly.com/) - Bitly offers a free and enterprise version of their URL shortening service. No signup necessary but creating an account allows you to manage links easily and create custom URL. The enterprise version offers you to use your own vanity domain like Verizon’s vz.to or The New York Times’ nyti.ms. Other features of the enterprise version include in-depth analytics, better mobile experience, and user management.
+    * [TinyUrl](https://tinyurl.com/) - A simple shortener that requires no sign-up and allows users to customize the keyword. The service is free to use, but there is no analytics.
+    * [Tiny.cc](https://tiny.cc/) - A popular and free service that can log basic statistics for each short URL. Tiny.cc also allows you to create a custom URL.
+    * [Livechat Url Shortener](https://www.livechatinc.com/url-shortener/) - The mighty URL shortener is a free link shortener that offers a unique feature – built-in URL builder that lets you tag your links with UTM parameters. Also, it allows you to customize your short URL string, save the links you’ve shortened and track number of clicks they generated (the last two requires login with your Facebook account).
+    * [Is.gd](http://is.gd/) - A simple and very short URL is.gd also allows you to customize your short URL. No sign up required. You can log statistics from their links.
+    * [Soo.gd](http://soo.gd/) - Free and easy to use link shortener that allows you to customize the suffix of the URL. However, there is no analytics.
+    * [s2r.co](http://s2r.co/) - This service offers no statistics and no customization. However, no sign up required.
+
+### Resources
+* [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://codetuts.tech/build-a-url-shortener-node-hapi-js/) (Aug 6, 2016) - tutorial about creating a url shortener web api with node.js, hapi.js and mongodb.
+* [KishCom/shorten-node](https://github.com/KishCom/shorten-node) - A Node.js powered URL Shortener web app with Heroku deploy instructions. [http://kish.cm](http://kish.cm/)
+* [KingPixil/snip](https://github.com/KingPixil/snip) - dead-simple URL shortener [http://snipit.ga](http://snipit.ga)
+* [What is the “__v” field in MongoDB](http://stackoverflow.com/a/31872302/2768802) - if you don't need version_key ...
 * [Developing a URL shortening service using Windows Azure SDK and C#](http://www.nakkala.net/2013/02/developing-url-shortening-service-using.html)
     * [Skewrl Reference application](https://github.com/anilnakkala/skewrl) - Skewrl implements an open source URL shortener using C#/.NET/Windows Azure.
     * [HomeController.cs](https://github.com/anilnakkala/skewrl/blob/master/Skewrl/Skewrl.Web.UI/Controllers/HomeController.cs) - generating short url
@@ -15,14 +30,10 @@ The idea started time ago but was awaked by this post [Frictionless .NET Web App
 * [manufacturing flic.kr style photo URLs](http://www.flickr.com/groups/api/discuss/72157616713786392/)
     * [Tiny Url’s in C#](http://www.faygate.net/post/133462295/tinyurlcode)
 
+
 ## Node.js + Heroku
 * [kingsor/shortio-url-shortener](https://github.com/kingsor/shortio-url-shortener) - the repo of the project I created following the tutorial on CodeTuts.
 
-### Resources
-* [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://codetuts.tech/build-a-url-shortener-node-hapi-js/) (Aug 6, 2016) - tutorial about creating a url shortener web api with node.js, hapi.js and mongodb.
-* [KishCom/shorten-node](https://github.com/KishCom/shorten-node) - A Node.js powered URL Shortener web app with Heroku deploy instructions. [http://kish.cm](http://kish.cm/)
-* [KingPixil/snip](https://github.com/KingPixil/snip) - dead-simple URL shortener [http://snipit.ga](http://snipit.ga)
-* [What is the “__v” field in MongoDB](http://stackoverflow.com/a/31872302/2768802) - if you don't need version_key ...
 
 ## NancyFx + AppHarbor
 [kingsor/ShortURL](https://github.com/kingsor/ShortURL) - A simple url shortener project created with NancyFx and MongoDB
@@ -58,5 +69,3 @@ I wrote a post about the deploy of this app on AppHarbor: [Deploy a side project
 * [Create your own branded url-shortener in under 10 minutes using ASP.NET MVC 2](http://anderly.com/2010/06/10/create-your-own-branded-url-shortener-in-under-10-minutes-using-asp-net-mv2/)
 * [Logic Ideas - Building a URL Shortener Service with C# and WCF](http://stackoverflow.com/questions/5528429/logic-ideas-building-a-url-shortener-service-with-c-sharp-and-wcf)
 * [Making a short URL similar to TinyURL.com](http://stackoverflow.com/questions/1671059/making-a-short-url-similar-to-tinyurl-com)
-* [Twitter Crowns Bit.ly As The King of Short Links; Here's What It Means](http://www.readwriteweb.com/archives/twitter_crowns_bitly_as_the_king_of_short_links_he.php)
-* [Hate The Bitly Update? Here Are 5 Alternative URL Shorteners For Twitter](http://www.mediabistro.com/alltwitter/5-url-shorteners-twitter_b23303)

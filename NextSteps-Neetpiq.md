@@ -6,6 +6,7 @@
 * [/notes](https://www.slashnotes.com/) - The easiest way to recall your notes. Without leaving Slack.
 * [Tomatobot](https://tomatobot.matthewhiggins.me/) - Hi, I'm Tomatobot. I'm a simple timer for short, distraction-free tasks, and I can join your team in Slack.
 
+
 ## Inspiring sites
 * [Object.NET](http://object.net/) - Frameworks and Tools for .NET Developers - single page application, one more page for [Identity Guidelines](http://object.net/identity/), three main projects ([Ext.NET](http://ext.net/), [Bridge.NET](http://bridge.net/), [Deck.NET](http://deck.net/)), links on accounts: [twitter](http://twitter.com/objectdotnet/) and [github](https://github.com/objectdotnet/)
 * [Postlight](https://postlight.com/) - Postlight is a digital product studio in New York City. We build prototypes to prove out ideas—then build large, scalable digital platforms that support elegant consumer products.
@@ -15,6 +16,29 @@
 ## From Inspiration to Action
 * [Nothing Magical](http://nothingmagical.com/) -> [Neetpiq](http://www.neetpiq.com) - main site of my label
 * [Sam Soffes](https://soff.es/) -> [Kingsor](http://kingsor.github.io/)
+
+
+## Startup Europe
+* [EU-Startups](http://www.eu-startups.com/) - it is one of the leading startup blogs in Europe and was founded in October of 2010. We write about internet and tech startups out of Europe and provide our readers with data-driven analysis, interviews and startup-related news. In addition to our focus on young technology companies, we also publish other kinds of news out of the tech-space that has a commercial or cultural impact on startups in Europe.
+
+
+## Heroku, working with
+* [Why we decided to build Ludus on top of Heroku](https://hackernoon.com/why-we-decided-to-build-ludus-on-top-of-heroku-1e20254c922f) (Oct 3, 2017) - And how it dramatically helped us to go from nothing to the top of Product Hunt in 4 months.
+
+* [Deploying Java Apps on Heroku](https://devcenter.heroku.com/articles/deploying-java)
+
+### How Heroku works
+[How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works) - This is a high-level, technical description of how Heroku works. It ties together many of the concepts you’ll encounter while writing, configuring, deploying and running applications on the Heroku platform.
+
+The concepts explained in the post can be divided into two buckets: those that involve the development and deployment of an application, and those that involve the runtime operation of the Heroku platform and the application after it’s deployed.
+
+The following two sections recapitulate the main components of the platform, separating them into these two buckets.
+
+
+
+
+## Tools
+* [Enchant](https://www.enchant.com/) by [Vinay Sahni](http://www.vinaysahni.com/) - Our mission is to help growing companies deliver exceptional support to each and every customer. Traditional **help desks** are way too complicated. We are fixing that, once and for all.
 
 
 ## Fonts for Logo
@@ -75,17 +99,6 @@ Starting from this Meetup Group:
 * [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
 * [Sensey](http://nisrulz.github.io/sensey/) - Android library which makes detecting gestures a breeze. The library is built for simplicity and ease of use. It eliminates most boilerplate code for dealing with setting up gesture detection on Android.
 
-
-## Startup Europe
-* [EU-Startups](http://www.eu-startups.com/) - it is one of the leading startup blogs in Europe and was founded in October of 2010. We write about internet and tech startups out of Europe and provide our readers with data-driven analysis, interviews and startup-related news. In addition to our focus on young technology companies, we also publish other kinds of news out of the tech-space that has a commercial or cultural impact on startups in Europe.
-
-
-## About C++
-* [Modernes C++](http://www.modernescpp.com/) by [Rainer Grimm](https://github.com/RainerGrimm)
-	* [Overview](http://www.modernescpp.com/index.php/modern-c) - This page is the starting point for my blog Modernes C++. A simple overview of my existing and upcoming posts. This overview serves two purposes. At first, the structure gives you in one view an overview, which posts are already written and how you can find them. At second, I give you an outline of all posts, which will be written. I will successively refine the outline to make the future of this post transparent. This purpose is a more challenging task for me.
-* [Multithreading with C++17 and C++20](http://www.modernescpp.com/index.php/multithreading-in-c-17-and-c-20) - Forecasts about the future are difficult. In particular, when they are about C++20. Nevertheless, I will take a look into the crystal ball and will write in the next posts about, what we will get with C++17  and we can hope for with C++20.
-* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) - The NVIDIA® CUDA® Toolkit provides a comprehensive development environment for C and C++ developers building GPU-accelerated applications. The CUDA Toolkit includes a compiler for NVIDIA GPUs, math libraries, and tools for debugging and optimizing the performance of your applications. You’ll also find programming guides, user manuals, API reference, and other documentation to help you get started quickly accelerating your application with GPUs.
-* [CUDA Toolkit Documentation v8.0](http://docs.nvidia.com/cuda/#axzz4ZW2SB9h4) - installation guides and programming guides.
 
 
 
