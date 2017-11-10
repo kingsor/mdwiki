@@ -4,9 +4,7 @@
 * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [10 Object Oriented Design Principles Java Programmer should know](http://javarevisited.blogspot.de/2012/03/10-object-oriented-design-principles.html)
 * [Introduction to Object Oriented Programming Concepts (OOP) and More](http://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
-* [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-* [JavaBeat Design Patterns Articles](http://www.javabeat.net/tag/design-patterns/)
-* [Design Patterns Interview Questions](http://www.javabeat.net/design-patterns-interview-questions/)
+
 
 ## SOLID
 S.O.L.I.D. is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, popularly known as Uncle Bob.
@@ -32,18 +30,21 @@ These principles, when combined together, make it easy for a programmer to devel
 * [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
 
 
-
 ## Design Patterns
 
 [Design patterns implemented in Java](http://java-design-patterns.com/) - usefull collection of 93 patterns ([source code on GitHub](https://github.com/iluwatar/java-design-patterns))
 
-A design pattern is a solution to a general software problem within a particular context.
+> A design pattern is a solution to a general software problem within a particular context.
 
-* Context : A recurring set of situations where the pattern applies.
+> * Context : A recurring set of situations where the pattern applies.
 * Problem : A system of forces (goals and constraints) that occur repeatedly in this context.
 * Solution : A description of communicating objects and classes (collaboration) that can be applied to resolve those forces.
 
-Design patterns capture solutions that have evolved over time as developers strive for greater flexibility in their software. Whereas class libraries are reusable source code, and components are reusable packaged objects, patterns are generic, reusable design descriptions that are customized to solve a specific problem. The study of design patterns provides a common vocabulary for communication and documentation, and it provides a framework for evolution and improvement of existing patterns.
+> Design patterns capture solutions that have evolved over time as developers strive for greater flexibility in their software.  
+
+> Whereas class libraries are reusable source code, and components are reusable packaged objects, patterns are generic, reusable design descriptions that are customized to solve a specific problem.  
+
+> The study of design patterns provides a common vocabulary for communication and documentation, and it provides a framework for evolution and improvement of existing patterns.
 
 
 * Creational patterns (5)
@@ -73,4 +74,3 @@ Design patterns capture solutions that have evolved over time as developers stri
 	* Strategy
 	* Template Method
 	* Visitor
-

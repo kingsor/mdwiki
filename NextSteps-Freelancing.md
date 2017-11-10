@@ -14,15 +14,66 @@
 * [Coworking Login](http://www.coworkinglogin.it/milano/) (Metro M1 - vicino alla fermata Gorla) - Login Milano è il più grande coworking tecnologico della città: 1.450 mq all’interno di una fonderia artistica, con accesso ai servizi di un Internet Service Provider.
 * [Il coworking di Open](http://www.openmilano.com/it/coworking/) (Zona Porta Romana) - Coworking Agile: La soluzione flessibile ed economica per i professionisti che scelgono la condivisione informale nello spazio cultural – feeling del Bookstore e la possibilità di accedere all’area Business con sconti dedicati. Costo: 39 euro/mese - annuale 390 euro.
 * [YoRoom](http://www.yoroom.it/) (Quartiere Isola) - Yoroom è uno spazio di lavoro condiviso che ha l’ambizione di diventare una Comunità Socialmente Responsabile. Scoperto navigando sul sito di [NemboWeb](http://nemboweb.com/) Web Agency (by Marta Petrella).
+* [Büro37 - Coworking a Legnago, Verona](http://buro37.com/) - Già sede operativa di architetti, designer e sviluppatori web, l'area di 300mq comprende 2 uffici privati, una sala riunioni, zona break e un loft con 12 ampie postazioni di lavoro. Trovandosi nel centro di Legnago l'ufficio è facilmente raggiungibile in treno, auto e autobus. Postazione open space € 190/mese o € 20/giorno
 
 
-## Working remotely
-* [The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/) (Apr 8, 2015) - We all have been greatly helped by Scrum and the Agile manifesto. It freed us from waterfall planning and excessive process. But working remotely and continuous delivery need something more. At GitLab we love to work remotely, but that means we need to communicate as effectively as possible. The following are GitLab's eight principles for modern teams working remotely.
+### Remote Job Boards
+* [We Work Remotely - Programming Jobs](https://weworkremotely.com/categories/2-programming/jobs#intro) - is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.
+* [Remote Jobs](https://workfrom.co/remote-jobs) by [WorkFrom](https://workfrom.co/) - Interested in becoming a remote worker or looking for a job you can do anywhere? We’ve rounded up the best resources for finding a location independent job for remote and flex-time employees and independent freelancers.
+* [Remoteur](http://www.remoteur.com/) - Remote jobs in Europe delivered to your inbox bi-weekly, curated by @[ailith](https://twitter.com/ailith).
+
+
+### Remote Work Resources
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
+* [DevCraft Weekly](https://devcraftweekly.com/) - A Weekly Newsletter on the Art, Craft and Lifestyle of Software Engineering
+
+
+### Stories
+* [Indie Hackers](https://www.indiehackers.com/) - Get the latest and greatest from Indie Hackers.
+* [Failory](https://failory.com/) - Learn From Failed Startups. Did you know that there is a 90% rate of failure at the beginning of new businesses? These businesses are the famous "failed startups". The good news is that it is possible to fail and start again. The key is to have useful information, in order to avoid committing the same mistakes you, or other entrepreneurs had made.
+
+
+### Companies working remotely
+* [Mobile Jazz](https://mobilejazz.com/) [GitHub](https://github.com/mobilejazz) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona and other offices in the US, Dubai, Germany, Mexico, Thailand, Indonesia, Italy, Brazil, South Africa.
+    * [Five Years of Mobile Jazz – Why We Don’t Want to Be Google](https://optimizingforhappiness.com/five-years-of-mobile-jazz-why-we-dont-want-to-be-google/) (Jul 12, 2017) - Mobile Jazz recently celebrated it’s 5th anniversary and we thought this would be a good time to look both back to where we’ve been and to where we are headed. To do this, I sat down with our two founders, Stefan Klumpp and Jordi Giménez, and talked through the history of the company, what motivates them, and where they want to go from here.
+* [Toggl](https://toggl.com/) - Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it. Toggl drives a stake in the heart of timesheets. They work as a distributed team. 
+    * [Jobs](https://jobs.toggl.com/) - "*We believe great people will make awesome stuff anywhere. New York, São Paulo, or a quiet village near Florence. No need to move for your dream job. We hire globally. You work locally.*" - [Work on Toggl Backend](https://jobs.toggl.com/togglbackend)
+* [Buffer]
+* [GitLab](https://about.gitlab.com/) - [Blog](https://about.gitlab.com/blog/) - GitLab Inc. is a company based on the GitLab open-source project. GitLab is an integrated product that unifies issues, code review, CI and CD into a single UI. GitLab Inc. offers self hosted products and SaaS plans for GitLab.com. GitLab is an open source project with a large community. Over 1700 people worldwide have contributed to GitLab! GitLab Inc. is an active participant in this community.
+* [Automattic]
+
+
+### Working Remotely
+* [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
 * [7 Remote Work Trends to take into consideration in 2017](http://remoters.net/remote-work-trends-2017)
 * [How to work Remotely with 150+ people](https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c) (Jan 3, 2016) - Work asynchronously, keep a single source of truth, avoid management overhead and communicate.
 * [Working Remotely at GitLab: An update](https://about.gitlab.com/2016/03/04/remote-working-gitlab/) (Mar 4, 2016) - In April 2015, we published the Remote Manifesto on our blog. There were 9 people in the company at that time, which means we've grown over 600% during that time, with 54 people on our team as I write this.
-* [How to Remote](https://dev.to/andydangerous/how-to-remote) (Feb 15, 2017) - Working with a remote team has many advantages. It can also be hard to do effectively. This post is how to remote. As for why, maybe I'll cover that in the future.
 * [How to Find and Get Hired for a Remote Job](https://zapier.com/blog/remote-work-jobs/) (Jan 31, 2017) - For many people, remote work is the ideal way to work. You get the income stability and benefits of being an employee, plus the freedom to work wherever fits you best. You get to ditch the soul-crushing commute and, yes, work in your pajamas if you like. Before you throw out all your suits, though, you have to land the job. Here at Zapier, we're a 100% remote team and we get many applicants for our job openings. In our Customer Champion roles, for example, only 2% of applicants get a job fit interview and only 0.4% are hired. We're as picky as Yale–and so are other employers.
+* [How we stay connected as a remote company - GitLab](https://about.gitlab.com/2016/12/05/how-we-stay-connected-as-a-remote-company/) (Dec 5, 2016) - Open communication and strong relationships are key to our company culture – here's how we achieve these remotely.
+* [Working Remotely at GitLab: An update](https://about.gitlab.com/2016/03/04/remote-working-gitlab/) (Mar 4, 2016) - In April 2015, we published the Remote Manifesto on our blog. There were 9 people in the company at that time, which means we've grown over 600% during that time, with 54 people on our team as I write this.
+* [The Remote Manifesto  GitLab](https://about.gitlab.com/2015/04/08/the-remote-manifesto/) (Apr 8, 2015) - At GitLab we love to work remotely, but that means we need to communicate as effectively as possible. The following are GitLab's eight principles for modern teams working remotely.
+
+
+### Remote Working Job Hours
+* [Se potessi scegliere gli orari e giorni in cui lavori, quali sarebbero?](https://www.facebook.com/groups/lavoratori.in.remote/permalink/1503307409762185/) by [Christopher Pecoraro](https://www.facebook.com/chrispecoraro) - Nice thread about best job hours. Many different experiences from many people.
+    * [Irventu](http://irventu.com/) - the label that Chris works with
+    * [Remote Work Conference](http://remoteworkingconf.com/) - Live Streaming Online Conference co-organized by Chris
+
+
+### Tips for Remote Working
+Provided by [Hotjar](https://www.hotjar.com/) on the public Confluence Pages.  
+Take the [following suggestions](https://hotjar.atlassian.net/wiki/spaces/REC/pages/32271037/Tips+for+Remote+Working) and make them your own! You are also welcome to add your suggestions to the following list. Kindly email any suggestions you’d like to share to Operations.
+
+* Force yourself to take scheduled breaks (e.g. https://cirillocompany.de/pages/pomodoro-technique).
+* Don’t have a break on your computer: get up, exercise, go out for a walk, do something else.
+* Disconnect a few hours a day.
+* Schedule your day. You can add your tasks to your calendar. This helps you focus and time-box properly.  (It can still be flexible).
+* Use the calendar to block/assign time to friends and family (You could block time to meet a friend or have dinner with your family).
+* Enjoy small rewards for accomplished tasks.
+* If you cannot focus: stop working, go out to clear your mind. Solutions will come to you when you’re not in front of a desk.
+* Use time management apps to review your productivity and pinpoint activities that are distracting you.
+
+
 
 ## Resume
 * [JSON Resume](http://jsonresume.org/)  

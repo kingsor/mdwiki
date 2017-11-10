@@ -11,6 +11,7 @@
 
   * [Tech Blog](NextSteps-TechBlog.md)
   * [Opened Tabs](NextSteps-OpenedTabs.md)
+  * [Resources](NextSteps-Resources.md)
   * [Peopleware](NextSteps-Peopleware.md)
   * [Quotes](NextSteps-Quotes.md)
   ----

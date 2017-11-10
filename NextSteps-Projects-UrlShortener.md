@@ -6,15 +6,18 @@ Scott Hanselman shows how [This URL shortener situation is officially out of con
 
 The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to get started with MongoDB and C#.
 
-* [The ultimate list of the 11 best url shortener services](https://www.intelligenteconomist.com/url-shortener-services/)
-    * [Google Url Shortener](https://goo.gl/)
-    * [Bitly](https://bitly.com/) - Bitly offers a free and enterprise version of their URL shortening service. No signup necessary but creating an account allows you to manage links easily and create custom URL. The enterprise version offers you to use your own vanity domain like Verizon’s vz.to or The New York Times’ nyti.ms. Other features of the enterprise version include in-depth analytics, better mobile experience, and user management.
-    * [TinyUrl](https://tinyurl.com/) - A simple shortener that requires no sign-up and allows users to customize the keyword. The service is free to use, but there is no analytics.
-    * [Tiny.cc](https://tiny.cc/) - A popular and free service that can log basic statistics for each short URL. Tiny.cc also allows you to create a custom URL.
-    * [Livechat Url Shortener](https://www.livechatinc.com/url-shortener/) - The mighty URL shortener is a free link shortener that offers a unique feature – built-in URL builder that lets you tag your links with UTM parameters. Also, it allows you to customize your short URL string, save the links you’ve shortened and track number of clicks they generated (the last two requires login with your Facebook account).
-    * [Is.gd](http://is.gd/) - A simple and very short URL is.gd also allows you to customize your short URL. No sign up required. You can log statistics from their links.
-    * [Soo.gd](http://soo.gd/) - Free and easy to use link shortener that allows you to customize the suffix of the URL. However, there is no analytics.
-    * [s2r.co](http://s2r.co/) - This service offers no statistics and no customization. However, no sign up required.
+### The ultimate list of the 11 best url shortener services
+[The ultimate list of the 11 best url shortener services](https://www.intelligenteconomist.com/url-shortener-services/)
+
+* [Google Url Shortener](https://goo.gl/)
+* [Bitly](https://bitly.com/) - Bitly offers a free and enterprise version of their URL shortening service. No signup necessary but creating an account allows you to manage links easily and create custom URL. The enterprise version offers you to use your own vanity domain like Verizon’s vz.to or The New York Times’ nyti.ms. Other features of the enterprise version include in-depth analytics, better mobile experience, and user management.
+* [TinyUrl](https://tinyurl.com/) - A simple shortener that requires no sign-up and allows users to customize the keyword. The service is free to use, but there is no analytics.
+* [Tiny.cc](https://tiny.cc/) - A popular and free service that can log basic statistics for each short URL. Tiny.cc also allows you to create a custom URL.
+* [Livechat Url Shortener](https://www.livechatinc.com/url-shortener/) - The mighty URL shortener is a free link shortener that offers a unique feature – built-in URL builder that lets you tag your links with UTM parameters. Also, it allows you to customize your short URL string, save the links you’ve shortened and track number of clicks they generated (the last two requires login with your Facebook account).
+* [Is.gd](http://is.gd/) - A simple and very short URL is.gd also allows you to customize your short URL. No sign up required. You can log statistics from their links.
+* [Soo.gd](http://soo.gd/) - Free and easy to use link shortener that allows you to customize the suffix of the URL. However, there is no analytics.
+* [s2r.co](http://s2r.co/) - This service offers no statistics and no customization. However, no sign up required.
+
 
 ### Resources
 * [Let's build a URL Shortener with Node, MongoDB and Hapi.js](https://codetuts.tech/build-a-url-shortener-node-hapi-js/) (Aug 6, 2016) - tutorial about creating a url shortener web api with node.js, hapi.js and mongodb.

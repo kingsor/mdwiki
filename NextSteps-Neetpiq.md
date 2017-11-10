@@ -24,7 +24,6 @@
 
 ## Heroku, working with
 * [Why we decided to build Ludus on top of Heroku](https://hackernoon.com/why-we-decided-to-build-ludus-on-top-of-heroku-1e20254c922f) (Oct 3, 2017) - And how it dramatically helped us to go from nothing to the top of Product Hunt in 4 months.
-
 * [Deploying Java Apps on Heroku](https://devcenter.heroku.com/articles/deploying-java)
 
 ### How Heroku works

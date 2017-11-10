@@ -1,23 +1,20 @@
 # NextSteps TechBlog
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-
-```javascript
-var hello = function () {
-    // say hello
-    alert('Hello world!');
-}
-```
+### Post Topics
+* Upwork
+* Toptal
+* Spring
+* Vue.js
+* Microservices Architecture
+* Rest Services
+* Docker
+* Kubernetes
+* Unit testing
+	* JUnit
+	* Integration Testing
 
 
 ## Sep 29, 2017
-
 Learning how to deploy my first-spark-app on heroku. I'd like to publish a post about that.
 
 ## Sep 23, 2017
@@ -628,3 +625,20 @@ Here are some usefull links in order to implement the features I figured out for
 * [SampleWindowsService / SampleService.cs](https://bitbucket.org/delarou/blogsamples/src/482fbab1bcbeef27e8dfc85462e196a18dc9606c/TopshelfSample/SampleWindowsService/SampleService.cs?at=default&fileviewer=file-view-default) - sample service class
 * [Creating Microservices Using NancyFX](http://www.codeguru.com/columns/dotnet/creating-microservices-using-nancyfx.html)
 
+
+## Code Highlight and other stuff
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+```javascript
+var hello = function () {
+    // say hello
+    alert('Hello world!');
+}
+```
