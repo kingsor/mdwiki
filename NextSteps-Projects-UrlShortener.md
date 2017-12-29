@@ -1,10 +1,12 @@
 # URL shortener
 
 ## The project
-[on url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.  
+[On url shorteners](http://joshua.schachter.org/2009/04/on-url-shorteners) (Apr 2009) - pro and cons of url shortener services.  
 Scott Hanselman shows how [This URL shortener situation is officially out of control](http://www.hanselman.com/blog/ThisURLShortenerSituationIsOfficiallyOutOfControl.aspx).
 
 The idea started time ago but was awaked by this post [Frictionless .NET Web App Development with Nancy](http://www.horsdal-consult.dk/2011/10/frictionless-net-web-app-development.html) that I read looking for a sample for learning how to get started with MongoDB and C#.
+
+Here are usefull infos about [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) on Wikipedia.
 
 ### The ultimate list of the 11 best url shortener services
 [The ultimate list of the 11 best url shortener services](https://www.intelligenteconomist.com/url-shortener-services/)

@@ -26,6 +26,8 @@
 ## Inspirations
 Reading [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), I found Enchant.
 
+
+### Customer Support
 * [Enchant ](https://www.enchant.com/) - Our mission is to help growing companies deliver exceptional support to each and every customer. Traditional help desks are way too complicated. We are fixing that, once and for all.
   * [Blog](https://www.enchant.com/blog)
   * [Developers](http://dev.enchant.com/)

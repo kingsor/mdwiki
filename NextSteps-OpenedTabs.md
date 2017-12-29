@@ -21,11 +21,6 @@
 * [Working with asynchronous methods in C#](http://gigi.nullneuron.net/gigilabs/working-with-asynchronous-methods-in-c/) (Oct 1, 2017) - In this article, we’ll go through various different scenarios in which async/await can be used.
 
 
-## Working Remotely
-* [How we stay connected as a remote company](https://about.gitlab.com/2016/12/05/how-we-stay-connected-as-a-remote-company/) (Dec 5, 2016) - Open communication and strong relationships are key to our company culture – here's how we achieve these remotely.
-* [The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/) (Apr 8, 2015) - At GitLab we love to work remotely, but that means we need to communicate as effectively as possible. The following are GitLab's eight principles for modern teams working remotely.
-* [Working Remotely at GitLab: An update](https://about.gitlab.com/2016/03/04/remote-working-gitlab/) (Mar 4, 2016) - In April 2015, we published the Remote Manifesto on our blog. There were 9 people in the company at that time, which means we've grown over 600% during that time, with 54 people on our team as I write this.
-
 
 ### AWS, working with
 * [10-Minute Tutorials](https://aws.amazon.com/getting-started/tutorials) - 10-Minute Tutorials are simple “Hello, World!” technical documents to help you get hands-on with AWS.
@@ -34,11 +29,6 @@
 
 ## Apache Kafka, about
 * [Introduction to Apache Kafka](https://kafka.apache.org/intro.html) - Apache Kafka™ is a distributed streaming platform. What exactly does that mean?
-
-
-## Freelancing
-* [How i freelance? attributes required for full time freelancing](http://www.michaelhoughton.com/article/how-i-freelance-attributes-required-for-full-time-freelancing) (Nov 10, 2016) - very usefull post where the author describes his way of working (working hours, workflow, and more).
-* [Upwork Account](https://www.upwork.com/o/profiles/users/_~015ba639bc977596b5/)
 
 
 ## Heroku, working with

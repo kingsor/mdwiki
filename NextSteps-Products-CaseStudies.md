@@ -6,8 +6,11 @@
 * [Jeroen Mols](http://jeroenmols.com/blog) - nice site with presentation page and blog page using Hyde Theme
 
 
-## Enchant
-
+## Enchant - Customer Support
+* [Enchant ](https://www.enchant.com/) - Our mission is to help growing companies deliver exceptional support to each and every customer. Traditional help desks are way too complicated. We are fixing that, once and for all.
+  * [Blog](https://www.enchant.com/blog)
+  * [Developers](http://dev.enchant.com/)
+  * [Zendesk Alternative](https://www.enchant.com/zendesk-alternative)
 
 
 ## Cheddar App
